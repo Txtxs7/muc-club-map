@@ -111,10 +111,12 @@ export async function enrichArtists(names, cache, overrides = {}, maxAgeDays = 3
     if (fresh && !spotifyMissing && !ov.force) continue;
 
     const result = { name, updatedAt: new Date().toISOString() };
+    let deezerFailed = false;
     try {
       if (ov.deezerId === null) result.deezer = null;
       else result.deezer = ov.deezerId ? await deezerById(ov.deezerId) : await deezerArtist(name);
     } catch (e) {
+      deezerFailed = true;
       console.warn(`  Deezer-Fehler bei ${name}: ${e.message}`);
       result.deezer = entry?.deezer ?? null;
     }
@@ -130,6 +132,8 @@ export async function enrichArtists(names, cache, overrides = {}, maxAgeDays = 3
     } else if (entry?.spotify !== undefined) {
       result.spotify = entry.spotify;
     }
+    // Bei Netzwerkfehler keinen leeren 30-Tage-Cacheeintrag anlegen
+    if (deezerFailed && !entry && !result.spotify) continue;
     cache[key] = result;
     done++;
     await sleep(250);

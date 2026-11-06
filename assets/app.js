@@ -263,26 +263,36 @@ function renderVenue() {
       <div class="addr">${esc(v.address)} · ${v.distanceKm} km vom Zentrum</div>
       <div class="links">
         <a href="${route}" target="_blank" rel="noopener">Route ↗</a>
-        ${safeUrl(v.url) ? `<a href="${esc(v.url)}" target="_blank" rel="noopener">Venue auf RA ↗</a>` : ''}
+        ${safeUrl(v.url) ? `<a href="${esc(v.url)}" target="_blank" rel="noopener">Website / Venue ↗</a>` : ''}
       </div>
     </div>
     ${evs
       .map(
-        (e) => `<article class="event">
+        (e) => {
+          const srcText = e.sources?.length ? `Quelle: ${e.sources.map(esc).join(' + ')}` : '';
+          const ticketLink = safeUrl(e.url) && e.url !== e.igUrl
+            ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">Tickets & Infos ↗</a>`
+            : '';
+          const igLink = safeUrl(e.igUrl)
+            ? `<a href="${esc(e.igUrl)}" target="_blank" rel="noopener">Instagram-Post ↗</a>`
+            : '';
+          const linksHtml = [ticketLink, igLink].filter(Boolean).join(' · ');
+          return `<article class="event">
         <div class="event-head">
-          ${safeUrl(e.flyer) ? `<img class="flyer" src="${esc(e.flyer)}" alt="Flyer" loading="lazy" />` : ''}
+          ${safeUrl(e.flyer) ? `<img class="flyer" src="${esc(e.flyer)}" alt="Flyer" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()" />` : ''}
           <div>
             <div class="event-title">${esc(e.title)}</div>
             <div class="event-time">${formatShort(e.date)} ${esc(e.start || '')}${e.end ? ' – ' + esc(e.end) : ''}</div>
             ${badges(e.styles)}
           </div>
         </div>
-        ${e.reasons?.length ? `<div class="reasons">Erkannt durch: ${e.reasons.map(esc).join(', ')}</div>` : ''}
-        ${safeUrl(e.url) ? `<div class="event-links"><a href="${esc(e.url)}" target="_blank" rel="noopener">Tickets & Infos ↗</a></div>` : ''}
+        ${srcText || e.reasons?.length ? `<div class="reasons">${[srcText, e.reasons?.length ? `Erkannt durch: ${e.reasons.map(esc).join(', ')}` : ''].filter(Boolean).join(' · ')}</div>` : ''}
+        ${linksHtml ? `<div class="event-links">${linksHtml}</div>` : ''}
         <div class="lineup">
           ${e.artists.length ? sortActs(e.artists).map(renderAct).join('') : '<div class="lineup-empty">Line-up noch nicht bekannt.</div>'}
         </div>
-      </article>`,
+      </article>`;
+        },
       )
       .join('')}`;
 }

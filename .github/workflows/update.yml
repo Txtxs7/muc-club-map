@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
   push:
     branches: [main, master]
-    paths-ignore: ['data/events.json', 'data/artists.json', 'data/venue-cache.json']
+    paths-ignore: ['data/events.json', 'data/artists.json', 'data/venue-cache.json', 'data/ig-cache.json']
 
 permissions:
   contents: write

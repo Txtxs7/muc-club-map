@@ -1,10 +1,10 @@
-// Zentrale Konfiguration für den Daten-Build.
+// Zentrale Konfiguration für den Daten-Build (RA + Club-Webseiten + Szenekalender + Instagram).
 
 export const CENTER = { name: 'München Marienplatz', lat: 48.1374, lng: 11.5755 };
 export const RADIUS_KM = 100;
 export const DAYS_AHEAD = 90;
 
-// Resident-Advisor-Areas (IDs via GraphQL `area(areaUrlName, countryUrlCode)` ermittelt)
+// Resident-Advisor-Areas
 export const RA_AREAS = [
   { id: 357, name: 'Bavaria' },
   { id: 151, name: 'Munich' },
@@ -13,7 +13,200 @@ export const RA_AREAS = [
   { id: 693, name: 'Salzburg' },
 ];
 
-// RA-Genres -> unsere Stile (RA hat kein eigenes "Hard Techno"-Genre)
+// Ticket.io-Shops regionaler Clubs (liefern Schema.org MusicEvent JSON-LD inkl. Geo-Koordinaten)
+export const TICKET_IO_SHOPS = ['rotesonne', 'lieberscholli'];
+
+// Öffentliche Instagram-Profile von Münchner/Augsburger Clubs & Hardtechno-/Industrial-/Uptempo-Kollektiven
+export const INSTAGRAM_ACCOUNTS = [
+  // Industrial / Hardtechno / Schranz / Harder-Styles Kollektive (Raum München)
+  { handle: 'nuketekk', label: 'Nuketekk', defaultCity: 'München', defaultStyles: ['hardtechno', 'industrial'] },
+  { handle: 'aphotic.germany', label: 'Aphotic Germany', defaultCity: 'München', defaultStyles: ['industrial', 'hardtechno'] },
+  { handle: 'syndikat.lab', label: 'Syndikat Lab', defaultCity: 'München', defaultStyles: ['industrial', 'hardtechno'] },
+  { handle: 'noexit.muc', label: 'NOEXIT', defaultCity: 'München', defaultStyles: ['hardtechno', 'industrial'] },
+  { handle: 'pulstreiberkollektiv', label: 'Pulstreiber Kollektiv', defaultCity: 'München', defaultStyles: ['hardtechno', 'industrial'] },
+  { handle: 'tanzwut.kollektiv', label: 'Tanzwut Kollektiv', defaultCity: 'München', defaultStyles: ['hardtechno', 'uptempo'] },
+  { handle: 'behaerd', label: 'BeHaerd', defaultCity: 'München', defaultStyles: ['industrial'] },
+  { handle: 'vortex_underground', label: 'Vortex Underground', defaultCity: 'München', defaultStyles: [] },
+  { handle: 'unikat.info', label: 'UNIKAT', defaultCity: 'München', defaultStyles: [] },
+  { handle: 'morph.kollektiv', label: 'Morph Kollektiv', defaultCity: 'München', defaultStyles: [] },
+  { handle: 'raversofmunich', label: 'Ravers of Munich', defaultCity: 'München', defaultStyles: [] },
+  // Clubs mit eigenen Insta-Ankündigungen (v. a. Events, die nicht auf RA stehen)
+  { handle: 'clubrotesonne', label: 'Rote Sonne', defaultVenue: 'rote-sonne', defaultStyles: [] },
+  { handle: 'kesselhaus_augsburg', label: 'Kesselhaus Augsburg', defaultVenue: 'kesselhaus-augsburg', defaultStyles: [] },
+  { handle: '100hz.club', label: '100Hz Club Augsburg', defaultVenue: '100hz-augsburg', defaultStyles: [] },
+  { handle: 'bahnwaerterthiel', label: 'Bahnwärter Thiel', defaultVenue: 'bahnwaerter-thiel', defaultStyles: [] },
+];
+
+// Bekannte Venues in München & Umkreis (für exakte Koordinaten, Deduplizierung & Instagram-Erkennung)
+export const KNOWN_VENUES = {
+  'rote-sonne': {
+    name: 'Rote Sonne',
+    address: 'Maximiliansplatz 5, 80333 München',
+    lat: 48.142465,
+    lng: 11.57027,
+    url: 'https://www.rote-sonne.com/',
+    patterns: [/rote\s*sonne/i, /@clubrotesonne/i],
+  },
+  'bahnwaerter-thiel': {
+    name: 'Bahnwärter Thiel',
+    address: 'Tumblingerstraße 45, 80337 München',
+    lat: 48.123198,
+    lng: 11.554612,
+    url: 'https://www.bahnwaerterthiel.de/',
+    patterns: [/bahnw[äa]e?rter\s*thiel/i, /\bbahni\b/i, /@bahnwaerterthiel/i],
+  },
+  lieberscholli: {
+    name: 'Lieberscholli',
+    address: 'Landsberger Str. 212, 80687 München',
+    lat: 48.14198,
+    lng: 11.51594,
+    url: 'https://lieberscholli.ticket.io/',
+    patterns: [/lieberscholli/i, /@lieberscholli/i],
+  },
+  feierwerk: {
+    name: 'Feierwerk (Sunny Red / Kranhalle / Hansa 39)',
+    address: 'Hansastraße 39–41, 81373 München',
+    lat: 48.12921,
+    lng: 11.52905,
+    url: 'https://www.feierwerk.de/',
+    patterns: [/feierwerk/i, /sunny\s*red/i, /kranhalle/i, /hansa\s*39/i, /@feierwerk_/i],
+  },
+  backstage: {
+    name: 'Backstage München',
+    address: 'Reitknechtstraße 6, 80639 München',
+    lat: 48.14536,
+    lng: 11.52182,
+    url: 'https://backstage.eu/',
+    patterns: [/\bbackstage\b/i, /@backstagemunich/i],
+  },
+  zenith: {
+    name: 'Zenith / Kesselhaus / Kohlebunker',
+    address: 'Lilienthalallee 29, 80939 München',
+    lat: 48.19459,
+    lng: 11.60756,
+    url: 'https://motorworld.de/muenchen/',
+    patterns: [/\bzenith\b/i, /kohlebunker/i, /dampfdom/i, /kesselhaus\s*(m[üu]nchen|freimann)/i],
+  },
+  tonhalle: {
+    name: 'Tonhalle München',
+    address: 'Atelierstraße 24, 81671 München',
+    lat: 48.12472,
+    lng: 11.60611,
+    url: 'https://werksviertel-mitte.de/',
+    patterns: [/\btonhalle\b/i, /atelierstra(ß|ss)e\s*24/i],
+  },
+  blitz: {
+    name: 'Blitz Music Club',
+    address: 'Museumsinsel 1, 80538 München',
+    lat: 48.13063,
+    lng: 11.58416,
+    url: 'https://www.blitz.club/',
+    patterns: [/blitz\s*(music\s*)?club/i, /@blitz_music_club/i],
+  },
+  palais: {
+    name: 'Palais Club',
+    address: 'Arnulfstraße 16–18, 80335 München',
+    lat: 48.141923,
+    lng: 11.555377,
+    url: 'https://www.palaisclub.de/',
+    patterns: [/\bpalais(\s*club)?\b/i],
+  },
+  legal: {
+    name: 'Legal Club',
+    address: 'Thalkirchner Str. 2, 80337 München',
+    lat: 48.13289,
+    lng: 11.56594,
+    patterns: [/\blegal\s*club\b/i, /^legal$/i],
+  },
+  skateschule: {
+    name: 'Skateschule / Skatehalle München',
+    address: 'Hirschgartenallee 25, 80639 München',
+    lat: 48.14695,
+    lng: 11.51505,
+    patterns: [/skateschule\s*m[üu]nchen/i, /skatehalle\s*(m[üu]nchen)?/i, /space\s*for\s*skate/i],
+  },
+  zirka: {
+    name: 'ZIRKA Space',
+    address: 'Dachauer Str. 110c, 80636 München',
+    lat: 48.15662,
+    lng: 11.54718,
+    patterns: [/\bzirka\b/i],
+  },
+  bergson: {
+    name: 'Bergson Kunstkraftwerk',
+    address: 'Am Bergson Kunstkraftwerk 2, 81245 München',
+    lat: 48.15731,
+    lng: 11.43072,
+    patterns: [/\bbergson\b/i],
+  },
+  printhouse: {
+    name: 'Printhouse München',
+    address: 'levelingstraße 8, 81673 München',
+    lat: 48.1281,
+    lng: 11.6295,
+    patterns: [/\bprinthouse\b/i],
+  },
+  'kesselhaus-augsburg': {
+    name: 'Kesselhaus Augsburg',
+    address: 'Riedingerstraße 26i, 86153 Augsburg',
+    lat: 48.38494,
+    lng: 10.88885,
+    url: 'https://kesselhaus.eu/',
+    patterns: [/kesselhaus\s*augsburg/i, /@kesselhaus_augsburg/i],
+  },
+  '100hz-augsburg': {
+    name: '100Hz Club Augsburg',
+    address: 'Fuggerstraße 14, 86150 Augsburg',
+    lat: 48.36652,
+    lng: 10.89658,
+    url: 'https://www.100hz.club/',
+    patterns: [/100\s*h(ert)?z(\s*club)?/i, /@100hz\.club/i],
+  },
+  'the-cave-rosenheim': {
+    name: 'The Cave Rosenheim',
+    address: 'Brianconstraße 5, 83022 Rosenheim',
+    lat: 47.8562,
+    lng: 12.1268,
+    patterns: [/the\s*cave\s*rosenheim/i, /@thecaverosenheim/i],
+  },
+  'rockfabrik-augsburg': {
+    name: 'Rockfabrik Augsburg',
+    address: 'Piccardstraße 6a, 86159 Augsburg',
+    lat: 48.3341,
+    lng: 10.9035,
+    patterns: [/rockfabrik\s*augsburg/i],
+  },
+  'gaswerk-augsburg': {
+    name: 'Gaswerk Augsburg',
+    address: 'Am Alten Gaswerk 7, 86156 Augsburg',
+    lat: 48.3801,
+    lng: 10.8712,
+    patterns: [/gaswerk\s*augsburg/i, /alten\s*gaswerk/i],
+  },
+  'hallo-werner': {
+    name: 'Hallo Werner Augsburg',
+    address: 'Schrannenstraße 8, 86150 Augsburg',
+    lat: 48.365375,
+    lng: 10.89624,
+    patterns: [/hallo\s*werner/i],
+  },
+  'nachtcafe-freising': {
+    name: 'Nachtcafé Freising',
+    address: 'Untere Hauptstraße 52, 85354 Freising',
+    lat: 48.3997,
+    lng: 11.7443,
+    patterns: [/nachtcaf[eé]\s*(in\s*)?freising/i],
+  },
+  'secret-munich': {
+    name: 'Secret Location (München)',
+    address: 'München (genaue Adresse über Veranstalter/Insta)',
+    lat: 48.1374,
+    lng: 11.5755,
+    patterns: [/secret\s*location.*m[üu]nchen/i],
+  },
+};
+
+// RA-Genres -> unsere Stile
 export const GENRE_MAP = {
   Industrial: ['industrial'],
   EBM: ['industrial'],
@@ -26,26 +219,106 @@ export const GENRE_MAP = {
 // Genres, die ein Event als "möglicherweise passend" markieren (unsicher)
 export const WEAK_GENRES = ['Techno', 'Acid', 'Minimal Techno'];
 
-// Schlüsselwörter in Titel / Beschreibung
+// Schlüsselwörter in Titel / Beschreibung / Instagram-Caption
 export const KEYWORDS = [
-  { re: /hard\s*-?\s*techno|hardtek|schranz|hard\s*-?\s*groove|rave\s*techno|warehouse\s*techno/i, styles: ['hardtechno'] },
-  { re: /industrial|\bebm\b|dark\s*techno/i, styles: ['industrial'] },
-  { re: /up\s*-?\s*tempo|hard\s*dance|hardstyle|hardcore|gabber|frenchcore|hard\s*drum|\b1[4-9]\d\s*\+|\b1[4-9]\d\s*bpm|\b135\s*\+/i, styles: ['uptempo'] },
+  {
+    re: /hard\s*-?\s*techno|hard\s*-?\s*tek+|\btanztekk\b|\btekk\b|schranz|schranzbox|hard\s*-?\s*groove|hard\s*bounce|rave\s*techno|warehouse\s*techno|\bnuketekk\b|\baphotic\b|\bnoexit\b/i,
+    styles: ['hardtechno'],
+  },
+  {
+    re: /industrial|\bebm\b|dark\s*techno|aggrotech|dark\s*electro|electro[\s-]*industrial|rhythmic\s*noise|coldwave|dark\s*infection|\bunterwelt\b|\buntreated\b|collapse\s*cult|syndikat\.?\s*lab|beton[,\s]+verzerrung|vnv\s*nation|front\s*242|nitzer\s*ebb/i,
+    styles: ['industrial'],
+  },
+  {
+    re: /up\s*-?\s*tempo|hard\s*dance|harder\s*-?\s*styles|hardstyle|rawstyle|hardcore|gabber|frenchcore|terrorcore|hard\s*drum|\b1[4-9]\d\s*\+|\b1[4-9]\d\s*bpm|\b135\s*\+/i,
+    styles: ['uptempo'],
+  },
 ];
 
-// Bekannte Acts -> Stil. Frei erweiterbar (Groß-/Kleinschreibung egal).
+// Instagram-Handle -> Künstlername (für Line-up-Erkennung aus IG-Posts)
+export const IG_HANDLE_TO_ARTIST = {
+  somewhensrx: 'Somewhen',
+  noisenotwar: 'Noise Not War',
+  'anthony.linell': 'Anthony Linell',
+  'obscure.shape': 'Obscure Shape',
+  bollmann_: 'Bollmann',
+  thereisnotomorrow_dj: 'There Is No Tomorrow',
+  'thereisnotomorrow.dj': 'There Is No Tomorrow',
+};
+
+// Bekannte Acts -> Stil. Frei erweiterbar (Groß-/Kleinschreibung & Umlaute egal).
 export const ARTIST_STYLES = {
-  // Hardtechno / Rave
+  // ---------- Industrial / Dark Techno / EBM ----------
+  'Kobosil': ['industrial', 'hardtechno'],
+  'Somewhen': ['industrial'],
+  'Rikhter': ['industrial'],
+  'In Verruf': ['industrial', 'hardtechno'],
+  'I Hate Models': ['industrial', 'hardtechno'],
+  '999999999': ['hardtechno', 'industrial'],
+  'Paula Temple': ['industrial'],
+  'Perc': ['industrial'],
+  'Octor': ['industrial'],
+  'SNTS': ['industrial'],
+  'Ancient Methods': ['industrial'],
+  'VTSS': ['industrial'],
+  'Rebekah': ['industrial', 'hardtechno'],
+  'Schrotthagen': ['industrial', 'hardtechno'],
+  'Vendex': ['industrial', 'hardtechno'],
+  '6EJOU': ['industrial', 'hardtechno'],
+  'CARV': ['industrial', 'hardtechno'],
+  'SHDW': ['industrial', 'hardtechno'],
+  'Obscure Shape': ['industrial', 'hardtechno'],
+  'Shdw & Obscure Shape': ['industrial'],
+  'Luciid': ['industrial', 'hardtechno'],
+  'Johannes Schuster': ['industrial', 'hardtechno'],
+  'Überrest': ['industrial', 'hardtechno'],
+  'Ornella': ['industrial', 'hardtechno'],
+  'Parfait': ['industrial', 'hardtechno'],
+  'Nene H': ['industrial'],
+  'Unhuman': ['industrial'],
+  'Schwefelgelb': ['industrial'],
+  'Phase Fatale': ['industrial'],
+  'Anthony Linell': ['industrial'],
+  'Abdulla Rashim': ['industrial'],
+  'Blawan': ['industrial'],
+  'A.N.I.M.A.': ['industrial'],
+  'Scalameriya': ['industrial'],
+  'Ansome': ['industrial'],
+  ' Manni Dee': ['industrial'],
+  'Manni Dee': ['industrial'],
+  'Tommy Four Seven': ['industrial'],
+  'Headless Horseman': ['industrial'],
+  'Orphx': ['industrial'],
+  'codex empire': ['industrial'],
+  'British Murder Boys': ['industrial'],
+  'Regis': ['industrial'],
+  'Surgeon': ['industrial'],
+  'Helena Hauff': ['industrial'],
+  'SPK': ['industrial'],
+  'Ultra Sunn': ['industrial'],
+  'Twin Noir': ['industrial'],
+  'Nachtmahr': ['industrial'],
+  'Combichrist': ['industrial'],
+  'The Cassandra Complex': ['industrial'],
+  'Ministry': ['industrial'],
+  'Die Krupps': ['industrial'],
+  'Front 242': ['industrial'],
+  'Nitzer Ebb': ['industrial'],
+  'VNV Nation': ['industrial'],
+  'Solar Fake': ['industrial'],
+  'Kruelty': ['industrial', 'uptempo'],
+
+  // ---------- Hardtechno / Schranz / Rave ----------
   'Nico Moreno': ['hardtechno'],
-  'Dyen': ['hardtechno'],
+  'Dyen': ['hardtechno', 'industrial'],
   'Trym': ['hardtechno'],
   'Holy Priest': ['hardtechno'],
-  'Klangkuenstler': ['hardtechno'],
+  'Klangkuenstler': ['hardtechno', 'industrial'],
   'Alignment': ['hardtechno'],
-  'Fantasm': ['hardtechno'],
+  'Fantasm': ['hardtechno', 'industrial'],
   'Sara Landry': ['hardtechno'],
   'Dax J': ['hardtechno'],
-  'Kuko': ['hardtechno'],
+  'Kuko': ['hardtechno', 'industrial'],
   'Restricted': ['hardtechno'],
   'Hadone': ['hardtechno'],
   'Shlømo': ['hardtechno'],
@@ -53,41 +326,44 @@ export const ARTIST_STYLES = {
   'Cera Khin': ['hardtechno'],
   'Lacchesi': ['hardtechno'],
   'Funk Tribu': ['hardtechno'],
-  'Charlie Sparks': ['hardtechno'],
+  'Charlie Sparks': ['hardtechno', 'industrial'],
   'Nicolas Julian': ['hardtechno'],
   'Novah': ['hardtechno'],
+  'Onlynumbers': ['hardtechno', 'industrial'],
+  'SLVL': ['hardtechno', 'industrial'],
+  'Oguz': ['hardtechno'],
+  'VCL': ['hardtechno'],
+  'Pawlowski': ['hardtechno'],
+  'Lessss': ['hardtechno', 'industrial'],
+  'Clara Cuvé': ['hardtechno'],
+  'Daria Kolosova': ['hardtechno'],
+  'Héctor Oaks': ['hardtechno'],
   'Kai Pattenberg': ['hardtechno'],
   'Basswell': ['hardtechno', 'uptempo'],
   'Hertz Collision': ['hardtechno'],
-  'Somniac One': ['hardtechno'],
-  'Clara Cuvé': ['hardtechno'],
+  'Somniac One': ['industrial', 'hardtechno'],
   'Ø [Phase]': ['hardtechno'],
   'Chris Liebing': ['hardtechno'],
   'Robert Natus': ['hardtechno'],
   'Viper XXL': ['hardtechno'],
   'Frank Kvitta': ['hardtechno'],
   'Pet Duo': ['hardtechno', 'industrial'],
-  // Industrial
-  'Kobosil': ['industrial', 'hardtechno'],
-  'VTSS': ['industrial'],
-  'I Hate Models': ['industrial', 'hardtechno'],
-  'Ancient Methods': ['industrial'],
-  'Rebekah': ['industrial', 'hardtechno'],
-  'Somewhen': ['industrial'],
-  '999999999': ['hardtechno', 'industrial'],
-  'Paula Temple': ['industrial'],
-  'Perc': ['industrial'],
-  'SNTS': ['industrial'],
-  'Nene H': ['industrial'],
-  'Unhuman': ['industrial'],
-  'Schwefelgelb': ['industrial'],
-  'Phase Fatale': ['industrial'],
-  'Héctor Oaks': ['hardtechno'],
-  'Parfait': ['industrial', 'hardtechno'],
-  'A.N.I.M.A.': ['industrial'],
-  'Shdw & Obscure Shape': ['industrial'],
-  'Blawan': ['industrial'],
-  // Uptempo / Hard Dance
+  'O.B.I.': ['hardtechno', 'industrial'],
+  'Svetec': ['hardtechno'],
+  'Klanglos': ['hardtechno'],
+  'Jan Vercauteren': ['hardtechno'],
+  'Lukas Meunier': ['hardtechno'],
+  'Noise Not War': ['hardtechno', 'industrial'],
+  'Bollmann': ['hardtechno'],
+  'Stormtrooper': ['industrial', 'uptempo'],
+  'Cloudy': ['hardtechno'],
+  'Poltergst': ['hardtechno'],
+  'DJ Dreckisch': ['hardtechno'],
+  '2HOT2PLAY': ['hardtechno'],
+  'Prada2000': ['hardtechno'],
+  'A.N.I.': ['hardtechno'],
+
+  // ---------- Uptempo / Hardcore / Harder Styles ----------
   'Dr. Peacock': ['uptempo'],
   'Sefa': ['uptempo'],
   'Angerfist': ['uptempo'],
@@ -95,13 +371,25 @@ export const ARTIST_STYLES = {
   'Partyraiser': ['uptempo'],
   'Spitnoise': ['uptempo'],
   'Vieze Asbak': ['uptempo'],
-  'Nusha': ['uptempo'],
+  'Dimitri K': ['uptempo'],
+  'Dikke Baap': ['uptempo'],
+  'Dual Damage': ['uptempo'],
+  'Evil Activities': ['uptempo'],
+  'Krowdexx': ['uptempo'],
+  'Anderex': ['uptempo'],
+  'Exproz': ['uptempo'],
+  'Neophyte': ['uptempo'],
+  'Mad Dog': ['uptempo'],
+  'Anime': ['uptempo'],
+  'Negitiv': ['uptempo', 'hardtechno'],
+  'Die Gebrüder Brett': ['uptempo', 'hardtechno'],
+  'Nusha': ['uptempo', 'hardtechno'],
   'Shadowkid': ['uptempo'],
-  'KØZLØV': ['uptempo'],
+  'KØZLØV': ['hardtechno', 'industrial'],
   'Ninja Kore': ['uptempo'],
 };
 
-// Venues, deren Events immer als Hardtechno gelten sollen (optional)
+// Venues, deren Events immer einem bestimmten Stil zugeordnet werden sollen (optional)
 export const VENUE_STYLES = {
   // 'Beispiel-Club': ['hardtechno'],
 };

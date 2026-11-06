@@ -1,4 +1,51 @@
 {
+  "999999999": {
+    "name": "999999999",
+    "updatedAt": "2026-11-06T22:04:32.491Z",
+    "deezer": {
+      "id": 5584486,
+      "link": "https://www.deezer.com/artist/5584486",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/3274a0a4834b06549fde814ebc54e533/250x250-000000-80-0-0.jpg",
+      "fans": 9494,
+      "top": [
+        {
+          "title": "TRIP ON ACID",
+          "album": "TRIP ON ACID",
+          "link": "https://www.deezer.com/track/4323331962",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/f/c/0/2fc042f8330d5f4e4f49308a62ac7e8e.mp3?hdnea=exp=1794003572~acl=/api/1/1/2/f/c/0/2fc042f8330d5f4e4f49308a62ac7e8e.mp3*~data=user_id=0,application_id=42~hmac=41091cf263edf3557f5e8a158fcfb4f8d2728e0a913ba8e0077b6f8e6263b6d5",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b3afd987d218da02895ceee4050d2aa0/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "No Limit",
+          "album": "No Limit",
+          "link": "https://www.deezer.com/track/3878940301",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/b/0/b0b85da9ae888ee4ed3ee114ec8faca5.mp3?hdnea=exp=1794003572~acl=/api/1/1/b/0/b/0/b0b85da9ae888ee4ed3ee114ec8faca5.mp3*~data=user_id=0,application_id=42~hmac=7f1b14688695700d6a77d9989431e24bfb14ce240ab68ba0f75339b31397f52f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/cb5d3e1635032a39f7df8478ff8a7765/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Acid Blood",
+          "album": "Acid Blood",
+          "link": "https://www.deezer.com/track/3355991531",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/f/0/b5f230dcea30f35f39f366ba057d677c.mp3?hdnea=exp=1794003572~acl=/api/1/1/b/5/f/0/b5f230dcea30f35f39f366ba057d677c.mp3*~data=user_id=0,application_id=42~hmac=a4c81644a31406047bf7805649332ed33505893ff02bbf7c020d3fc590398d16",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b602a843816ed39a5dd690d117469029/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "I Got Acid",
+          "album": "I Got Acid",
+          "link": "https://www.deezer.com/track/4037926201",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/c/3/0/8c380d26c7e0b29ad14393efed3acd98.mp3?hdnea=exp=1794003572~acl=/api/1/1/8/c/3/0/8c380d26c7e0b29ad14393efed3acd98.mp3*~data=user_id=0,application_id=42~hmac=836012d10f4f2398d2ccd95758104ee9a89eadaaa56995eb5dd1d92aea7541c0",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3274a0a4834b06549fde814ebc54e533/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Hide My Love",
+          "album": "White Devils EP",
+          "link": "https://www.deezer.com/track/75714216",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/c/0/5ec9d4ea7ae89e87bbd8e762c88800ad.mp3?hdnea=exp=1794003572~acl=/api/1/1/5/e/c/0/5ec9d4ea7ae89e87bbd8e762c88800ad.mp3*~data=user_id=0,application_id=42~hmac=cf9854300915931171a6742b11880166ba87b38201d93ee0187305989d0937ce",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b5d46ad503e57fbd151ea368cde09e29/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
   "aircraft": {
     "name": "Aircraft",
     "updatedAt": "2026-11-06T20:33:23.542Z",
@@ -4191,5 +4238,1187 @@
         }
       ]
     }
+  },
+  "almedina": {
+    "name": "Almedina",
+    "updatedAt": "2026-11-06T22:04:19.670Z",
+    "deezer": null
+  },
+  "massai": {
+    "name": "Massaï",
+    "updatedAt": "2026-11-06T22:04:20.212Z",
+    "deezer": {
+      "id": 74164,
+      "link": "https://www.deezer.com/artist/74164",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/60bc12c7072bd4e60ee628d6f81f333a/250x250-000000-80-0-0.jpg",
+      "fans": 114,
+      "top": []
+    }
+  },
+  "olli rubber": {
+    "name": "Olli Rubber",
+    "updatedAt": "2026-11-06T22:04:20.721Z",
+    "deezer": null
+  },
+  "alignment": {
+    "name": "Alignment",
+    "updatedAt": "2026-11-06T22:04:21.083Z",
+    "deezer": {
+      "id": 1649557,
+      "link": "https://www.deezer.com/artist/1649557",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/0e3f06f92ff06cedc2d1d9dddd345331/250x250-000000-80-0-0.jpg",
+      "fans": 7355,
+      "top": [
+        {
+          "title": "Disconnection",
+          "album": "Power EP",
+          "link": "https://www.deezer.com/track/2206376457",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/8/8/0/18816e1e2adc366d6a3cda86a8530118.mp3?hdnea=exp=1794003561~acl=/api/1/1/1/8/8/0/18816e1e2adc366d6a3cda86a8530118.mp3*~data=user_id=0,application_id=42~hmac=60b65453d4830247e77d286ff6d22cbc2fdfe8c9726b874b437646bfa1650702",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e24fe5866870ab462baaf525bf0fb11b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Injection",
+          "album": "Nothingness EP",
+          "link": "https://www.deezer.com/track/2206316667",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/1/0/781d4f8c2c9c4f4e8dc7b2aa356a4a0a.mp3?hdnea=exp=1794003561~acl=/api/1/1/7/8/1/0/781d4f8c2c9c4f4e8dc7b2aa356a4a0a.mp3*~data=user_id=0,application_id=42~hmac=4b1ef6769ccdaeee13069b06f947d9208f42ee0f60e9dbb996afee4354de4c2d",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/5c871ecb7844e844a12b7267cb86c981/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Hidden Frequencies",
+          "album": "Hidden Frequencies EP",
+          "link": "https://www.deezer.com/track/3611222502",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/1/6/0/71682da64d68c3fb046cae948fa02ace.mp3?hdnea=exp=1794003561~acl=/api/1/1/7/1/6/0/71682da64d68c3fb046cae948fa02ace.mp3*~data=user_id=0,application_id=42~hmac=98fa14886dfa498cf97eb362d98f978bdd95fffe21f40974c627c3d35dff944a",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/fffc7614b7552fe48b740d57e1dfa3a2/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Malfunction",
+          "album": "Malfunction",
+          "link": "https://www.deezer.com/track/2618833752",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/a/0/5eaee283fdd5c0e6294130fa1d9cc198.mp3?hdnea=exp=1794003561~acl=/api/1/1/5/e/a/0/5eaee283fdd5c0e6294130fa1d9cc198.mp3*~data=user_id=0,application_id=42~hmac=97a317817d0b92f11e4c019a6caa8f83d1cd37335e9e2a1d2ccd66b265d53554",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/4c3ecbda87874cdae21856a9b003a026/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Dance for Me",
+          "album": "Close Your Eyes EP",
+          "link": "https://www.deezer.com/track/2230972037",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/d/0/5bd8548221063afc9e10eaa58b845146.mp3?hdnea=exp=1794003561~acl=/api/1/1/5/b/d/0/5bd8548221063afc9e10eaa58b845146.mp3*~data=user_id=0,application_id=42~hmac=68b9a6afd9e6d57187e85e792515a4f1a4a8bac00568d914841d703c6b95e578",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2fbfe001372512a8715b10b9f18e6392/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "somewhen": {
+    "name": "Somewhen",
+    "updatedAt": "2026-11-06T22:04:21.677Z",
+    "deezer": {
+      "id": 7873374,
+      "link": "https://www.deezer.com/artist/7873374",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/b0c487160c2424283e0dfd10cd8d0391/250x250-000000-80-0-0.jpg",
+      "fans": 1480,
+      "top": [
+        {
+          "title": "CWWDBI",
+          "album": "CWWDBI",
+          "link": "https://www.deezer.com/track/3050562521",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/8/0/a181a7a4b60de775644963abdddccac0.mp3?hdnea=exp=1794003562~acl=/api/1/1/a/1/8/0/a181a7a4b60de775644963abdddccac0.mp3*~data=user_id=0,application_id=42~hmac=2c2afde13a288374c070acda7f263206276e8debd2d08c3d1136070a889cc518",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b0c487160c2424283e0dfd10cd8d0391/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Right There",
+          "album": "44030",
+          "link": "https://www.deezer.com/track/4294864162",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/8/0/038c83ec4b17b6d1572191038b2719d3.mp3?hdnea=exp=1794003562~acl=/api/1/1/0/3/8/0/038c83ec4b17b6d1572191038b2719d3.mp3*~data=user_id=0,application_id=42~hmac=66aaede70dad9702b4bca2c2515556a4a6a85f296e88b4e4615162d215bbb4c5",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2b7959359af6dbb2e2d38ee13e4fac5e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Promise",
+          "album": "Promise",
+          "link": "https://www.deezer.com/track/3647750232",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/b/0/5fb83ccb975051f21a29ec92c6a478c1.mp3?hdnea=exp=1794003562~acl=/api/1/1/5/f/b/0/5fb83ccb975051f21a29ec92c6a478c1.mp3*~data=user_id=0,application_id=42~hmac=c70a894e426333155a2d82f65dfafbd22a36aa0104a7f0d3c84aa07503386a97",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/a48e1dcd09fd5741a98753d3bf7c166e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Without You",
+          "album": "44030",
+          "link": "https://www.deezer.com/track/4294864152",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/6/0/656eec0598ee8539d4a68e025362574c.mp3?hdnea=exp=1794003562~acl=/api/1/1/6/5/6/0/656eec0598ee8539d4a68e025362574c.mp3*~data=user_id=0,application_id=42~hmac=e1519f04413f90b9151c82c112e8b067c767b7c8bf4a5e3b5cefdc6782ae77cd",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2b7959359af6dbb2e2d38ee13e4fac5e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Bricks",
+          "album": "Bricks",
+          "link": "https://www.deezer.com/track/2857889372",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/a/0/66ac5115feba21ce3d7bdcf40398f749.mp3?hdnea=exp=1794003562~acl=/api/1/1/6/6/a/0/66ac5115feba21ce3d7bdcf40398f749.mp3*~data=user_id=0,application_id=42~hmac=10472c48a5e5eeede44bef612d91119c871855d670c23a8677e54867c424494f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/8bc1de1c2b8810769ee9ed687d336720/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "there is no tomorrow": {
+    "name": "There Is No Tomorrow",
+    "updatedAt": "2026-11-06T22:04:22.245Z",
+    "deezer": null
+  },
+  "doctor muecke": {
+    "name": "Doctor Mücke",
+    "updatedAt": "2026-11-06T22:04:22.643Z",
+    "deezer": {
+      "id": 278108031,
+      "link": "https://www.deezer.com/artist/278108031",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/7bb78e07dc7cad034cbeda0a36b76811/250x250-000000-80-0-0.jpg",
+      "fans": 831,
+      "top": [
+        {
+          "title": "Missed Call",
+          "album": "Charity",
+          "link": "https://www.deezer.com/track/3220452151",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/d/0/44d8be03595dadf2373acd6c2bf5bb4f.mp3?hdnea=exp=1794003563~acl=/api/1/1/4/4/d/0/44d8be03595dadf2373acd6c2bf5bb4f.mp3*~data=user_id=0,application_id=42~hmac=d3c2dda88d2af3ce9bc5794bcfcd4615f692f8bea929df5670fb6f87096fa82c",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e2f0d83ec4342e4e1452d62021de6be8/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "QUE ME QUIERES",
+          "album": "QUE ME QUIERES",
+          "link": "https://www.deezer.com/track/3779069742",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/2/d/0/c2dd8958d7fdd07d0679207eb30cfa5d.mp3?hdnea=exp=1794003563~acl=/api/1/1/c/2/d/0/c2dd8958d7fdd07d0679207eb30cfa5d.mp3*~data=user_id=0,application_id=42~hmac=70806c28f77ec577cea29fd97205852bd05ba4d52fb2204e44a3cf14b4ae0cae",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/4bbe682433ef5108eb3e9216b5ca87b3/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Let There Be Fire",
+          "album": "Bouncy Tales, Vol. 9",
+          "link": "https://www.deezer.com/track/3903073971",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/a/a/0/7aa58574ae8fd9a09051583bf56197e8.mp3?hdnea=exp=1794003563~acl=/api/1/1/7/a/a/0/7aa58574ae8fd9a09051583bf56197e8.mp3*~data=user_id=0,application_id=42~hmac=d2c79f94543bd39d59ef9cf0e5f316cea5b919cf423d373ae12b2c6e075f4620",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e11c3f97d2066fbbc06f3059b92f494c/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "GULL CHASE (feat. BONSWA)",
+          "album": "GULL CHASE (feat. BONSWA)",
+          "link": "https://www.deezer.com/track/3685898632",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/0/1/0/d012e18b5976174729c23cc6a597627b.mp3?hdnea=exp=1794003563~acl=/api/1/1/d/0/1/0/d012e18b5976174729c23cc6a597627b.mp3*~data=user_id=0,application_id=42~hmac=cfbd053356b28ee3a972e6d371679e2da100831c2ff1ffdc52d6d035a8ee2171",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/1966da6b8685e2a5a6828c32f8c744a2/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Bounce with Me",
+          "album": "Gulli Gang VA, Vol. 1",
+          "link": "https://www.deezer.com/track/3220452111",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/d/7/0/5d7b2ee648e1cec97e85c80e68af58eb.mp3?hdnea=exp=1794003563~acl=/api/1/1/5/d/7/0/5d7b2ee648e1cec97e85c80e68af58eb.mp3*~data=user_id=0,application_id=42~hmac=192edbb427f9d3225b31848bb45f666f6c4bf7de578b595fdba8c335fbcdf2df",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/631b151cd6662ab3ac5e92a2ef66152b/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "hurts": {
+    "name": "Hurts",
+    "updatedAt": "2026-11-06T22:04:23.252Z",
+    "deezer": {
+      "id": 372635,
+      "link": "https://www.deezer.com/artist/372635",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/af4c91ff60587e4b9f10464fd9d06639/250x250-000000-80-0-0.jpg",
+      "fans": 194598,
+      "top": [
+        {
+          "title": "Wonderful Life",
+          "album": "Happiness",
+          "link": "https://www.deezer.com/track/7011666",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/7/0/5a7458b3669bef4bf514e524c2040a26.mp3?hdnea=exp=1794003563~acl=/api/1/1/5/a/7/0/5a7458b3669bef4bf514e524c2040a26.mp3*~data=user_id=0,application_id=42~hmac=fdbf4f8cfdfa395ef2cd40e85512fcae0332ac7f12882a24dbef9aa9158b9ec0",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/65463709b23cf8ca2cae9bf155d0acc9/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Stay",
+          "album": "Happiness",
+          "link": "https://www.deezer.com/track/7011669",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/e/d/0/ced68eb6b62d34d621d8d3759a3a47f1.mp3?hdnea=exp=1794003563~acl=/api/1/1/c/e/d/0/ced68eb6b62d34d621d8d3759a3a47f1.mp3*~data=user_id=0,application_id=42~hmac=99e87438c21e82c2e45498fdb358306203b6eb7d671b0ff1fb8ef066c80315ff",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/65463709b23cf8ca2cae9bf155d0acc9/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Wonderful Life '25",
+          "album": "Wonderful Life '25",
+          "link": "https://www.deezer.com/track/3349960501",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/1/e/0/21e702ee4b9c67ce2a02c1d5d0c3be6f.mp3?hdnea=exp=1794003563~acl=/api/1/1/2/1/e/0/21e702ee4b9c67ce2a02c1d5d0c3be6f.mp3*~data=user_id=0,application_id=42~hmac=65866fb98a3f1796754244646dbc77da844f6eec7f5dd1cc9ed3ea9a4bc065e5",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/12db693d2f69ef346b389687c4fcd5fb/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "WONDERFUL LIFE",
+          "album": "WONDERFUL LIFE",
+          "link": "https://www.deezer.com/track/2586749792",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/5/0/c85bc885214eb92cde3765a1d85dad29.mp3?hdnea=exp=1794003563~acl=/api/1/1/c/8/5/0/c85bc885214eb92cde3765a1d85dad29.mp3*~data=user_id=0,application_id=42~hmac=0012dd7d7be16ead77e03630f8e23d988490cd577a937a1c8735c3521e58358e",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/89320c0a66cd25c5484d6bcddee048a7/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Under Control (feat. Hurts)",
+          "album": "Under Control (feat. Hurts)",
+          "link": "https://www.deezer.com/track/71294452",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/4/0/d94c9004f26bc27b436df16470cbf7f4.mp3?hdnea=exp=1794003563~acl=/api/1/1/d/9/4/0/d94c9004f26bc27b436df16470cbf7f4.mp3*~data=user_id=0,application_id=42~hmac=1e7cc033ebe9868e11c7ccb0cc6317152cb903e53e46007acfbf2eb923b7fc8f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/758bcc532ec6192f8f1e9a4cd2e63c04/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "saminski": {
+    "name": "Saminski",
+    "updatedAt": "2026-11-06T22:04:23.791Z",
+    "deezer": null
+  },
+  "kuduxxti": {
+    "name": "Kuduxxti",
+    "updatedAt": "2026-11-06T22:04:24.326Z",
+    "deezer": null
+  },
+  "litoshka": {
+    "name": "Litoshka",
+    "updatedAt": "2026-11-06T22:04:24.688Z",
+    "deezer": null
+  },
+  "softchaos": {
+    "name": "softchaos",
+    "updatedAt": "2026-11-06T22:04:25.070Z",
+    "deezer": null
+  },
+  "louis emp": {
+    "name": "Louis EMP",
+    "updatedAt": "2026-11-06T22:04:25.572Z",
+    "deezer": null
+  },
+  "m ca": {
+    "name": "M!CA",
+    "updatedAt": "2026-11-06T22:04:26.004Z",
+    "deezer": null
+  },
+  "octor": {
+    "name": "Octor",
+    "updatedAt": "2026-11-06T22:04:26.414Z",
+    "deezer": null
+  },
+  "perc": {
+    "name": "PERC",
+    "updatedAt": "2026-11-06T22:04:26.850Z",
+    "deezer": {
+      "id": 479589,
+      "link": "https://www.deezer.com/artist/479589",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/afd91276262084c0e0cca12b3365c4cc/250x250-000000-80-0-0.jpg",
+      "fans": 6007,
+      "top": [
+        {
+          "title": "Look What Your Love Has Done to Me",
+          "album": "Look What Your Love Has Done to Me",
+          "link": "https://www.deezer.com/track/3520154781",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/0/f/0/70fb28f3706714aa059812d80c548f6b.mp3?hdnea=exp=1794003567~acl=/api/1/1/7/0/f/0/70fb28f3706714aa059812d80c548f6b.mp3*~data=user_id=0,application_id=42~hmac=84d4d3c3446e0350db89917aa6230abd560fb2a1116fc080fc5d4bbd9ef19785",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/86582619a5f51cb15d9bc89911776c4d/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Metamorphic",
+          "album": "Stone Techno Series 2022 - Triclinic",
+          "link": "https://www.deezer.com/track/3631737202",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/4/d/0/44d61315a122748f1b6602970734244a.mp3?hdnea=exp=1794003567~acl=/api/1/1/4/4/d/0/44d61315a122748f1b6602970734244a.mp3*~data=user_id=0,application_id=42~hmac=3d3cd0a07c695dfc1b922fc51818ff683a6ca426f67cf8024f03d892ce0a7126",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/cd52278c7897a9f6525868d3fd8dcee7/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Flooring",
+          "album": "Igneous",
+          "link": "https://www.deezer.com/track/3520164301",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/b/0/ffb5f48c87429b7527205e9fa93529f0.mp3?hdnea=exp=1794003567~acl=/api/1/1/f/f/b/0/ffb5f48c87429b7527205e9fa93529f0.mp3*~data=user_id=0,application_id=42~hmac=b6889dbd87a092892f13ef4b45705beb9957d6d23cca34208095f576cab6ebc7",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/89eaf02e66b197ffbdc1d4550e6f1214/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Hyperlink",
+          "album": "Hyperlink / London Isn't England Remixed",
+          "link": "https://www.deezer.com/track/3520167231",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/4/f/0/24f4bcb18f82c391c917ce5a0ff64530.mp3?hdnea=exp=1794003567~acl=/api/1/1/2/4/f/0/24f4bcb18f82c391c917ce5a0ff64530.mp3*~data=user_id=0,application_id=42~hmac=ee88c0b81cebba5cd31c40afecd76cf2caabc76088d7cc9502f1f4f29d4c42ac",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/cae3691494414e0e36f1bcabc25750bc/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Bin Juice (Original Mix)",
+          "album": "Swirling Particles",
+          "link": "https://www.deezer.com/track/407656332",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/2/0/3a2aa728e6bc8bf7e8414130d81b711f.mp3?hdnea=exp=1794003567~acl=/api/1/1/3/a/2/0/3a2aa728e6bc8bf7e8414130d81b711f.mp3*~data=user_id=0,application_id=42~hmac=4c3fb234fd11102647d80a5595dbd553ced7c11598e21563aefcd629e8a5c0ae",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7ff5c3a676180f5dc26e2ad41355bf32/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "starkiller": {
+    "name": "STARKILLER",
+    "updatedAt": "2026-11-06T22:04:27.753Z",
+    "deezer": {
+      "id": 1150762,
+      "link": "https://www.deezer.com/artist/1150762",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/6c875fc1e9a723aebb782c7d48adeb63/250x250-000000-80-0-0.jpg",
+      "fans": 139,
+      "top": []
+    }
+  },
+  "synta": {
+    "name": "Synta",
+    "updatedAt": "2026-11-06T22:04:28.328Z",
+    "deezer": {
+      "id": 92559882,
+      "link": "https://www.deezer.com/artist/92559882",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/2d7063c3e55c469a3d5017e4545dcb21/250x250-000000-80-0-0.jpg",
+      "fans": 19,
+      "top": [
+        {
+          "title": "HEISS (Floorkiller Flex)",
+          "album": "HEISS (Floorkiller Flex)",
+          "link": "https://www.deezer.com/track/1057473502",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/8/6/0/e86034f6b20d3aabb4c326839e59dc47.mp3?hdnea=exp=1794003568~acl=/api/1/1/e/8/6/0/e86034f6b20d3aabb4c326839e59dc47.mp3*~data=user_id=0,application_id=42~hmac=5d89f5490e1e2dd177dfd4bb78fed602b246b78cbd85ad0e5c20bc1b5a9dcc1f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2d7063c3e55c469a3d5017e4545dcb21/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Leer",
+          "album": "Leer",
+          "link": "https://www.deezer.com/track/2260714937",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/4/0/094ffd77164665829fe0e28d4e8930cd.mp3?hdnea=exp=1794003568~acl=/api/1/1/0/9/4/0/094ffd77164665829fe0e28d4e8930cd.mp3*~data=user_id=0,application_id=42~hmac=e3761ad1fa5df7626a8afde17f9a47cb4cc61f072fac544136c761241f953783",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e35b9d0be4675e5c09e33989b6ced961/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Moving You",
+          "album": "HRAVA001.1",
+          "link": "https://www.deezer.com/track/1357237762",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/e/5/0/9e5875b3b84a8dbcde3b490ecf5e15a5.mp3?hdnea=exp=1794003568~acl=/api/1/1/9/e/5/0/9e5875b3b84a8dbcde3b490ecf5e15a5.mp3*~data=user_id=0,application_id=42~hmac=89ac614a24c8ea78c5e50a5c1cfd8abbecee81db7dae1c24cd5ba074360e0185",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/88ba1fd830eeab766498e7a0b727b78e/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "the cassandra complex": {
+    "name": "The Cassandra Complex",
+    "updatedAt": "2026-11-06T22:04:28.840Z",
+    "deezer": {
+      "id": 258301,
+      "link": "https://www.deezer.com/artist/258301",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/12fbe1d10a75c218bfedcb3c50bb9735/250x250-000000-80-0-0.jpg",
+      "fans": 2900,
+      "top": [
+        {
+          "title": "Hotline To Elvis",
+          "album": "The Plague",
+          "link": "https://www.deezer.com/track/2671928142",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/6/0/e064d64633277ee0d46d5da06eca2fe7.mp3?hdnea=exp=1794003569~acl=/api/1/1/e/0/6/0/e064d64633277ee0d46d5da06eca2fe7.mp3*~data=user_id=0,application_id=42~hmac=73b02648cf53485544eae083117791b874bcadd40e033fc3a4b4a65413456a4d",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3ca2470dba5faecf0bcb7fd5a3b3e01a/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Into the Heart",
+          "album": "Beyond the Wall of Sleep",
+          "link": "https://www.deezer.com/track/3848238",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/6/0/166ae14ebdb50a0199d5896a9c7573a4.mp3?hdnea=exp=1794003569~acl=/api/1/1/1/6/6/0/166ae14ebdb50a0199d5896a9c7573a4.mp3*~data=user_id=0,application_id=42~hmac=08456b18c0026cdff3081f16b427ea0945c3172d15aef1fc242bd2723c5515d9",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c1a120affbd11530fd0402c36e938a00/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Ground (GSCX Version)",
+          "album": "Generating Station Complex",
+          "link": "https://www.deezer.com/track/4244802671",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/f/6/0/8f6afc56766dc0901f1391e6cc502873.mp3?hdnea=exp=1794003569~acl=/api/1/1/8/f/6/0/8f6afc56766dc0901f1391e6cc502873.mp3*~data=user_id=0,application_id=42~hmac=628037898468ee8e90221590aca475b5e5727a8e98f77797bb5ddeef640093df",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f45bffaec40352743b06c33b734f6c7c/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Old Boys Network",
+          "album": "The Plague",
+          "link": "https://www.deezer.com/track/2671928172",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/f/0/3cf37fb23616f29f8ca246a307933abf.mp3?hdnea=exp=1794003569~acl=/api/1/1/3/c/f/0/3cf37fb23616f29f8ca246a307933abf.mp3*~data=user_id=0,application_id=42~hmac=162caca282e8f559fce5b4be36f1ab5eea7b45c93b83b9b34a82190d774070c2",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3ca2470dba5faecf0bcb7fd5a3b3e01a/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "One Millionth Happy Customer (GSCX Version)",
+          "album": "Generating Station Complex",
+          "link": "https://www.deezer.com/track/4244802641",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/8/3/0/083e3c927b1d81d499c891af4420aae4.mp3?hdnea=exp=1794003569~acl=/api/1/1/0/8/3/0/083e3c927b1d81d499c891af4420aae4.mp3*~data=user_id=0,application_id=42~hmac=aa4fb80bd9f89f134b815264c582778e2989f57b1183dab454c82d30e056d248",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f45bffaec40352743b06c33b734f6c7c/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "dean deville": {
+    "name": "Dean DeVille",
+    "updatedAt": "2026-11-06T22:04:29.361Z",
+    "deezer": null
+  },
+  "kikaza": {
+    "name": "KIKAZA",
+    "updatedAt": "2026-11-06T22:04:29.773Z",
+    "deezer": null
+  },
+  "cleopard2000": {
+    "name": "Cleopard2000",
+    "updatedAt": "2026-11-06T22:04:30.263Z",
+    "deezer": {
+      "id": 173606887,
+      "link": "https://www.deezer.com/artist/173606887",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/b43c5f989dc107987a3fdd11df23d765/250x250-000000-80-0-0.jpg",
+      "fans": 352,
+      "top": [
+        {
+          "title": "Hard To be Around",
+          "album": "Hard To be Around",
+          "link": "https://www.deezer.com/track/4323814292",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/8/9/0/789fb2060e26ce46433bfce17911dc6e.mp3?hdnea=exp=1794003570~acl=/api/1/1/7/8/9/0/789fb2060e26ce46433bfce17911dc6e.mp3*~data=user_id=0,application_id=42~hmac=9997c8fd47903d14224bee2bc15dad3952bc1060b8bf36b778fdfd762600b1e2",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b43c5f989dc107987a3fdd11df23d765/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "EMBRACE THE NIGHT",
+          "album": "EMBRACE THE NIGHT",
+          "link": "https://www.deezer.com/track/2937276101",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/0/0/6808fd47fd2896a84747eec037d72cf0.mp3?hdnea=exp=1794003570~acl=/api/1/1/6/8/0/0/6808fd47fd2896a84747eec037d72cf0.mp3*~data=user_id=0,application_id=42~hmac=9219e3025cfa6473e6e101abbbcef1e337c1b5d7f95e70a5f5c2ed2ca04bdbd2",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b340f525a3abce79b4e7a5f4c0524467/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "SPECIAL TOUCH",
+          "album": "SPECIAL TOUCH",
+          "link": "https://www.deezer.com/track/4250026431",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/5/0/e45ca37429270513bcbf4adf8a6f071d.mp3?hdnea=exp=1794003570~acl=/api/1/1/e/4/5/0/e45ca37429270513bcbf4adf8a6f071d.mp3*~data=user_id=0,application_id=42~hmac=b934e08220cc6d44ca52a53a058c339fe857fe8dd7eb5be9ea7800f922ec82b3",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/0d3a6c967f7495d16b4aa1bedbb936ae/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Blue",
+          "album": "PULZARVA002.2",
+          "link": "https://www.deezer.com/track/2377922375",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/2/0/2b24d68e0985ae99ffeba6490653ef29.mp3?hdnea=exp=1794003570~acl=/api/1/1/2/b/2/0/2b24d68e0985ae99ffeba6490653ef29.mp3*~data=user_id=0,application_id=42~hmac=10edeaaf0f6458c6dd1d5bdf2608e3f9f9ec1fb39efed8c35d0e7810666eb396",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/9ea2b4149cc8e4c25e4a78921e615413/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Desire",
+          "album": "Desire",
+          "link": "https://www.deezer.com/track/2536887131",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/c/b/0/6cb7351db8c516af3ad5fbbc1a0074a3.mp3?hdnea=exp=1794003570~acl=/api/1/1/6/c/b/0/6cb7351db8c516af3ad5fbbc1a0074a3.mp3*~data=user_id=0,application_id=42~hmac=73aecb1fb31f4d7ee6bee475bbc351ecca2cdd591e0fdd02974b64a9b8935a8d",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/05b175699c8e62592e64d963f3730668/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "mika heggemann": {
+    "name": "Mika Heggemann",
+    "updatedAt": "2026-11-06T22:04:30.810Z",
+    "deezer": {
+      "id": 13460283,
+      "link": "https://www.deezer.com/artist/13460283",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/6ba0098b1fafaea47cf604c1e88e9d47/250x250-000000-80-0-0.jpg",
+      "fans": 752,
+      "top": [
+        {
+          "title": "Rx Kiss",
+          "album": "Locked Club",
+          "link": "https://www.deezer.com/track/4321027152",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/4/3/0/6434492f78fb00d7681dd283daa32509.mp3?hdnea=exp=1794003571~acl=/api/1/1/6/4/3/0/6434492f78fb00d7681dd283daa32509.mp3*~data=user_id=0,application_id=42~hmac=1688f20e53ce5d23ee4ef55a1a386a2f58ee6362986d52a9caa601d3befc5849",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b31a067d26ebe715b845d239e6221448/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Heartbeat Destiny",
+          "album": "Heartbeat Destiny",
+          "link": "https://www.deezer.com/track/3271229061",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/c/6/0/ec6c88012334bb86df3f95455e3a06ab.mp3?hdnea=exp=1794003571~acl=/api/1/1/e/c/6/0/ec6c88012334bb86df3f95455e3a06ab.mp3*~data=user_id=0,application_id=42~hmac=03a8894df2c4a48841613ae907d260e1a479f3101181891a50af1b0fdf6261d2",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d5bad95a9c0d4ee5d4568c6ebe1e5ccb/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "No Love For Free",
+          "album": "No Love For Free",
+          "link": "https://www.deezer.com/track/4265127732",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/b/0/fdb804f16ef1e6ba73e4a9739a6a6482.mp3?hdnea=exp=1794003571~acl=/api/1/1/f/d/b/0/fdb804f16ef1e6ba73e4a9739a6a6482.mp3*~data=user_id=0,application_id=42~hmac=0b27b0f16378bbeba31f00db93a28570e23cbb612e27c26e0e300a7af4cc63fe",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/fb8f7fdea44989c67b48f25f6cd6ec32/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "NEVER DONE",
+          "album": "NEVER DONE",
+          "link": "https://www.deezer.com/track/3619118122",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/a/0/09a2f399055f3ffc2b822eea878b2a86.mp3?hdnea=exp=1794003571~acl=/api/1/1/0/9/a/0/09a2f399055f3ffc2b822eea878b2a86.mp3*~data=user_id=0,application_id=42~hmac=fe9f8c222e4ab20fdf5cf64ee520c33f6e1fa37114b6e0d2fe82e8dcd1956ca3",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d0a5b4b31af9911ffee1c6ee3ba81bac/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Love On Fire",
+          "album": "Love On Fire",
+          "link": "https://www.deezer.com/track/3966485061",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/3/0/273bf01f076d45fd822af2e883958d20.mp3?hdnea=exp=1794003571~acl=/api/1/1/2/7/3/0/273bf01f076d45fd822af2e883958d20.mp3*~data=user_id=0,application_id=42~hmac=5346eebbdd99c3e52efc0f816def76159d68b73276ffab0d944c1369740c2a04",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/6f1dc7da55990a9a553a638964335a9a/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "shoki287": {
+    "name": "SHOKI287",
+    "updatedAt": "2026-11-06T22:04:31.445Z",
+    "deezer": null
+  },
+  "butschi": {
+    "name": "Butschi",
+    "updatedAt": "2026-11-06T22:04:31.849Z",
+    "deezer": {
+      "id": 170666537,
+      "link": "https://www.deezer.com/artist/170666537",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/7f02a5f014646cda70c426c3dea5c0d6/250x250-000000-80-0-0.jpg",
+      "fans": 814,
+      "top": [
+        {
+          "title": "ups://downs",
+          "album": "0VERFLO.W",
+          "link": "https://www.deezer.com/track/3473442011",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/c/6/0/cc6f2671bbcca336c2d18919fb0983c5.mp3?hdnea=exp=1794003572~acl=/api/1/1/c/c/6/0/cc6f2671bbcca336c2d18919fb0983c5.mp3*~data=user_id=0,application_id=42~hmac=c5415b5636bf133559f87a3b138edce716531398ce91ad3f4d78f489a7a23c65",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/9af84ab451c4d4ef492d1fff2c8c30c7/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Cloud FM",
+          "album": "Cloud FM",
+          "link": "https://www.deezer.com/track/2093888217",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/0/0/e30f726eb84ace6bd6dd00d69a49ed94.mp3?hdnea=exp=1794003572~acl=/api/1/1/e/3/0/0/e30f726eb84ace6bd6dd00d69a49ed94.mp3*~data=user_id=0,application_id=42~hmac=f075f9fdabc757e99174b74f0872f9f087f5cfa3cd146f24fc6383159e4fb853",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e0a369d80b21f40425aa66d4f47e9711/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Gedankenstau",
+          "album": "Gedankenstau",
+          "link": "https://www.deezer.com/track/2016621017",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/5/4/0/254dfe9b5ee9f77265af4e3533d5c513.mp3?hdnea=exp=1794003572~acl=/api/1/1/2/5/4/0/254dfe9b5ee9f77265af4e3533d5c513.mp3*~data=user_id=0,application_id=42~hmac=05f61d681701f668fc1386fa653557635ccc2cb4eeb5ec5b5d9ddf06b83cec36",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/80788d9bc14a02eff51e1000efb5cb7c/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Atme Ein (Atme Rauch Aus)",
+          "album": "Atme Ein (Atme Rauch Aus)",
+          "link": "https://www.deezer.com/track/2226974527",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/2/d/0/62df4d4f7988aac9712cd8be59de45de.mp3?hdnea=exp=1794003572~acl=/api/1/1/6/2/d/0/62df4d4f7988aac9712cd8be59de45de.mp3*~data=user_id=0,application_id=42~hmac=2487e8c892430269da1ab7094a4ff948cc4aed9f212a8b6c583348cef9323f79",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2501f573c3a1fcb1d47061c19a701d87/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Atme Ein (Atme Rauch Aus) [Edit]",
+          "album": "Atme Ein (Atme Rauch Aus)",
+          "link": "https://www.deezer.com/track/2226974517",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/b/5/0/cb57e050710561c4bc59c31948e89616.mp3?hdnea=exp=1794003572~acl=/api/1/1/c/b/5/0/cb57e050710561c4bc59c31948e89616.mp3*~data=user_id=0,application_id=42~hmac=70e6b5d3602529858993299d1c040aa83aa518b9586565aa9f890b891ebec005",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2501f573c3a1fcb1d47061c19a701d87/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "sara landry": {
+    "name": "Sara Landry",
+    "updatedAt": "2026-11-06T22:04:33.135Z",
+    "deezer": {
+      "id": 14105097,
+      "link": "https://www.deezer.com/artist/14105097",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/685207b0b8596b07bd5cda9504e7e2bc/250x250-000000-80-0-0.jpg",
+      "fans": 19008,
+      "top": [
+        {
+          "title": "Angel Dust",
+          "album": "Angel Dust",
+          "link": "https://www.deezer.com/track/4154213432",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/d/0/f4d8179e31757c4046cf8542f6ff4dc2.mp3?hdnea=exp=1794003573~acl=/api/1/1/f/4/d/0/f4d8179e31757c4046cf8542f6ff4dc2.mp3*~data=user_id=0,application_id=42~hmac=0e5cc5123ff8088b9ac8b3385c79bdda75351ffaa76774c9dd950230734c3716",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c4e1a5005044f8ef90a92495ac21dd07/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Energy",
+          "album": "Energy",
+          "link": "https://www.deezer.com/track/4273432872",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/4/3/0/c43b49f118f0e93f93ef0bc6585f76df.mp3?hdnea=exp=1794003573~acl=/api/1/1/c/4/3/0/c43b49f118f0e93f93ef0bc6585f76df.mp3*~data=user_id=0,application_id=42~hmac=7a25a09913dcdaa2396a27d51ed2a03ffedc4114e90193ded2e70c81aa6c336a",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/13a8d890650e11eec3bc764e1efc970b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Feel 4 U (feat. Saint Monet)",
+          "album": "Divine Intervention",
+          "link": "https://www.deezer.com/track/4291661382",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/9/9/0/c99ec9ce31ac971bbb6c63fdbed3c21e.mp3?hdnea=exp=1794003573~acl=/api/1/1/c/9/9/0/c99ec9ce31ac971bbb6c63fdbed3c21e.mp3*~data=user_id=0,application_id=42~hmac=55bf6cc884f6e19c5c972f4b82a626325f4a86d86dcb5c9365add0467fe3c25b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/23305745b8e07ed139670288b0dad899/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Interesting",
+          "album": "Interesting",
+          "link": "https://www.deezer.com/track/4231703622",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/8/0/0/2807071ae3714c1bad51b528315777aa.mp3?hdnea=exp=1794003573~acl=/api/1/1/2/8/0/0/2807071ae3714c1bad51b528315777aa.mp3*~data=user_id=0,application_id=42~hmac=b6e2abdcf828ea839bdea042255a9129b071497c13f83a0fd5a8f9a3a86f07c8",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c0d41f7e4b5fa50869c4fced57e13a3d/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Heaven",
+          "album": "Heaven",
+          "link": "https://www.deezer.com/track/2785441732",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/8/0/5f8cbd315d05bb3f9765b8e47032b4a8.mp3?hdnea=exp=1794003573~acl=/api/1/1/5/f/8/0/5f8cbd315d05bb3f9765b8e47032b4a8.mp3*~data=user_id=0,application_id=42~hmac=395da245ce0b1aeaa15bc23ed6072396b5625a6ba12df32c94f98da5e5d9ab3b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/200735f3872862af15908e1d7a3a3f93/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "clara cuve": {
+    "name": "Clara Cuvé",
+    "updatedAt": "2026-11-06T22:04:33.641Z",
+    "deezer": {
+      "id": 96106602,
+      "link": "https://www.deezer.com/artist/96106602",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/92b3b0cc7dc47a07c8fca6974b3f1df7/250x250-000000-80-0-0.jpg",
+      "fans": 931,
+      "top": [
+        {
+          "title": "4 am",
+          "album": "SEKTION 4",
+          "link": "https://www.deezer.com/track/2865342862",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/d/c/0/edc32d122cc409015e7aa88d799ffc29.mp3?hdnea=exp=1794003573~acl=/api/1/1/e/d/c/0/edc32d122cc409015e7aa88d799ffc29.mp3*~data=user_id=0,application_id=42~hmac=56544208c955524793a32f1fe5599cd73b9c9c2200b2752c819545437c88c5d8",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3e1b6462c8381eb5a252355565694c6a/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Control",
+          "album": "Sektion 1",
+          "link": "https://www.deezer.com/track/2988976931",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/6/3/0/2638811a7ddee41ea45d778aa51d2d34.mp3?hdnea=exp=1794003573~acl=/api/1/1/2/6/3/0/2638811a7ddee41ea45d778aa51d2d34.mp3*~data=user_id=0,application_id=42~hmac=b9a7ce2e671cb688ee27574856c7bba63774bd99505c9d87e47ba420a2458b22",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/201ac4e9e96d1ca0b7d5980f82c9c6ba/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "alice dee": {
+    "name": "Alice Dee",
+    "updatedAt": "2026-11-06T22:04:34.168Z",
+    "deezer": {
+      "id": 7562142,
+      "link": "https://www.deezer.com/artist/7562142",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/4d2b5f97a135156ece83196e87697197/250x250-000000-80-0-0.jpg",
+      "fans": 464,
+      "top": [
+        {
+          "title": "Komm",
+          "album": "Komm",
+          "link": "https://www.deezer.com/track/2028208857",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/d/1/0/fd12070f5092507a8c5c4b4f55156e78.mp3?hdnea=exp=1794003574~acl=/api/1/1/f/d/1/0/fd12070f5092507a8c5c4b4f55156e78.mp3*~data=user_id=0,application_id=42~hmac=0a0cdc8897dcd5d42a14ceade1c874aa6835933cebf2ef75f56b83ae1e6fbde5",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/4597b79939ed6176c5699e45845bd07c/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Alarm",
+          "album": "Alarm",
+          "link": "https://www.deezer.com/track/2382454525",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/c/0/e2c137575cb4b085781725ae04857ee1.mp3?hdnea=exp=1794003574~acl=/api/1/1/e/2/c/0/e2c137575cb4b085781725ae04857ee1.mp3*~data=user_id=0,application_id=42~hmac=5dabcf61f60be2ecc69335978f4610e02e7f85b6f95c046d8595a0db4030ff87",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/14ce97d6828ccbf065efd7208686af5d/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Kriminell",
+          "album": "Kriminell",
+          "link": "https://www.deezer.com/track/1527234762",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/8/5/0/585973a693b6059bb3e1720ade70d3f7.mp3?hdnea=exp=1794003574~acl=/api/1/1/5/8/5/0/585973a693b6059bb3e1720ade70d3f7.mp3*~data=user_id=0,application_id=42~hmac=d7780f2fc32906a4540b6966462c1022acc2d44f777dcbdc42d3acd718144828",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/4d2b5f97a135156ece83196e87697197/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Odyssee",
+          "album": "Odyssee",
+          "link": "https://www.deezer.com/track/2824348612",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/c/f/0/bcf4a3035fa30e096fd4f85afa4a4e02.mp3?hdnea=exp=1794003574~acl=/api/1/1/b/c/f/0/bcf4a3035fa30e096fd4f85afa4a4e02.mp3*~data=user_id=0,application_id=42~hmac=1cbd2f68faae02ee96fa6547f7288439b26f0c65fccc5d998dfe155836dbfeae",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/5041a0e68945f51a0d18ce50395500de/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Word",
+          "album": "Double Check",
+          "link": "https://www.deezer.com/track/1569878272",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/6/0/fe6c85e3878f2f78dab730a9e6d44273.mp3?hdnea=exp=1794003574~acl=/api/1/1/f/e/6/0/fe6c85e3878f2f78dab730a9e6d44273.mp3*~data=user_id=0,application_id=42~hmac=f55fab3b43a0dd91003ab09c434d8abc43d559f486a8dcde08bb2a53cbea70a2",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/a0e9a53863892fccb532ce7dd0e39816/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "leon haller": {
+    "name": "Leon Haller",
+    "updatedAt": "2026-11-06T22:04:34.746Z",
+    "deezer": null
+  },
+  "spk": {
+    "name": "SPK",
+    "updatedAt": "2026-11-06T22:04:35.137Z",
+    "deezer": {
+      "id": 87382,
+      "link": "https://www.deezer.com/artist/87382",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/e56bbe75942572131a3f5cdd50ef99cc/250x250-000000-80-0-0.jpg",
+      "fans": 1541,
+      "top": [
+        {
+          "title": "Metal Dance",
+          "album": "Machine Age Voodoo",
+          "link": "https://www.deezer.com/track/43791661",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/a/2/0/ea201de27c71ace0a5027a93109e9808.mp3?hdnea=exp=1794003575~acl=/api/1/1/e/a/2/0/ea201de27c71ace0a5027a93109e9808.mp3*~data=user_id=0,application_id=42~hmac=cb64bc753cbe323431820bb03d761446f9473ffcace0ff5179ca73d84cc00197",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e943923e83496b49c45cd7d2a37e0528/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "10111",
+          "album": "10111",
+          "link": "https://www.deezer.com/track/1230637392",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/0/5/0/e0563fd0c431cbe500d343dce62cba57.mp3?hdnea=exp=1794003575~acl=/api/1/1/e/0/5/0/e0563fd0c431cbe500d343dce62cba57.mp3*~data=user_id=0,application_id=42~hmac=10967cee8e461b68ce423884d43e3c87e82c368577670f4f9a8fcd699b9015f0",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2c786e8bb137ffbf128f5b32163c3c27/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Machine Age Voodoo",
+          "album": "Machine Age Voodoo",
+          "link": "https://www.deezer.com/track/43791601",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/2/0/3a244e2b8d16f9fdfe53d7f34129b77f.mp3?hdnea=exp=1794003575~acl=/api/1/1/3/a/2/0/3a244e2b8d16f9fdfe53d7f34129b77f.mp3*~data=user_id=0,application_id=42~hmac=013df5287c99b06bda5d6849707704902bee3638e0da1808d27920f06c07d358",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e943923e83496b49c45cd7d2a37e0528/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "love me, love you",
+          "album": "love me, love you",
+          "link": "https://www.deezer.com/track/4359220342",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/6/0/5e6c222732a3545c3c4d78d1512840ec.mp3?hdnea=exp=1794003575~acl=/api/1/1/5/e/6/0/5e6c222732a3545c3c4d78d1512840ec.mp3*~data=user_id=0,application_id=42~hmac=19920462ea36f3455ed8b7f6ee693e8ba3eba3d050f92d3e0e6cba19690cbb3d",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e517af0e352806e2d97db693e24cfa84/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "TRB 021",
+          "album": "TRB 021",
+          "link": "https://www.deezer.com/track/1988925207",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/d/0/04d47a8eae83d127a38cfea61c6b0a4c.mp3?hdnea=exp=1794003575~acl=/api/1/1/0/4/d/0/04d47a8eae83d127a38cfea61c6b0a4c.mp3*~data=user_id=0,application_id=42~hmac=b6185d229a4db373be4f99a1cfadd16db725ec4d1ac32760189016c5be763b18",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/aa5f145227375f7557c49e2778d8cb0d/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "miss k8": {
+    "name": "Miss K8",
+    "updatedAt": "2026-11-06T22:04:35.663Z",
+    "deezer": {
+      "id": 2471181,
+      "link": "https://www.deezer.com/artist/2471181",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/a556e1023083878ef3d5a832ad112fcc/250x250-000000-80-0-0.jpg",
+      "fans": 61562,
+      "top": [
+        {
+          "title": "Bogota (2020 Refix)",
+          "album": "Immortality EP",
+          "link": "https://www.deezer.com/track/948249642",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/4/0/7e45057f6de8a358eea8d8364c9dd972.mp3?hdnea=exp=1794003576~acl=/api/1/1/7/e/4/0/7e45057f6de8a358eea8d8364c9dd972.mp3*~data=user_id=0,application_id=42~hmac=a1a2159bdb85833608c5a06756a023b6c70ac487cabcf3353bf95fb4d21b346b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b2ad84cf9948105f1eddd13e260c0f8e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Breinbreker",
+          "album": "Breinbreker",
+          "link": "https://www.deezer.com/track/2284994277",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/1/6/0/a165b41b8e7cb1d1025346e3a2b62e03.mp3?hdnea=exp=1794003576~acl=/api/1/1/a/1/6/0/a165b41b8e7cb1d1025346e3a2b62e03.mp3*~data=user_id=0,application_id=42~hmac=290a174cd8a67c418ba1985881139c19004e8de9543962c5fc892b1305f43070",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/387fbaaf281a56b9366c4d900226b610/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "You Can't Stop Me",
+          "album": "You Can't Stop Me",
+          "link": "https://www.deezer.com/track/1787018857",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/5/9/0/c596ce0079902fafe1fd581d03e223fd.mp3?hdnea=exp=1794003576~acl=/api/1/1/c/5/9/0/c596ce0079902fafe1fd581d03e223fd.mp3*~data=user_id=0,application_id=42~hmac=6fe687f48eb7529e23f7e2ce6f512850ae665006eb66d8af045f96f194e4dce0",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/85212e0e3b9105b8899a7744cca7c969/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Like An Earthquake",
+          "album": "Like An Earthquake",
+          "link": "https://www.deezer.com/track/3894274071",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/1/0/39107f8f58c65744bf0ad7ac4e18ed6c.mp3?hdnea=exp=1794003576~acl=/api/1/1/3/9/1/0/39107f8f58c65744bf0ad7ac4e18ed6c.mp3*~data=user_id=0,application_id=42~hmac=665244c5cfd9d83a503bf280787b71040805a4a76f2ece471da2c816ca021877",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c0ecc3937f536efc42cfd170d3721289/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Bogotá (Radio Edit)",
+          "album": "Magnet",
+          "link": "https://www.deezer.com/track/122776906",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/f/0/b5f9e9ca72c96bd26ecf8da1317d7fb2.mp3?hdnea=exp=1794003576~acl=/api/1/1/b/5/f/0/b5f9e9ca72c96bd26ecf8da1317d7fb2.mp3*~data=user_id=0,application_id=42~hmac=a747abf52b87e15a47a0cdc9b9f7d248e114f8ecec68dca6e98b586cb67354d5",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e78810b824385c34313697be86bb7995/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "dimitri k": {
+    "name": "Dimitri K",
+    "updatedAt": "2026-11-06T22:04:36.369Z",
+    "deezer": {
+      "id": 443959,
+      "link": "https://www.deezer.com/artist/443959",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/76af1f03f7ef512ffb5014dd0dfe2762/250x250-000000-80-0-0.jpg",
+      "fans": 5753,
+      "top": [
+        {
+          "title": "IN ANOTHER LIFE",
+          "album": "IN ANOTHER LIFE",
+          "link": "https://www.deezer.com/track/4049426711",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/9/0/4093452d4cde55683f71bd280a1f6408.mp3?hdnea=exp=1794003576~acl=/api/1/1/4/0/9/0/4093452d4cde55683f71bd280a1f6408.mp3*~data=user_id=0,application_id=42~hmac=2365e0af2e82012f61e6fb07244078d073bd648616a24dc5dca3e999ba4dc35b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/1df9253a655aa8c8352a4bc5115c7f28/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Feel The Ground Shake",
+          "album": "Feel The Ground Shake",
+          "link": "https://www.deezer.com/track/3414309111",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/0/0/ad055732a4dc78df9301bd9013056c89.mp3?hdnea=exp=1794003576~acl=/api/1/1/a/d/0/0/ad055732a4dc78df9301bd9013056c89.mp3*~data=user_id=0,application_id=42~hmac=7ceeec687bf4692004dfb2f59242f97593fc32276f2629d2f7ed8ec60f11de52",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/313b1a381ecbecabcf380b22bd58b228/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Goodnight",
+          "album": "Goodnight",
+          "link": "https://www.deezer.com/track/3841745571",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/7/a/0/a7afadc546bfdefe2c6086a8aca5bb42.mp3?hdnea=exp=1794003576~acl=/api/1/1/a/7/a/0/a7afadc546bfdefe2c6086a8aca5bb42.mp3*~data=user_id=0,application_id=42~hmac=49c87027070a4d0ff2a0dd2a34fa1b85fc7fbaf48d39a7998d490a20bffc2bda",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/9ef617cb8ccfa7e6bb5cd388b730c8b0/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Pump This Party",
+          "album": "Pump This Party",
+          "link": "https://www.deezer.com/track/2456397015",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/5/0/5a5fac2bb5fefc062ae8b3d5b4fcf9ed.mp3?hdnea=exp=1794003576~acl=/api/1/1/5/a/5/0/5a5fac2bb5fefc062ae8b3d5b4fcf9ed.mp3*~data=user_id=0,application_id=42~hmac=5314a848e787b6a4204e6f49e0b10dddf7ff624eb3c14944a3ba1c42405542f1",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/4719b546fdd687a2d252d1cb8b957458/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Shockwave",
+          "album": "Shockwave",
+          "link": "https://www.deezer.com/track/3460885131",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/a/d/0/8ad8042d92a2cfe8c008c0e932661963.mp3?hdnea=exp=1794003576~acl=/api/1/1/8/a/d/0/8ad8042d92a2cfe8c008c0e932661963.mp3*~data=user_id=0,application_id=42~hmac=acc9f9be3ca96d2a345c0f641df1ea20cdfca9e359eba9d8d7b28b6694f2d5b5",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/a91bc90be06e9b5fbf6bca1a514460d6/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "dikke baap": {
+    "name": "Dikke Baap",
+    "updatedAt": "2026-11-06T22:04:36.889Z",
+    "deezer": {
+      "id": 152654052,
+      "link": "https://www.deezer.com/artist/152654052",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/a565e4dc284783db8faf8c1ef10bb171/250x250-000000-80-0-0.jpg",
+      "fans": 1088,
+      "top": [
+        {
+          "title": "TECHNO PIEPS",
+          "album": "TECHNO PIEPS",
+          "link": "https://www.deezer.com/track/3241590851",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/1/0/ef10febd6804e306a2e2182bf5d32d4e.mp3?hdnea=exp=1794003577~acl=/api/1/1/e/f/1/0/ef10febd6804e306a2e2182bf5d32d4e.mp3*~data=user_id=0,application_id=42~hmac=64f2babe591c0a7fc1ea2f5a02ffaef58e467a6253313bc316cdbc76841286cc",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f254bfdb784f6c49f402cf61d50e18b7/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "ALLERLAATSTE FEESTJE",
+          "album": "ALLERLAATSTE FEESTJE",
+          "link": "https://www.deezer.com/track/4141498451",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/4/0/a34e144f281c7cc05fc3a13cf32871ef.mp3?hdnea=exp=1794003577~acl=/api/1/1/a/3/4/0/a34e144f281c7cc05fc3a13cf32871ef.mp3*~data=user_id=0,application_id=42~hmac=77442c9886041cfb87db65f29a1e9f28bb660e1e278de0cb9780906df3de13cc",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7f0264baebe37b0c0a2ca230102d729d/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "GEFLUISTER",
+          "album": "GEFLUISTER",
+          "link": "https://www.deezer.com/track/2817195562",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/3/0/a438208a028039884c4953c6db3e2863.mp3?hdnea=exp=1794003577~acl=/api/1/1/a/4/3/0/a438208a028039884c4953c6db3e2863.mp3*~data=user_id=0,application_id=42~hmac=3f4296de33d62d5aa6778fe0c363691b3252c58fd1b8aa96b28eef57b6ebcd0e",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e92add61aca3dd9e789c47733e838c26/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "BASSLINE DOMINATION",
+          "album": "BASSLINE DOMINATION",
+          "link": "https://www.deezer.com/track/3226524131",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/2/e/0/12e74b428a361842ca7378e966e4b918.mp3?hdnea=exp=1794003577~acl=/api/1/1/1/2/e/0/12e74b428a361842ca7378e966e4b918.mp3*~data=user_id=0,application_id=42~hmac=57b9cb14e843252358be9119d417036fbc0718c0d620afc8e193a839e29dafa6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/abbcd3fa58823109674efd96c18c3ead/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Acid Plaat (Vieze Asbak Remix)",
+          "album": "Acid Plaat (Vieze Asbak Remix)",
+          "link": "https://www.deezer.com/track/1746976217",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/0/3/0/c03bf71e3b656f04fe5329904ff9eeed.mp3?hdnea=exp=1794003577~acl=/api/1/1/c/0/3/0/c03bf71e3b656f04fe5329904ff9eeed.mp3*~data=user_id=0,application_id=42~hmac=6e3b8dd73a11b847486ea452b0a58a317681d5f523b0cb52f9d418065e61293b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/aa04229549bf1450112e6a4d9c5c8ca4/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "anderex": {
+    "name": "Anderex",
+    "updatedAt": "2026-11-06T22:04:37.354Z",
+    "deezer": {
+      "id": 8662080,
+      "link": "https://www.deezer.com/artist/8662080",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/818564f84c51d135910b10b7384c2d25/250x250-000000-80-0-0.jpg",
+      "fans": 2402,
+      "top": [
+        {
+          "title": "Kick Drum Talk",
+          "album": "Kick Drum Talk",
+          "link": "https://www.deezer.com/track/4038207331",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/e/2/0/fe2c9e9a76edc536da32a0fe70fef8ae.mp3?hdnea=exp=1794003577~acl=/api/1/1/f/e/2/0/fe2c9e9a76edc536da32a0fe70fef8ae.mp3*~data=user_id=0,application_id=42~hmac=dee7f321ce3cfd82c781227f4359b6931ef73df50fa25f36648de65808da00e8",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/79428ba83c50a95937e506b94d111256/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "WTF?",
+          "album": "WTF?",
+          "link": "https://www.deezer.com/track/3179420721",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/f/6/0/ff6988ea8965d12ec2dcb2dbcb8e0cb2.mp3?hdnea=exp=1794003577~acl=/api/1/1/f/f/6/0/ff6988ea8965d12ec2dcb2dbcb8e0cb2.mp3*~data=user_id=0,application_id=42~hmac=8ba0b58bf0559fce6c7a101619f63845f61719b191d42e2ad75ca020e9e88f7c",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f1efe67093f72446218f12389245a8e5/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Don't Rip My Kick B*tch",
+          "album": "Don't Rip My Kick B*tch",
+          "link": "https://www.deezer.com/track/4008123751",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/6/7/0/467464a65b7474ccfb0de46c3d804e97.mp3?hdnea=exp=1794003577~acl=/api/1/1/4/6/7/0/467464a65b7474ccfb0de46c3d804e97.mp3*~data=user_id=0,application_id=42~hmac=dddc38c41782819ff1066a905e75b26d907965be2f9b3bf61fa493281193db66",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/1e5e0be02e599295b734fc37335abaee/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Reload",
+          "album": "Reload",
+          "link": "https://www.deezer.com/track/4311431632",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/6/9/0/a691a9e163e18bacdc908723e6a4aa50.mp3?hdnea=exp=1794003577~acl=/api/1/1/a/6/9/0/a691a9e163e18bacdc908723e6a4aa50.mp3*~data=user_id=0,application_id=42~hmac=5cbf3bec09c8079ff24319079e58d351919e158e29ac521c687f2cea441b2d40",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/8fe0419e3cf9b45dec19051109fd1749/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Text to Speech",
+          "album": "303_exe EP",
+          "link": "https://www.deezer.com/track/2216401577",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/d/0/0/0d046725072299849b43b335e76b7b98.mp3?hdnea=exp=1794003577~acl=/api/1/1/0/d/0/0/0d046725072299849b43b335e76b7b98.mp3*~data=user_id=0,application_id=42~hmac=58d06d84365a775eec8a4473288599854dd29f6d03b056ea96d75a6d6985e837",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/52c081e1dab8115f16106d7773ede10f/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "exproz": {
+    "name": "Exproz",
+    "updatedAt": "2026-11-06T22:04:37.863Z",
+    "deezer": {
+      "id": 15369831,
+      "link": "https://www.deezer.com/artist/15369831",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/66c0d297f4b07e3bc150a955fd538647/250x250-000000-80-0-0.jpg",
+      "fans": 575,
+      "top": [
+        {
+          "title": "Check This Out",
+          "album": "Check This Out",
+          "link": "https://www.deezer.com/track/3862578411",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/9/0/0/090f25802d9ca70f4a2dc3dba7579aed.mp3?hdnea=exp=1794003578~acl=/api/1/1/0/9/0/0/090f25802d9ca70f4a2dc3dba7579aed.mp3*~data=user_id=0,application_id=42~hmac=0961bb96ccc9c7391da67975ee5d7206596d2f02561285e23cbd9da9b1bc4d02",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/46b90175f7c448378674060a991548a9/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "F YOURSELF",
+          "album": "F YOURSELF",
+          "link": "https://www.deezer.com/track/4038594421",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/3/d/0/a3d763f3edeff02f649c8b679f9126a0.mp3?hdnea=exp=1794003578~acl=/api/1/1/a/3/d/0/a3d763f3edeff02f649c8b679f9126a0.mp3*~data=user_id=0,application_id=42~hmac=8ab7bc68bd744331b0c295ada55879b2db254c29bd4deeeb8b6e17d9754be4de",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/5cb05ab64014404ea65273562abe1280/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Rave Shizz",
+          "album": "Rave Shizz",
+          "link": "https://www.deezer.com/track/4155852392",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/1/d/0/91dd54c9d3b56f28b96321d9bb059af7.mp3?hdnea=exp=1794003578~acl=/api/1/1/9/1/d/0/91dd54c9d3b56f28b96321d9bb059af7.mp3*~data=user_id=0,application_id=42~hmac=e2aa3914a6690ddaf21bb7b694beb0e55cf8c5257fb09b7fc24939e8803a80b7",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/a4440a8c8baacd04a20d47c86c1478a6/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "The Product",
+          "album": "The Product",
+          "link": "https://www.deezer.com/track/2656543682",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/6/0/8d6aa449cadf6170d0e46491ff3e7c0a.mp3?hdnea=exp=1794003578~acl=/api/1/1/8/d/6/0/8d6aa449cadf6170d0e46491ff3e7c0a.mp3*~data=user_id=0,application_id=42~hmac=04f30cc40b837067ecec880cfd3a8a5923ac0bc6d82f8811f85d23bb886ac91f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/69a07a793cf89b5fd956d56c229f06e8/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Fire",
+          "album": "Fire",
+          "link": "https://www.deezer.com/track/1465934632",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/c/5/0/7c55cc5d38432ed239e60eb3afb432c5.mp3?hdnea=exp=1794003578~acl=/api/1/1/7/c/5/0/7c55cc5d38432ed239e60eb3afb432c5.mp3*~data=user_id=0,application_id=42~hmac=ea8a190e2a197cf1f9b5a919392061deef240b7f627bba197f76b9eb1f98911a",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2d4ef773afc00f39a1fdbe927f533ee6/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "bollmann": {
+    "name": "Bollmann",
+    "updatedAt": "2026-11-06T22:04:38.445Z",
+    "deezer": {
+      "id": 6077496,
+      "link": "https://www.deezer.com/artist/6077496",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/ddaecebb2d6d3ade9d3d0d90ea4bf21b/250x250-000000-80-0-0.jpg",
+      "fans": 405,
+      "top": [
+        {
+          "title": "Rampage (VIP Mix)",
+          "album": "Rampage (VIP Mix)",
+          "link": "https://www.deezer.com/track/3106978721",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/8/a/0/d8a63a3dcc6a1b19bbc7479866aa2556.mp3?hdnea=exp=1794003578~acl=/api/1/1/d/8/a/0/d8a63a3dcc6a1b19bbc7479866aa2556.mp3*~data=user_id=0,application_id=42~hmac=183ee186b8a9e129e088fc04aec5a40aafef5e680c85bb85ee494f13ba1579cd",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/4c8e8e0a7feb4219e4e8f72a9e2dca08/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Rampage (Creeds Remix)",
+          "album": "Rampage (Creeds Remix)",
+          "link": "https://www.deezer.com/track/2434701715",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/1/0/431f97892aff3a7cde461bbe4180a9de.mp3?hdnea=exp=1794003578~acl=/api/1/1/4/3/1/0/431f97892aff3a7cde461bbe4180a9de.mp3*~data=user_id=0,application_id=42~hmac=3701d4ca94629c01576e02b71c559430e70c157994a53e9d8bb7d76acd323a54",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/ddaecebb2d6d3ade9d3d0d90ea4bf21b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Rampage",
+          "album": "01010100 Various Artists 001",
+          "link": "https://www.deezer.com/track/1038395782",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/c/e/0/fce89244411e5d25d87590f084c17417.mp3?hdnea=exp=1794003578~acl=/api/1/1/f/c/e/0/fce89244411e5d25d87590f084c17417.mp3*~data=user_id=0,application_id=42~hmac=b0b0b3bbe9b5b4c62e9b7517fd6d871fbd2eae67e469d6452c1dd98f219c4330",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/72b00f94aeaccbc77d4b3d36f50dc62c/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Rampage",
+          "album": "Rampage",
+          "link": "https://www.deezer.com/track/2428789485",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/3/c/0/83cedb5f29fb416f57570ae1fa61f71c.mp3?hdnea=exp=1794003578~acl=/api/1/1/8/3/c/0/83cedb5f29fb416f57570ae1fa61f71c.mp3*~data=user_id=0,application_id=42~hmac=df74cfcc86fa179cb87b00641e49072a69500df0b06959ade167b17f6c02637a",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/6954b82b12a507e4e9f58ca76b81e6c9/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Black Magic Kick Club",
+          "album": "Mixed Martial Hards, Vol. 01",
+          "link": "https://www.deezer.com/track/3823817391",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/4/c/0/04cec2bae364f20e4e73343f45ba7c66.mp3?hdnea=exp=1794003578~acl=/api/1/1/0/4/c/0/04cec2bae364f20e4e73343f45ba7c66.mp3*~data=user_id=0,application_id=42~hmac=d4d2b0d306146afa1fecca3b022b6c30317247469079e9e311befa94c5907e08",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/1c9ca3ee660989f77f4cfdfc97133caf/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "dark infection 9th aniversary": {
+    "name": "Dark Infection 9th aniversary",
+    "updatedAt": "2026-11-06T22:04:38.974Z",
+    "deezer": null
+  },
+  "dj stepfather": {
+    "name": "DJ stepfather",
+    "updatedAt": "2026-11-06T22:15:18.353Z",
+    "deezer": null
+  },
+  "tt tempo timo": {
+    "name": "tt tempo timo",
+    "updatedAt": "2026-11-06T22:15:18.811Z",
+    "deezer": null
+  },
+  "secondface": {
+    "name": "secondface",
+    "updatedAt": "2026-11-06T22:15:19.209Z",
+    "deezer": {
+      "id": 12611007,
+      "link": "https://www.deezer.com/artist/12611007",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/d4ead760ecf70eec7bdd4ecc17d7fd06/250x250-000000-80-0-0.jpg",
+      "fans": 13,
+      "top": [
+        {
+          "title": "DvS Vs. SecondFace: Thunderdome Baby (2k21 Edit)",
+          "album": "DvS Vs. SecondFace: Thunderdome Baby (2k21 Edit)",
+          "link": "https://www.deezer.com/track/1461743782",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/c/4/0/3c49aecc04e97d4a5590e21a04389f4a.mp3?hdnea=exp=1794004219~acl=/api/1/1/3/c/4/0/3c49aecc04e97d4a5590e21a04389f4a.mp3*~data=user_id=0,application_id=42~hmac=9f1352fe434d46d5fdc0ee5c19c8c037ac46f74a47d92df7b3e2764b193b344b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/86483be47a5969e473491c74a712eb1b/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "leonidas": {
+    "name": "leonidas",
+    "updatedAt": "2026-11-06T22:15:19.699Z",
+    "deezer": {
+      "id": 1518917,
+      "link": "https://www.deezer.com/artist/1518917",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/73017746ef921eaff91f17ff26d96f6b/250x250-000000-80-0-0.jpg",
+      "fans": 231,
+      "top": [
+        {
+          "title": "Engel",
+          "album": "Engel",
+          "link": "https://www.deezer.com/track/1031256082",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/d/a/0/8da69673f16715e509ff5bbbac1907b5.mp3?hdnea=exp=1794004219~acl=/api/1/1/8/d/a/0/8da69673f16715e509ff5bbbac1907b5.mp3*~data=user_id=0,application_id=42~hmac=261f942a300fc842d661c6a3ddb5eee13cc14b6c14b38955538cdd6efe953dc4",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/80e72b7cb24f166ecd5bc78c2c572209/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "LOLITA",
+          "album": "LOLITA",
+          "link": "https://www.deezer.com/track/4288750272",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/9/b/0/29b65a0fd5b69ba243851d2c858eba83.mp3?hdnea=exp=1794004219~acl=/api/1/1/2/9/b/0/29b65a0fd5b69ba243851d2c858eba83.mp3*~data=user_id=0,application_id=42~hmac=55af626bcf3df4070d8735d7dfe667ba7c647686adf22c5632b5452c9ac07f82",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/6d37d3fa0ab68967b16cded6aff9f628/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Interstellar Vibrations",
+          "album": "Sequential",
+          "link": "https://www.deezer.com/track/2594514642",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/3/d/0/03d1a8cc467a1f61c0ef974676a41159.mp3?hdnea=exp=1794004219~acl=/api/1/1/0/3/d/0/03d1a8cc467a1f61c0ef974676a41159.mp3*~data=user_id=0,application_id=42~hmac=afd8a3b5b80b7689e03e04dde05a6deef3bdd6faf60ab96f47c1c45e5c539d62",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/6f73f0efb4f20f59982503a7879dcc60/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "As Loud as You Can",
+          "album": "As Loud as You Can",
+          "link": "https://www.deezer.com/track/3659447562",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/f/0/76f04e6b004fed53cb619d3118e51f31.mp3?hdnea=exp=1794004219~acl=/api/1/1/7/6/f/0/76f04e6b004fed53cb619d3118e51f31.mp3*~data=user_id=0,application_id=42~hmac=9c55aa20c1e400e33cbead46a0f393b607362eef9eeb5605c47d98cc17ffad46",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/053843fef703de6599bf9954507660c1/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "One Way Ticket",
+          "album": "One Way Ticket",
+          "link": "https://www.deezer.com/track/1090402932",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/a/7/0/3a7f554f7125c7f0dce1b2ce82937cab.mp3?hdnea=exp=1794004219~acl=/api/1/1/3/a/7/0/3a7f554f7125c7f0dce1b2ce82937cab.mp3*~data=user_id=0,application_id=42~hmac=ee30df76ddc61c83f7a56cfa87bf0d4f045cdcebed116670d1ee909539a70b65",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/0f192e78398ede7a803499813f0aa76b/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "adaptive": {
+    "name": "adaptive",
+    "updatedAt": "2026-11-06T22:15:20.203Z",
+    "deezer": {
+      "id": 177460,
+      "link": "https://www.deezer.com/artist/177460",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/240dce03fad9252339f9d59934394752/250x250-000000-80-0-0.jpg",
+      "fans": 4,
+      "top": []
+    }
+  },
+  "charly juice": {
+    "name": "CHARLY JUICE",
+    "updatedAt": "2026-11-06T22:15:20.825Z",
+    "deezer": {
+      "id": 221241825,
+      "link": "https://www.deezer.com/artist/221241825",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/310363043a9f0696ad374413c7c7a23f/250x250-000000-80-0-0.jpg",
+      "fans": 0,
+      "top": [
+        {
+          "title": "Noche Suelta",
+          "album": "Noche Suelta",
+          "link": "https://www.deezer.com/track/4209285992",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/5/3/0/e534b353a793635d3b62e85ba47c6362.mp3?hdnea=exp=1794004221~acl=/api/1/1/e/5/3/0/e534b353a793635d3b62e85ba47c6362.mp3*~data=user_id=0,application_id=42~hmac=5c105060f8117716ae91086f8af7f5cae82265e82e759c08db8e8f7b2f7ccba0",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/85759281713bcbfea3945aac372474aa/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "mpb": {
+    "name": "MPB",
+    "updatedAt": "2026-11-06T22:15:21.320Z",
+    "deezer": {
+      "id": 139565,
+      "link": "https://www.deezer.com/artist/139565",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/e25fc9a960034b0f60447823bb50ebb2/250x250-000000-80-0-0.jpg",
+      "fans": 1608,
+      "top": []
+    }
+  },
+  "r3ckless": {
+    "name": "R3CKLESS",
+    "updatedAt": "2026-11-06T22:15:21.720Z",
+    "deezer": {
+      "id": 64330172,
+      "link": "https://www.deezer.com/artist/64330172",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/ded741a593c21607564085d6568a717a/250x250-000000-80-0-0.jpg",
+      "fans": 3,
+      "top": []
+    }
+  },
+  "palo": {
+    "name": "PALØ",
+    "updatedAt": "2026-11-06T22:15:22.337Z",
+    "deezer": {
+      "id": 1150792,
+      "link": "https://www.deezer.com/artist/1150792",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/82be24c487885084c22723658da212ef/250x250-000000-80-0-0.jpg",
+      "fans": 2492,
+      "top": [
+        {
+          "title": "Al Monte",
+          "album": "Yo Quiero Guarachar",
+          "link": "https://www.deezer.com/track/2573051842",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/0/2/0/9027bd65a246eeef16f2e5af55dbd75e.mp3?hdnea=exp=1794004222~acl=/api/1/1/9/0/2/0/9027bd65a246eeef16f2e5af55dbd75e.mp3*~data=user_id=0,application_id=42~hmac=a83521638dd09771c038184f8b16b59dd1f6e4d3f94bcf70a977be0db8f7f7e6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f30063b96cc495ee8bb5eb0cc5278891/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "La Habana Buena",
+          "album": "This Is Afro-Cuban Funk",
+          "link": "https://www.deezer.com/track/2576505842",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/6/6/0/e667a908376a5ec0827cbe655d682738.mp3?hdnea=exp=1794004222~acl=/api/1/1/e/6/6/0/e667a908376a5ec0827cbe655d682738.mp3*~data=user_id=0,application_id=42~hmac=f4718401b7f209c475cc749581c12846efaac9578ce9a00475c5207c7a552419",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e4592d1ee400823aca1c4c76d39df3d9/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Llegó El Brujo",
+          "album": "Llegó El Brujo",
+          "link": "https://www.deezer.com/track/2568858762",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/e/4/0/3e490f1369de08d4382e64cfba91c345.mp3?hdnea=exp=1794004222~acl=/api/1/1/3/e/4/0/3e490f1369de08d4382e64cfba91c345.mp3*~data=user_id=0,application_id=42~hmac=c4edf5633d6547d0f8fcd4d3a69cd59e70c54740171190066d3d19e6ceb45ab1",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e80182c74bd06a79748486feb5bf5373/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Echa Un Palito",
+          "album": "Yo Quiero Guarachar",
+          "link": "https://www.deezer.com/track/2573051902",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/f/0/0ef75693e1512271d210b3e99af45b1c.mp3?hdnea=exp=1794004222~acl=/api/1/1/0/e/f/0/0ef75693e1512271d210b3e99af45b1c.mp3*~data=user_id=0,application_id=42~hmac=adb26f79e4dcf92e1d3e8b0a64b36206ab5e48c8d701a0af4af1ac315f35ea1d",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f30063b96cc495ee8bb5eb0cc5278891/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Yo Soy Del Campo",
+          "album": "Yo Soy Del Campo",
+          "link": "https://www.deezer.com/track/2568835852",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/0/d/0/30dee2f2f01d86d7745407a1dd6debfb.mp3?hdnea=exp=1794004222~acl=/api/1/1/3/0/d/0/30dee2f2f01d86d7745407a1dd6debfb.mp3*~data=user_id=0,application_id=42~hmac=71ec7f6337357e7837a45e50433fef24b2bf2febfb56bc01b563abaa80437bfe",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/a9fc61b4568b18dfbf7c8303d7d93b64/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "ffzg": {
+    "name": "ffzg",
+    "updatedAt": "2026-11-06T22:15:22.902Z",
+    "deezer": null
   }
 }

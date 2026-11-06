@@ -11,18 +11,25 @@ Karte mit **Hardtechno-, Industrial- und Uptempo-Events** im Umkreis von 100 km 
 
 Reines statisches Frontend (HTML/JS + Leaflet) ohne Build-Schritt. Die Daten erzeugt ein Node-Script, das per GitHub Action einmal täglich läuft.
 
-## Wie werden Events erkannt?
+## Datenquellen & Erkennung
 
-Quelle ist [Resident Advisor](https://ra.co) (Areas Munich, Bavaria, Augsburg, Regensburg, Salzburg). Da RA kein eigenes Genre „Hard Techno“ hat, wird jedes Event bewertet ([`scripts/config.mjs`](scripts/config.mjs)):
+Viele Industrial-, Schranz- und Underground-Raves in München stehen **nicht** auf Resident Advisor. Deshalb kombiniert der tägliche Lauf mehrere Quellen und führt doppelte Einträge automatisch zusammen:
+
+1. **Resident Advisor** (Areas Munich, Bavaria, Augsburg, Regensburg, Salzburg)
+2. **Instagram-Scanner** ([`scripts/lib/instagram.mjs`](scripts/lib/instagram.mjs)) – prüft per Headless Chrome öffentliche Profile regionaler Kollektive & Clubs (`@nuketekk`, `@aphotic.germany`, `@syndikat.lab`, `@noexit.muc`, `@pulstreiberkollektiv`, `@tanzwut.kollektiv`, `@behaerd`, `@vortex_underground`, `@unikat.info`, `@morph.kollektiv`, `@clubrotesonne`, `@kesselhaus_augsburg`, `@100hz.club`, `@bahnwaerterthiel`, …) und liest Datum, Uhrzeit, Venue & Line-up aus den Captions aus
+3. **Club-Webseiten & Ticket-Shops** ([`scripts/lib/munich-sources.mjs`](scripts/lib/munich-sources.mjs)) – u. a. `rote-sonne.com` sowie `*.ticket.io`-Shops
+4. **Schwarzes München** (`schwarzes-muenchen.de/events/`) – für EBM-, Electro-Industrial- und Dark-Techno-Nächte (z. B. *UNTERWELT*, *Dark Infection*, *SPK*)
+
+Jedes Event wird anschließend klassifiziert ([`scripts/config.mjs`](scripts/config.mjs)):
 
 | Signal | Beispiel | Ergebnis |
 |---|---|---|
-| RA-Genre | Industrial, EBM, Hardcore, Gabber, Hard Drum | ✅ sicher |
-| Stichwort in Titel/Beschreibung | „Hardtechno“, „Schranz“, „Hardgroove“, „Uptempo“, „135+“, „150 BPM“ | ✅ sicher |
-| Bekannter Act im Line-up | I Hate Models, Kobosil, VTSS, Nico Moreno … | ✅ sicher |
+| Genre / Szene-Kollektiv | Industrial, EBM, Hardcore, Gabber, `@nuketekk`, `@aphotic.germany` … | ✅ sicher |
+| Stichwort in Titel/Caption | „Hardtechno“, „Industrial“, „Schranz“, „Uptempo“, „UNTERWELT“, „UNTREATED“, „135+“ | ✅ sicher |
+| Bekannter Act im Line-up | Perc, Somewhen, Schrotthagen, I Hate Models, Kobosil, Angerfist … | ✅ sicher |
 | Nur Genre „Techno“/„Acid“ | – | ❔ unsicher (Filter „+ Techno“) |
 
-👉 Fehlt dir ein Act oder ein Club, trag ihn einfach in `ARTIST_STYLES` bzw. `VENUE_STYLES` in `scripts/config.mjs` ein.
+👉 Fehlt dir ein Instagram-Kollektiv, ein Act oder ein Club, trag ihn einfach in `INSTAGRAM_ACCOUNTS`, `ARTIST_STYLES` bzw. `KNOWN_VENUES` in [`scripts/config.mjs`](scripts/config.mjs) ein.
 
 ## Lokal starten
 
