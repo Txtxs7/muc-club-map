@@ -1,0 +1,1614 @@
+{
+  "generatedAt": "2026-11-06T20:36:01.330Z",
+  "center": {
+    "name": "München Marienplatz",
+    "lat": 48.1374,
+    "lng": 11.5755
+  },
+  "radiusKm": 100,
+  "venues": {
+    "ra-227774": {
+      "id": "ra-227774",
+      "name": "Tonhalle",
+      "address": "Ateliertrasse 24, 81671 München",
+      "url": "https://ra.co/clubs/227774",
+      "lat": 48.123912,
+      "lng": 11.606913,
+      "distanceKm": 3
+    },
+    "ra-6828": {
+      "id": "ra-6828",
+      "name": "Pacha",
+      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
+      "url": "https://ra.co/clubs/6828",
+      "lat": 48.142272,
+      "lng": 11.570342,
+      "distanceKm": 1
+    },
+    "ra-226763": {
+      "id": "ra-226763",
+      "name": "Lieberscholli",
+      "address": "Landsberger Str. 212, 80687 München, Germany",
+      "url": "https://ra.co/clubs/226763",
+      "lat": 48.141982,
+      "lng": 11.515921,
+      "distanceKm": 4
+    },
+    "ra-148879": {
+      "id": "ra-148879",
+      "name": "Corleone",
+      "address": "Sendlinger-Tor-Platz 7, 80336 München",
+      "url": "https://ra.co/clubs/148879",
+      "lat": 48.133727,
+      "lng": 11.56523,
+      "distanceKm": 1
+    },
+    "ra-8036": {
+      "id": "ra-8036",
+      "name": "Palais",
+      "address": "Arnulfstrasse 16-18; 80335 Munich; Germany",
+      "url": "https://ra.co/clubs/8036",
+      "lat": 48.141923,
+      "lng": 11.558182,
+      "distanceKm": 1
+    },
+    "ra-118360": {
+      "id": "ra-118360",
+      "name": "Unter Deck",
+      "address": "Oberanger 26, 80331 München",
+      "url": "https://ra.co/clubs/118360",
+      "lat": 48.13509,
+      "lng": 11.57111,
+      "distanceKm": 0
+    },
+    "ra-4829": {
+      "id": "ra-4829",
+      "name": "Rote Sonne",
+      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
+      "url": "https://ra.co/clubs/4829",
+      "lat": 48.142272,
+      "lng": 11.570342,
+      "distanceKm": 1
+    },
+    "ra-112682": {
+      "id": "ra-112682",
+      "name": "Bahnwärter Thiel",
+      "address": "Tumblingerstraße 29, 80333 München",
+      "url": "https://ra.co/clubs/112682",
+      "lat": 48.123198,
+      "lng": 11.554813,
+      "distanceKm": 2
+    },
+    "ra-302632": {
+      "id": "ra-302632",
+      "name": "Printhouse",
+      "address": "Dessauerstrasse 10, 80992 München",
+      "url": "https://ra.co/clubs/302632",
+      "lat": 48.180363,
+      "lng": 11.532447,
+      "distanceKm": 6
+    },
+    "ra-19037": {
+      "id": "ra-19037",
+      "name": "Backstage",
+      "address": "Reitknechtstr. 6, 80639 Munich, Germany",
+      "url": "https://ra.co/clubs/19037",
+      "lat": 48.144976,
+      "lng": 11.521915,
+      "distanceKm": 4
+    },
+    "ra-256340": {
+      "id": "ra-256340",
+      "name": "Bergson Kunstkraftwerk",
+      "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
+      "url": "https://ra.co/clubs/256340",
+      "lat": 48.162644,
+      "lng": 11.424999,
+      "distanceKm": 12
+    },
+    "ra-98032": {
+      "id": "ra-98032",
+      "name": "Hallo Werner",
+      "address": "Schrannenstraße 8, 86150 Augsburg",
+      "url": "https://ra.co/clubs/98032",
+      "lat": 48.365375,
+      "lng": 10.890775,
+      "distanceKm": 57
+    },
+    "ra-55821": {
+      "id": "ra-55821",
+      "name": "Zenith - Die Kulturhalle",
+      "address": "Lilienthalallee 80939 Munich, Germany",
+      "url": "https://ra.co/clubs/55821",
+      "lat": 48.194183,
+      "lng": 11.608399,
+      "distanceKm": 7
+    },
+    "ra-190353": {
+      "id": "ra-190353",
+      "name": "Kesselhaus Augsburg",
+      "address": "Riedingerstraße 26i, 86153 Augsburg",
+      "url": "https://ra.co/clubs/190353",
+      "lat": 48.385777,
+      "lng": 10.891371,
+      "distanceKm": 58
+    },
+    "ra-8425": {
+      "id": "ra-8425",
+      "name": "Kesselhaus",
+      "address": "Lilienthalallee 29, 80939 München",
+      "url": "https://ra.co/clubs/8425",
+      "lat": 48.194698,
+      "lng": 11.60786,
+      "distanceKm": 7
+    }
+  },
+  "events": [
+    {
+      "id": "ra-2545194",
+      "source": "ra",
+      "date": "2026-11-06",
+      "title": "Aircraft LIVE / POETRY + LO-FI BEATS / AFTERPARTY BY TUFF MONTY",
+      "start": "19:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2545194",
+      "flyer": null,
+      "venueId": "ra-226763",
+      "genres": [
+        "Techno",
+        "Electronica"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "aircraft",
+          "name": "Aircraft",
+          "url": "https://ra.co/dj/aircraft"
+        }
+      ]
+    },
+    {
+      "id": "ra-2423305",
+      "source": "ra",
+      "date": "2026-11-06",
+      "title": "NTO live in concert @ Tonhalle Munich",
+      "start": "20:00",
+      "end": "00:00",
+      "url": "https://ra.co/events/2423305",
+      "flyer": null,
+      "venueId": "ra-227774",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "nto",
+          "name": "NTO",
+          "url": "https://ra.co/dj/nto"
+        },
+        {
+          "key": "prismode",
+          "name": "Prismode",
+          "url": "https://ra.co/dj/prismode-de"
+        },
+        {
+          "key": "solvane",
+          "name": "Solvane",
+          "url": "https://ra.co/dj/solvane"
+        }
+      ]
+    },
+    {
+      "id": "ra-2520638",
+      "source": "ra",
+      "date": "2026-11-06",
+      "title": "World League with Kevin de Vries",
+      "start": "22:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2520638",
+      "flyer": null,
+      "venueId": "ra-6828",
+      "genres": [
+        "Trance",
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "kevin de vries",
+          "name": "Kevin de Vries",
+          "url": "https://ra.co/dj/kevindevries"
+        }
+      ]
+    },
+    {
+      "id": "ra-2554474",
+      "source": "ra",
+      "date": "2026-11-06",
+      "title": "Electroamore im Corleone",
+      "start": "22:00",
+      "end": "04:00",
+      "url": "https://ra.co/events/2554474",
+      "flyer": null,
+      "venueId": "ra-148879",
+      "genres": [
+        "Techno",
+        "Electro"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "ronny",
+          "name": "RONNY",
+          "url": "https://ra.co/dj/ronny"
+        },
+        {
+          "key": "die tektonische plattenverschiebung",
+          "name": "Die Tektonische Plattenverschiebung",
+          "url": "https://ra.co/dj/dietektonischeplattenverschiebung"
+        },
+        {
+          "key": "dj fm dj freund",
+          "name": "DJ FM & DJ FREUND",
+          "url": "https://ra.co/dj/djfmdjfreund"
+        }
+      ]
+    },
+    {
+      "id": "ra-2570265",
+      "source": "ra",
+      "date": "2026-11-07",
+      "title": "RESIDENTEN-SUITE",
+      "start": "04:00",
+      "end": "11:00",
+      "url": "https://ra.co/events/2570265",
+      "flyer": null,
+      "venueId": "ra-8036",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "sandra gold",
+          "name": "Sandra Gold",
+          "url": "https://ra.co/dj/sandragold"
+        }
+      ]
+    },
+    {
+      "id": "ra-2570311",
+      "source": "ra",
+      "date": "2026-11-07",
+      "title": "NASTY TIMES WITH BOHO",
+      "start": "21:00",
+      "end": "11:00",
+      "url": "https://ra.co/events/2570311",
+      "flyer": null,
+      "venueId": "ra-8036",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": []
+    },
+    {
+      "id": "ra-2573914",
+      "source": "ra",
+      "date": "2026-11-10",
+      "title": "Tuesday in Love: JANKA b2b RONNY All night long",
+      "start": "20:00",
+      "end": "01:00",
+      "url": "https://ra.co/events/2573914",
+      "flyer": null,
+      "venueId": "ra-118360",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "ronny",
+          "name": "RONNY",
+          "url": "https://ra.co/dj/ronny"
+        }
+      ]
+    },
+    {
+      "id": "ra-2554408",
+      "source": "ra",
+      "date": "2026-11-11",
+      "title": "garryklein",
+      "start": "22:00",
+      "end": "03:00",
+      "url": "https://ra.co/events/2554408",
+      "flyer": null,
+      "venueId": "ra-4829",
+      "genres": [
+        "Techno",
+        "Pop"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": []
+    },
+    {
+      "id": "ra-2565301",
+      "source": "ra",
+      "date": "2026-11-12",
+      "title": "Isarbass",
+      "start": "22:00",
+      "end": "04:00",
+      "url": "https://ra.co/events/2565301",
+      "flyer": null,
+      "venueId": "ra-118360",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": []
+    },
+    {
+      "id": "ra-2565572",
+      "source": "ra",
+      "date": "2026-11-12",
+      "title": "135+ mit XOXO & Secret Trance Frequencies",
+      "start": "22:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2565572",
+      "flyer": null,
+      "venueId": "ra-112682",
+      "genres": [],
+      "styles": [
+        "uptempo"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"135+\""
+      ],
+      "artists": [
+        {
+          "key": "atzlina",
+          "name": "Atzlina",
+          "url": "https://ra.co/dj/atzlina"
+        }
+      ]
+    },
+    {
+      "id": "ra-2565500",
+      "source": "ra",
+      "date": "2026-11-13",
+      "title": "Dark Pulse",
+      "start": "22:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2565500",
+      "flyer": null,
+      "venueId": "ra-226763",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "hardtechno"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"Hard Techno\""
+      ],
+      "artists": [
+        {
+          "key": "danuschek",
+          "name": "danuschek",
+          "url": "https://ra.co/dj/danuschek"
+        },
+        {
+          "key": "spanierohneauto",
+          "name": "SpanierOhneAuto",
+          "url": "https://ra.co/dj/spanierohneauto"
+        }
+      ]
+    },
+    {
+      "id": "ra-2570343",
+      "source": "ra",
+      "date": "2026-11-14",
+      "title": "WE PLAY",
+      "start": "03:00",
+      "end": "11:00",
+      "url": "https://ra.co/events/2570343",
+      "flyer": null,
+      "venueId": "ra-8036",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "george bleicher",
+          "name": "George Bleicher",
+          "url": "https://ra.co/dj/georgebleicher"
+        },
+        {
+          "key": "gunnar stiller",
+          "name": "Gunnar Stiller",
+          "url": "https://ra.co/dj/gunnarstiller"
+        }
+      ]
+    },
+    {
+      "id": "ra-2508010",
+      "source": "ra",
+      "date": "2026-11-14",
+      "title": "Der 8. Tag by Electroamore",
+      "start": "16:00",
+      "end": "04:00",
+      "url": "https://ra.co/events/2508010",
+      "flyer": null,
+      "venueId": "ra-118360",
+      "genres": [
+        "Techno",
+        "Electro"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "fej tal",
+          "name": "Fej:tal",
+          "url": "https://ra.co/dj/fejtal"
+        },
+        {
+          "key": "dj fm dj freund",
+          "name": "DJ FM & DJ FREUND",
+          "url": "https://ra.co/dj/djfmdjfreund"
+        },
+        {
+          "key": "ronny",
+          "name": "RONNY",
+          "url": "https://ra.co/dj/ronny"
+        },
+        {
+          "key": "die tektonische plattenverschiebung",
+          "name": "Die Tektonische Plattenverschiebung",
+          "url": "https://ra.co/dj/dietektonischeplattenverschiebung"
+        }
+      ]
+    },
+    {
+      "id": "ra-2571981",
+      "source": "ra",
+      "date": "2026-11-14",
+      "title": "Printhouse Edition 0003",
+      "start": "20:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2571981",
+      "flyer": null,
+      "venueId": "ra-302632",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "izzya",
+          "name": "IZZYA",
+          "url": "https://ra.co/dj/izzya"
+        },
+        {
+          "key": "kinzua",
+          "name": "Kinzua",
+          "url": "https://ra.co/dj/kinzua"
+        },
+        {
+          "key": "vril",
+          "name": ".VRIL",
+          "url": "https://ra.co/dj/vril"
+        },
+        {
+          "key": "recondite",
+          "name": "Recondite",
+          "url": "https://ra.co/dj/recondite"
+        },
+        {
+          "key": "euphrat",
+          "name": "Euphrat",
+          "url": "https://ra.co/dj/euphrat"
+        },
+        {
+          "key": "nathalie seres",
+          "name": "Nathalie Seres",
+          "url": "https://ra.co/dj/nathalieseres"
+        },
+        {
+          "key": "sevensol",
+          "name": "Sevensol",
+          "url": "https://ra.co/dj/sevensol"
+        },
+        {
+          "key": "qnete",
+          "name": "Qnete",
+          "url": "https://ra.co/dj/qnete"
+        }
+      ]
+    },
+    {
+      "id": "ra-2565594",
+      "source": "ra",
+      "date": "2026-11-19",
+      "title": "135+ mit Klangfarben & Halligalli.with.friends",
+      "start": "22:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2565594",
+      "flyer": null,
+      "venueId": "ra-112682",
+      "genres": [],
+      "styles": [
+        "uptempo"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"135+\""
+      ],
+      "artists": [
+        {
+          "key": "arkinice",
+          "name": "Arkinice",
+          "url": "https://ra.co/dj/arkinice"
+        },
+        {
+          "key": "cotti larje",
+          "name": "Cottí Larje",
+          "url": "https://ra.co/dj/cottilarje"
+        },
+        {
+          "key": "dj sonnenbrand",
+          "name": "DJ Sonnenbrand",
+          "url": "https://ra.co/dj/djsonnenbrand"
+        },
+        {
+          "key": "terzenbreaker",
+          "name": "Terzenbreaker",
+          "url": "https://ra.co/dj/terzenbreaker"
+        },
+        {
+          "key": "antyo",
+          "name": "antyo",
+          "url": "https://ra.co/dj/antyo"
+        },
+        {
+          "key": "danuschek",
+          "name": "danuschek",
+          "url": "https://ra.co/dj/danuschek"
+        }
+      ]
+    },
+    {
+      "id": "ra-2569667",
+      "source": "ra",
+      "date": "2026-11-20",
+      "title": "Kinky Karneval Festival Edition",
+      "start": "21:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2569667",
+      "flyer": null,
+      "venueId": "ra-226763",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "sabura",
+          "name": "Sabura",
+          "url": "https://ra.co/dj/sabura"
+        },
+        {
+          "key": "l a x",
+          "name": "L.A.X",
+          "url": "https://ra.co/dj/l.a.x"
+        },
+        {
+          "key": "alessia cattani",
+          "name": "Alessia Cattani",
+          "url": "https://ra.co/dj/alessiacattani"
+        }
+      ]
+    },
+    {
+      "id": "ra-2571380",
+      "source": "ra",
+      "date": "2026-11-20",
+      "title": "Raveyard Resurrected",
+      "start": "22:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2571380",
+      "flyer": null,
+      "venueId": "ra-19037",
+      "genres": [
+        "Techno",
+        "Hardcore"
+      ],
+      "styles": [
+        "uptempo"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Genre: Hardcore",
+        "Stichwort: \"hardcore\""
+      ],
+      "artists": []
+    },
+    {
+      "id": "ra-2576050",
+      "source": "ra",
+      "date": "2026-11-21",
+      "title": "Silo West with DJ Cringey, DVAID, ENERGY TAPE, GEORGE RADSPORT, TARIA",
+      "start": "13:00",
+      "end": "23:00",
+      "url": "https://ra.co/events/2576050",
+      "flyer": null,
+      "venueId": "ra-256340",
+      "genres": [
+        "Trance",
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "dj cringey",
+          "name": "DJ Cringey",
+          "url": "https://ra.co/dj/djcringey"
+        },
+        {
+          "key": "dvaid",
+          "name": "DVAID",
+          "url": "https://ra.co/dj/dvaid"
+        },
+        {
+          "key": "energy tape",
+          "name": "ENERGY TAPE",
+          "url": "https://ra.co/dj/energytape"
+        },
+        {
+          "key": "taria",
+          "name": "TARIA",
+          "url": "https://ra.co/dj/taria"
+        }
+      ]
+    },
+    {
+      "id": "ra-2566019",
+      "source": "ra",
+      "date": "2026-11-21",
+      "title": "CFU - Bahnwärter Thiel - Two Year Anniversary",
+      "start": "22:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2566019",
+      "flyer": null,
+      "venueId": "ra-112682",
+      "genres": [
+        "Techno",
+        "Minimal Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno",
+        "Genre: Minimal Techno"
+      ],
+      "artists": [
+        {
+          "key": "shishmish",
+          "name": "Shishmish",
+          "url": "https://ra.co/dj/shishmish"
+        },
+        {
+          "key": "sashty",
+          "name": "SASHTY",
+          "url": "https://ra.co/dj/sashty"
+        },
+        {
+          "key": "marcel dusk",
+          "name": "Marcel Dusk",
+          "url": "https://ra.co/dj/marceldusk"
+        },
+        {
+          "key": "dykstra",
+          "name": "Dykstra",
+          "url": "https://ra.co/dj/dykstra"
+        }
+      ]
+    },
+    {
+      "id": "ra-2570601",
+      "source": "ra",
+      "date": "2026-11-26",
+      "title": "135+ mit Bliss & Intensive Emotions",
+      "start": "22:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2570601",
+      "flyer": null,
+      "venueId": "ra-112682",
+      "genres": [],
+      "styles": [
+        "uptempo"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"135+\""
+      ],
+      "artists": [
+        {
+          "key": "dena",
+          "name": "Dena",
+          "url": "https://ra.co/dj/dena"
+        }
+      ]
+    },
+    {
+      "id": "ra-2553678",
+      "source": "ra",
+      "date": "2026-11-27",
+      "title": "GARDEN OF TASTE presents: SPICY GANG CHARITY NIGHT",
+      "start": "23:00",
+      "end": "08:00",
+      "url": "https://ra.co/events/2553678",
+      "flyer": null,
+      "venueId": "ra-98032",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "hardtechno"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"hardgroove\""
+      ],
+      "artists": [
+        {
+          "key": "maurer",
+          "name": "MAURER",
+          "url": "https://ra.co/dj/maurer"
+        },
+        {
+          "key": "symon",
+          "name": "SYMON",
+          "url": "https://ra.co/dj/symon"
+        },
+        {
+          "key": "source code",
+          "name": "Source Code",
+          "url": "https://ra.co/dj/sourcecode-2"
+        },
+        {
+          "key": "daniel s",
+          "name": "Daniel S.",
+          "url": "https://ra.co/dj/daniels."
+        },
+        {
+          "key": "manrick stapez",
+          "name": "Manrick Stapez",
+          "url": "https://ra.co/dj/manrickstapez"
+        }
+      ]
+    },
+    {
+      "id": "ra-2565007",
+      "source": "ra",
+      "date": "2026-11-28",
+      "title": "Toon Winter Town",
+      "start": "16:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2565007",
+      "flyer": null,
+      "venueId": "ra-226763",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "kamo",
+          "name": "kamo.",
+          "url": "https://ra.co/dj/kamo."
+        },
+        {
+          "key": "lyza",
+          "name": "LYZA",
+          "url": "https://ra.co/dj/lyza"
+        },
+        {
+          "key": "danya",
+          "name": "Danya",
+          "url": "https://ra.co/dj/danyade"
+        },
+        {
+          "key": "shajan",
+          "name": "SHAJAN",
+          "url": "https://ra.co/dj/shajan"
+        },
+        {
+          "key": "goiaba",
+          "name": "Goiaba",
+          "url": "https://ra.co/dj/goiaba"
+        },
+        {
+          "key": "dj yugo",
+          "name": "DJ Yugo",
+          "url": "https://ra.co/dj/djyugo"
+        },
+        {
+          "key": "jeyrototo",
+          "name": "Jeyrototo",
+          "url": "https://ra.co/dj/jeyrototo"
+        }
+      ]
+    },
+    {
+      "id": "ra-2573350",
+      "source": "ra",
+      "date": "2026-11-29",
+      "title": "Ritual I (24h) I Rhythm is Ritual",
+      "start": "23:00",
+      "end": "23:00",
+      "url": "https://ra.co/events/2573350",
+      "flyer": null,
+      "venueId": "ra-4829",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "amotik",
+          "name": "Amotik",
+          "url": "https://ra.co/dj/amotik"
+        },
+        {
+          "key": "artifex",
+          "name": "Artifex",
+          "url": "https://ra.co/dj/artifex-2"
+        },
+        {
+          "key": "e2nmn",
+          "name": "E2NMN",
+          "url": "https://ra.co/dj/e2nmn"
+        },
+        {
+          "key": "goiaba",
+          "name": "Goiaba",
+          "url": "https://ra.co/dj/goiaba"
+        },
+        {
+          "key": "chet rubbs",
+          "name": "Chet Rubbs",
+          "url": "https://ra.co/dj/chetrubbs"
+        },
+        {
+          "key": "impedance",
+          "name": "Impedance",
+          "url": "https://ra.co/dj/impedance"
+        },
+        {
+          "key": "luka jukic",
+          "name": "Luka Jukic",
+          "url": "https://ra.co/dj/lukajukic-rs"
+        },
+        {
+          "key": "izzya",
+          "name": "IZZYA",
+          "url": "https://ra.co/dj/izzya"
+        },
+        {
+          "key": "melchiorr",
+          "name": "Melchiorr",
+          "url": "https://ra.co/dj/melchiorr"
+        },
+        {
+          "key": "nepomuk",
+          "name": "Nepōmuk",
+          "url": "https://ra.co/dj/nepomuk5"
+        },
+        {
+          "key": "stenny",
+          "name": "Stenny",
+          "url": "https://ra.co/dj/stenny"
+        },
+        {
+          "key": "windfuhr",
+          "name": "WINDFUHR",
+          "url": "https://ra.co/dj/windfuhr"
+        }
+      ]
+    },
+    {
+      "id": "ra-2575528",
+      "source": "ra",
+      "date": "2026-12-01",
+      "title": "Tuesday in Love: TEKTO und El Machete all night long",
+      "start": "20:00",
+      "end": "01:00",
+      "url": "https://ra.co/events/2575528",
+      "flyer": null,
+      "venueId": "ra-118360",
+      "genres": [
+        "Techno",
+        "Electro"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "die tektonische plattenverschiebung",
+          "name": "Die Tektonische Plattenverschiebung",
+          "url": "https://ra.co/dj/dietektonischeplattenverschiebung"
+        }
+      ]
+    },
+    {
+      "id": "ra-2576928",
+      "source": "ra",
+      "date": "2026-12-03",
+      "title": "135+ mit Uhrwerk der Nacht & Vortex Underground",
+      "start": "22:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2576928",
+      "flyer": null,
+      "venueId": "ra-112682",
+      "genres": [],
+      "styles": [
+        "uptempo"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"135+\""
+      ],
+      "artists": []
+    },
+    {
+      "id": "ra-2534100",
+      "source": "ra",
+      "date": "2026-12-04",
+      "title": "Hardshift",
+      "start": "17:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2534100",
+      "flyer": null,
+      "venueId": "ra-55821",
+      "genres": [
+        "Techno",
+        "Hardcore"
+      ],
+      "styles": [
+        "uptempo",
+        "hardtechno"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Genre: Hardcore",
+        "Stichwort: \"Hard Techno\"",
+        "Stichwort: \"Hardstyle\"",
+        "Act: Angerfist",
+        "Act: Vieze Asbak"
+      ],
+      "artists": [
+        {
+          "key": "angerfist",
+          "name": "Angerfist",
+          "url": "https://ra.co/dj/angerfist"
+        },
+        {
+          "key": "dual damage",
+          "name": "Dual Damage",
+          "url": "https://ra.co/dj/dualdamage"
+        },
+        {
+          "key": "evil activities",
+          "name": "Evil Activities",
+          "url": "https://ra.co/dj/evilactivities"
+        },
+        {
+          "key": "jazzy",
+          "name": "JAZZY",
+          "url": "https://ra.co/dj/jazzy-2"
+        },
+        {
+          "key": "kili",
+          "name": "Kili",
+          "url": "https://ra.co/dj/kili-3"
+        },
+        {
+          "key": "krowdexx",
+          "name": "Krowdexx",
+          "url": "https://ra.co/dj/krowdexx"
+        },
+        {
+          "key": "kruelty",
+          "name": "KRUELTY",
+          "url": "https://ra.co/dj/kruelty"
+        },
+        {
+          "key": "lekkerfaces",
+          "name": "Lekkerfaces",
+          "url": "https://ra.co/dj/lekkerfaces"
+        },
+        {
+          "key": "mad dog",
+          "name": "Mad Dog",
+          "url": "https://ra.co/dj/maddog-nl"
+        },
+        {
+          "key": "marc acardipane",
+          "name": "Marc Acardipane",
+          "url": "https://ra.co/dj/marcacardipane"
+        },
+        {
+          "key": "neophyte",
+          "name": "Neophyte",
+          "url": "https://ra.co/dj/neophyte"
+        },
+        {
+          "key": "nomad",
+          "name": "Nomad",
+          "url": "https://ra.co/dj/nomad"
+        },
+        {
+          "key": "paul elstak",
+          "name": "Paul Elstak",
+          "url": "https://ra.co/dj/paulelstak"
+        },
+        {
+          "key": "ruffian",
+          "name": "Ruffian",
+          "url": "https://ra.co/dj/ruffian"
+        },
+        {
+          "key": "sound rush",
+          "name": "Sound Rush",
+          "url": "https://ra.co/dj/soundrush"
+        },
+        {
+          "key": "the dark horror",
+          "name": "The Dark Horror",
+          "url": "https://ra.co/dj/thedarkhorror"
+        },
+        {
+          "key": "tnt",
+          "name": "tnt",
+          "url": "https://ra.co/dj/tnt-1"
+        },
+        {
+          "key": "vieze asbak",
+          "name": "Vieze Asbak",
+          "url": "https://ra.co/dj/viezeasbak"
+        },
+        {
+          "key": "villain",
+          "name": "Villain",
+          "url": "https://ra.co/dj/villain"
+        },
+        {
+          "key": "breathless",
+          "name": "Breathless",
+          "url": "https://ra.co/dj/breathless"
+        },
+        {
+          "key": "simon says",
+          "name": "Simon Says",
+          "url": "https://ra.co/dj/simonsays"
+        }
+      ]
+    },
+    {
+      "id": "ra-2564883",
+      "source": "ra",
+      "date": "2026-12-04",
+      "title": "RAUM Records x BeHaerd",
+      "start": "23:00",
+      "end": "08:00",
+      "url": "https://ra.co/events/2564883",
+      "flyer": null,
+      "venueId": "ra-4829",
+      "genres": [
+        "Techno",
+        "Ambient"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": []
+    },
+    {
+      "id": "ra-2533320",
+      "source": "ra",
+      "date": "2026-12-05",
+      "title": "Contact Festival",
+      "start": "15:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2533320",
+      "flyer": null,
+      "venueId": "ra-55821",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "hardtechno",
+        "industrial"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Act: Charlie Sparks",
+        "Act: I Hate Models",
+        "Act: KUKO",
+        "Act: NOVAH",
+        "Act: Restricted",
+        "Act: Nicolas Julian"
+      ],
+      "artists": [
+        {
+          "key": "2hot2play",
+          "name": "2HOT2PLAY",
+          "url": "https://ra.co/dj/2hot2play"
+        },
+        {
+          "key": "a n i",
+          "name": "A.N.I.",
+          "url": "https://ra.co/dj/ani"
+        },
+        {
+          "key": "alarico",
+          "name": "Alarico",
+          "url": "https://ra.co/dj/alarico"
+        },
+        {
+          "key": "yanamaste",
+          "name": "Yanamaste",
+          "url": "https://ra.co/dj/yanamaste"
+        },
+        {
+          "key": "ben techy",
+          "name": "Ben Techy",
+          "url": "https://ra.co/dj/bentechy"
+        },
+        {
+          "key": "charlie sparks",
+          "name": "Charlie Sparks",
+          "url": "https://ra.co/dj/charliesparks"
+        },
+        {
+          "key": "daria kolosova",
+          "name": "Daria Kolosova",
+          "url": "https://ra.co/dj/dariakolosova"
+        },
+        {
+          "key": "dj dreckisch",
+          "name": "DJ DRECKISCH",
+          "url": "https://ra.co/dj/djdreckisch"
+        },
+        {
+          "key": "elmefti",
+          "name": "elMefti",
+          "url": "https://ra.co/dj/elmefti"
+        },
+        {
+          "key": "i hate models",
+          "name": "I Hate Models",
+          "url": "https://ra.co/dj/ihatemodels"
+        },
+        {
+          "key": "in verruf",
+          "name": "In Verruf",
+          "url": "https://ra.co/dj/inverruf"
+        },
+        {
+          "key": "ornella",
+          "name": "Ornella",
+          "url": "https://ra.co/dj/ornella"
+        },
+        {
+          "key": "johannes schuster",
+          "name": "Johannes Schuster",
+          "url": "https://ra.co/dj/johannesschuster"
+        },
+        {
+          "key": "kuko",
+          "name": "KUKO",
+          "url": "https://ra.co/dj/kuko-de"
+        },
+        {
+          "key": "negitiv",
+          "name": "NEGITIV",
+          "url": "https://ra.co/dj/negitiv"
+        },
+        {
+          "key": "nikolina",
+          "name": "Nikolina",
+          "url": "https://ra.co/dj/nikolina"
+        },
+        {
+          "key": "noise mafia",
+          "name": "Noise Mafia",
+          "url": "https://ra.co/dj/noisemafia"
+        },
+        {
+          "key": "novah",
+          "name": "NOVAH",
+          "url": "https://ra.co/dj/novah"
+        },
+        {
+          "key": "onlynumbers",
+          "name": "Onlynumbers",
+          "url": "https://ra.co/dj/onlynumbers"
+        },
+        {
+          "key": "restricted",
+          "name": "Restricted",
+          "url": "https://ra.co/dj/restricted"
+        },
+        {
+          "key": "saika",
+          "name": "SAIKA",
+          "url": "https://ra.co/dj/saika"
+        },
+        {
+          "key": "shdw",
+          "name": "SHDW",
+          "url": "https://ra.co/dj/shdw"
+        },
+        {
+          "key": "ueberrest",
+          "name": "Ueberrest",
+          "url": "https://ra.co/dj/ueberrest"
+        },
+        {
+          "key": "vendex",
+          "name": "Vendex",
+          "url": "https://ra.co/dj/vendex"
+        },
+        {
+          "key": "luciid",
+          "name": "Luciid",
+          "url": "https://ra.co/dj/luciid"
+        },
+        {
+          "key": "prada2000",
+          "name": "PRADA2000",
+          "url": "https://ra.co/dj/prada2000"
+        },
+        {
+          "key": "nicolas julian",
+          "name": "Nicolas Julian",
+          "url": "https://ra.co/dj/nicolasjulian"
+        },
+        {
+          "key": "slvl",
+          "name": "SLVL",
+          "url": "https://ra.co/dj/slvl"
+        }
+      ]
+    },
+    {
+      "id": "ra-2544954",
+      "source": "ra",
+      "date": "2026-12-05",
+      "title": "BOILERS FESTIVAL with KIM AHLF",
+      "start": "23:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2544954",
+      "flyer": null,
+      "venueId": "ra-190353",
+      "genres": [
+        "Trance",
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "kim ahlf",
+          "name": "KIM AHLF",
+          "url": "https://ra.co/dj/kimahlf"
+        },
+        {
+          "key": "kacy",
+          "name": "Kacy",
+          "url": "https://ra.co/dj/kacy"
+        }
+      ]
+    },
+    {
+      "id": "ra-2520640",
+      "source": "ra",
+      "date": "2026-12-11",
+      "title": "World League with Sven Väth",
+      "start": "22:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2520640",
+      "flyer": null,
+      "venueId": "ra-6828",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "sven vath",
+          "name": "Sven Vath",
+          "url": "https://ra.co/dj/svenvath"
+        },
+        {
+          "key": "maurizio schmitz",
+          "name": "Maurizio Schmitz",
+          "url": "https://ra.co/dj/maurizioschmitz"
+        }
+      ]
+    },
+    {
+      "id": "ra-2374690",
+      "source": "ra",
+      "date": "2026-12-12",
+      "title": "Schrotthagen Neue Welt Tour @Tonhalle München",
+      "start": "19:00",
+      "end": "23:59",
+      "url": "https://ra.co/events/2374690",
+      "flyer": null,
+      "venueId": "ra-227774",
+      "genres": [
+        "Techno",
+        "Electronica"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "schrotthagen",
+          "name": "Schrotthagen",
+          "url": "https://ra.co/dj/schrotthagen"
+        }
+      ]
+    },
+    {
+      "id": "ra-2554470",
+      "source": "ra",
+      "date": "2026-12-15",
+      "title": "Tuesday in love mit DJ Freund und Die Tektonische Plattenverschiebung",
+      "start": "20:00",
+      "end": "01:00",
+      "url": "https://ra.co/events/2554470",
+      "flyer": null,
+      "venueId": "ra-118360",
+      "genres": [
+        "Techno",
+        "Electro"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "die tektonische plattenverschiebung",
+          "name": "Die Tektonische Plattenverschiebung",
+          "url": "https://ra.co/dj/dietektonischeplattenverschiebung"
+        },
+        {
+          "key": "dj fm dj freund",
+          "name": "DJ FM & DJ FREUND",
+          "url": "https://ra.co/dj/djfmdjfreund"
+        }
+      ]
+    },
+    {
+      "id": "ra-2563321",
+      "source": "ra",
+      "date": "2026-12-19",
+      "title": "TeamTURBO presents Kaufmann (Day & Night)",
+      "start": "15:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2563321",
+      "flyer": null,
+      "venueId": "ra-226763",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "kaufmann",
+          "name": "Kaufmann",
+          "url": "https://ra.co/dj/kaufmann"
+        },
+        {
+          "key": "lazykid",
+          "name": "Lazykid",
+          "url": "https://ra.co/dj/lazykid"
+        },
+        {
+          "key": "rad lez",
+          "name": "Rad.Lez",
+          "url": "https://ra.co/dj/rad.lez"
+        },
+        {
+          "key": "shabiki",
+          "name": "Shabiki",
+          "url": "https://ra.co/dj/shabiki"
+        },
+        {
+          "key": "till antonio",
+          "name": "Till Antonio",
+          "url": "https://ra.co/dj/tillantonio"
+        }
+      ]
+    },
+    {
+      "id": "ra-2557911",
+      "source": "ra",
+      "date": "2026-12-19",
+      "title": "KINKY GALORE München",
+      "start": "22:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2557911",
+      "flyer": null,
+      "venueId": "ra-8425",
+      "genres": [
+        "Techno",
+        "Electro"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "jan ehret",
+          "name": "Jan Ehret",
+          "url": "https://ra.co/dj/janehret"
+        }
+      ]
+    }
+  ]
+}

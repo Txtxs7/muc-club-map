@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>HARD//MUC – Hardtechno, Industrial & Uptempo rund um München</title>
+  <meta name="description" content="Karte mit Hardtechno-, Industrial- und Uptempo-Events im Umkreis von München – nach Datum filterbar, mit Line-ups und Tracks." />
+  <meta name="theme-color" content="#0a0a0a" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%230a0a0a'/><path d='M20 80 L50 20 L80 80' stroke='%23ff2a2a' stroke-width='12' fill='none'/></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">HARD<span class="slash">//</span>MUC</span>
+      <span class="tagline">Hardtechno · Industrial · Uptempo · ≤ <span id="radius">100</span> km</span>
+    </div>
+
+    <div class="controls">
+      <div class="date-nav" role="group" aria-label="Datum wählen">
+        <button id="prevDay" class="icon-btn" title="Vorheriger Tag" aria-label="Vorheriger Tag">◀</button>
+        <label class="date-field">
+          <span id="dateLabel" class="date-label">–</span>
+          <input id="dateInput" type="date" aria-label="Datum" />
+        </label>
+        <button id="nextDay" class="icon-btn" title="Nächster Tag" aria-label="Nächster Tag">▶</button>
+      </div>
+      <div class="quick" role="group" aria-label="Schnellauswahl">
+        <button data-quick="today">Heute</button>
+        <button data-quick="fri">Fr</button>
+        <button data-quick="sat">Sa</button>
+        <button data-quick="next">Nächstes Event</button>
+      </div>
+      <div class="chips" role="group" aria-label="Stil-Filter">
+        <button class="chip on" data-style="hardtechno">Hardtechno</button>
+        <button class="chip on" data-style="industrial">Industrial</button>
+        <button class="chip on" data-style="uptempo">Uptempo</button>
+        <button class="chip" data-style="techno" title="Events, die nur allgemein als Techno getaggt sind – evtl. auch hart">+ Techno (unsicher)</button>
+      </div>
+    </div>
+  </header>
+
+  <nav id="dateStrip" class="date-strip" aria-label="Kommende Tage"></nav>
+
+  <main class="layout">
+    <div id="map" class="map" aria-label="Karte"></div>
+    <aside id="panel" class="panel" aria-live="polite">
+      <div class="panel-handle" id="panelHandle" aria-hidden="true"></div>
+      <div id="panelContent" class="panel-content">
+        <p class="muted">Lade Events …</p>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    <span id="updated"></span>
+    · Daten: <a href="https://ra.co" target="_blank" rel="noopener">Resident Advisor</a>, Deezer, Spotify
+    · Karte © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap-Mitwirkende</a>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script type="module" src="assets/app.js"></script>
+</body>
+</html>

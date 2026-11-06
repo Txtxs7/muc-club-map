@@ -1,0 +1,14 @@
+{
+  "name": "hardtechno-muenchen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Karte mit Hardtechno-, Industrial- und Uptempo-Events rund um München",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node --env-file-if-exists=.env scripts/update.mjs",
+    "update:events": "node --env-file-if-exists=.env scripts/update.mjs --no-artists",
+    "serve": "python3 -m http.server 8080",
+    "test": "node --test 'scripts/*.test.mjs'"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2026-12-12",
+    "title": "Beispiel: Industrial Night",
+    "start": "23:00",
+    "end": "08:00",
+    "url": "https://example.com/tickets",
+    "styles": ["industrial", "hardtechno"],
+    "artists": ["Kobosil", "VTSS"],
+    "venue": {
+      "name": "Beispiel-Club",
+      "address": "Musterstraße 1, 80331 München",
+      "lat": 48.1374,
+      "lng": 11.5755
+    }
+  }
+]
