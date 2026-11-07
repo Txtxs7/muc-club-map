@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T06:54:54.267Z",
+  "generatedAt": "2026-11-07T08:17:57.916Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -200,7 +200,8 @@
         {
           "key": "sandra gold",
           "name": "Sandra Gold",
-          "url": "https://ra.co/dj/sandragold"
+          "url": "https://ra.co/dj/sandragold",
+          "ig": "housedjane"
         }
       ]
     },
@@ -300,12 +301,14 @@
         {
           "key": "somewhen",
           "name": "Somewhen",
-          "url": null
+          "url": null,
+          "ig": "somewhensrx"
         },
         {
           "key": "there is no tomorrow",
           "name": "There Is No Tomorrow",
-          "url": null
+          "url": null,
+          "ig": "thereisnotomorrow.dj"
         }
       ]
     },
@@ -434,7 +437,8 @@
         {
           "key": "atzlina",
           "name": "Atzlina",
-          "url": "https://ra.co/dj/atzlina"
+          "url": "https://ra.co/dj/atzlina",
+          "ig": "atzlina.mp3"
         }
       ]
     },
@@ -474,7 +478,8 @@
         {
           "key": "spanierohneauto",
           "name": "SpanierOhneAuto",
-          "url": "https://ra.co/dj/spanierohneauto"
+          "url": "https://ra.co/dj/spanierohneauto",
+          "ig": "spanierohneauto"
         }
       ]
     },
@@ -531,12 +536,14 @@
         {
           "key": "george bleicher",
           "name": "George Bleicher",
-          "url": "https://ra.co/dj/georgebleicher"
+          "url": "https://ra.co/dj/georgebleicher",
+          "ig": "georgebleicher"
         },
         {
           "key": "gunnar stiller",
           "name": "Gunnar Stiller",
-          "url": "https://ra.co/dj/gunnarstiller"
+          "url": "https://ra.co/dj/gunnarstiller",
+          "ig": "gunnarstiller"
         }
       ]
     },
@@ -569,12 +576,14 @@
         {
           "key": "fej tal",
           "name": "Fej:tal",
-          "url": "https://ra.co/dj/fejtal"
+          "url": "https://ra.co/dj/fejtal",
+          "ig": "fej.tal"
         },
         {
           "key": "dj fm dj freund",
           "name": "DJ FM & DJ FREUND",
-          "url": "https://ra.co/dj/djfmdjfreund"
+          "url": "https://ra.co/dj/djfmdjfreund",
+          "ig": "electroamore_muc"
         },
         {
           "key": "ronny",
@@ -584,7 +593,8 @@
         {
           "key": "die tektonische plattenverschiebung",
           "name": "Die Tektonische Plattenverschiebung",
-          "url": "https://ra.co/dj/dietektonischeplattenverschiebung"
+          "url": "https://ra.co/dj/dietektonischeplattenverschiebung",
+          "ig": "tekto_tekto"
         }
       ]
     },
@@ -617,7 +627,8 @@
         {
           "key": "izzya",
           "name": "IZZYA",
-          "url": "https://ra.co/dj/izzya"
+          "url": "https://ra.co/dj/izzya",
+          "ig": "izzya._"
         },
         {
           "key": "kinzua",
@@ -627,27 +638,32 @@
         {
           "key": "vril",
           "name": ".VRIL",
-          "url": "https://ra.co/dj/vril"
+          "url": "https://ra.co/dj/vril",
+          "ig": "vril_01"
         },
         {
           "key": "recondite",
           "name": "Recondite",
-          "url": "https://ra.co/dj/recondite"
+          "url": "https://ra.co/dj/recondite",
+          "ig": "_recondite_"
         },
         {
           "key": "euphrat",
           "name": "Euphrat",
-          "url": "https://ra.co/dj/euphrat"
+          "url": "https://ra.co/dj/euphrat",
+          "ig": "euphrat__"
         },
         {
           "key": "nathalie seres",
           "name": "Nathalie Seres",
-          "url": "https://ra.co/dj/nathalieseres"
+          "url": "https://ra.co/dj/nathalieseres",
+          "ig": "nathalie__seres"
         },
         {
           "key": "sevensol",
           "name": "Sevensol",
-          "url": "https://ra.co/dj/sevensol"
+          "url": "https://ra.co/dj/sevensol",
+          "ig": "sevensol___"
         },
         {
           "key": "qnete",
@@ -734,27 +750,32 @@
         {
           "key": "dj stepfather",
           "name": "DJ stepfather",
-          "url": null
+          "url": null,
+          "ig": "dj_stepfather"
         },
         {
           "key": "tt tempo timo",
           "name": "tt tempo timo",
-          "url": null
+          "url": null,
+          "ig": "tt_tempo_timo"
         },
         {
           "key": "secondface",
           "name": "secondface",
-          "url": null
+          "url": null,
+          "ig": "secondfaceofficial"
         },
         {
           "key": "leonidas",
           "name": "leonidas",
-          "url": null
+          "url": null,
+          "ig": "leonidas_djofficial"
         },
         {
           "key": "adaptive",
           "name": "adaptive",
-          "url": null
+          "url": null,
+          "ig": "adaptive_dj"
         }
       ]
     },
@@ -851,12 +872,14 @@
         {
           "key": "arkinice",
           "name": "Arkinice",
-          "url": "https://ra.co/dj/arkinice"
+          "url": "https://ra.co/dj/arkinice",
+          "ig": "arkiniceofficial"
         },
         {
           "key": "cotti larje",
           "name": "Cottí Larje",
-          "url": "https://ra.co/dj/cottilarje"
+          "url": "https://ra.co/dj/cottilarje",
+          "ig": "cotti.larje"
         },
         {
           "key": "dj sonnenbrand",
@@ -871,7 +894,8 @@
         {
           "key": "antyo",
           "name": "antyo",
-          "url": "https://ra.co/dj/antyo"
+          "url": "https://ra.co/dj/antyo",
+          "ig": "antyo.ak"
         },
         {
           "key": "danuschek",
@@ -909,12 +933,14 @@
         {
           "key": "sabura",
           "name": "Sabura",
-          "url": "https://ra.co/dj/sabura"
+          "url": "https://ra.co/dj/sabura",
+          "ig": "sabura.hh"
         },
         {
           "key": "l a x",
           "name": "L.A.X",
-          "url": "https://ra.co/dj/l.a.x"
+          "url": "https://ra.co/dj/l.a.x",
+          "ig": "lax_ableton"
         },
         {
           "key": "alessia cattani",
@@ -977,22 +1003,26 @@
         {
           "key": "cleopard2000",
           "name": "Cleopard2000",
-          "url": "https://ra.co/dj/cleopard2000"
+          "url": "https://ra.co/dj/cleopard2000",
+          "ig": "cleopard2000"
         },
         {
           "key": "mika heggemann",
           "name": "Mika Heggemann",
-          "url": "https://ra.co/dj/heggemann"
+          "url": "https://ra.co/dj/heggemann",
+          "ig": "mika_heggemann"
         },
         {
           "key": "2hot2play",
           "name": "2HOT2PLAY",
-          "url": "https://ra.co/dj/2hot2play"
+          "url": "https://ra.co/dj/2hot2play",
+          "ig": "2hot2play"
         },
         {
           "key": "shoki287",
           "name": "SHOKI287",
-          "url": "https://ra.co/dj/shoki287"
+          "url": "https://ra.co/dj/shoki287",
+          "ig": "shoki287"
         }
       ]
     },
@@ -1025,17 +1055,20 @@
         {
           "key": "dj cringey",
           "name": "DJ Cringey",
-          "url": "https://ra.co/dj/djcringey"
+          "url": "https://ra.co/dj/djcringey",
+          "ig": "djcringey"
         },
         {
           "key": "dvaid",
           "name": "DVAID",
-          "url": "https://ra.co/dj/dvaid"
+          "url": "https://ra.co/dj/dvaid",
+          "ig": "dvaid.wav"
         },
         {
           "key": "energy tape",
           "name": "ENERGY TAPE",
-          "url": "https://ra.co/dj/energytape"
+          "url": "https://ra.co/dj/energytape",
+          "ig": "closure.energytape"
         },
         {
           "key": "taria",
@@ -1177,17 +1210,20 @@
         {
           "key": "charly juice",
           "name": "CHARLY JUICE",
-          "url": null
+          "url": null,
+          "ig": "charly.juice_dj"
         },
         {
           "key": "mpb",
           "name": "MPB",
-          "url": null
+          "url": null,
+          "ig": "mpb.dj"
         },
         {
           "key": "r3ckless",
           "name": "R3CKLESS",
-          "url": null
+          "url": null,
+          "ig": "r3ckles.wav"
         },
         {
           "key": "palo",
@@ -1291,17 +1327,20 @@
         {
           "key": "maurer",
           "name": "MAURER",
-          "url": "https://ra.co/dj/maurer"
+          "url": "https://ra.co/dj/maurer",
+          "ig": "maurer_"
         },
         {
           "key": "symon",
           "name": "SYMON",
-          "url": "https://ra.co/dj/symon"
+          "url": "https://ra.co/dj/symon",
+          "ig": "symonserious"
         },
         {
           "key": "source code",
           "name": "Source Code",
-          "url": "https://ra.co/dj/sourcecode-2"
+          "url": "https://ra.co/dj/sourcecode-2",
+          "ig": "sourcecode.nkr"
         },
         {
           "key": "daniel s",
@@ -1395,12 +1434,14 @@
         {
           "key": "dj yugo",
           "name": "DJ Yugo",
-          "url": "https://ra.co/dj/djyugo"
+          "url": "https://ra.co/dj/djyugo",
+          "ig": "djyugoo"
         },
         {
           "key": "jeyrototo",
           "name": "Jeyrototo",
-          "url": "https://ra.co/dj/jeyrototo"
+          "url": "https://ra.co/dj/jeyrototo",
+          "ig": "jeyrototo"
         }
       ]
     },
@@ -1457,17 +1498,20 @@
         {
           "key": "amotik",
           "name": "Amotik",
-          "url": "https://ra.co/dj/amotik"
+          "url": "https://ra.co/dj/amotik",
+          "ig": "amotikmusic"
         },
         {
           "key": "artifex",
           "name": "Artifex",
-          "url": "https://ra.co/dj/artifex-2"
+          "url": "https://ra.co/dj/artifex-2",
+          "ig": "artifex.x_"
         },
         {
           "key": "e2nmn",
           "name": "E2NMN",
-          "url": "https://ra.co/dj/e2nmn"
+          "url": "https://ra.co/dj/e2nmn",
+          "ig": "e2nmn"
         },
         {
           "key": "goiaba",
@@ -1477,7 +1521,8 @@
         {
           "key": "chet rubbs",
           "name": "Chet Rubbs",
-          "url": "https://ra.co/dj/chetrubbs"
+          "url": "https://ra.co/dj/chetrubbs",
+          "ig": "schvvbert"
         },
         {
           "key": "impedance",
@@ -1492,7 +1537,8 @@
         {
           "key": "izzya",
           "name": "IZZYA",
-          "url": "https://ra.co/dj/izzya"
+          "url": "https://ra.co/dj/izzya",
+          "ig": "izzya._"
         },
         {
           "key": "melchiorr",
@@ -1507,12 +1553,14 @@
         {
           "key": "stenny",
           "name": "Stenny",
-          "url": "https://ra.co/dj/stenny"
+          "url": "https://ra.co/dj/stenny",
+          "ig": "stenny___"
         },
         {
           "key": "windfuhr",
           "name": "WINDFUHR",
-          "url": "https://ra.co/dj/windfuhr"
+          "url": "https://ra.co/dj/windfuhr",
+          "ig": "windfuhr.ec"
         }
       ]
     },
@@ -1545,7 +1593,8 @@
         {
           "key": "die tektonische plattenverschiebung",
           "name": "Die Tektonische Plattenverschiebung",
-          "url": "https://ra.co/dj/dietektonischeplattenverschiebung"
+          "url": "https://ra.co/dj/dietektonischeplattenverschiebung",
+          "ig": "tekto_tekto"
         }
       ]
     },
@@ -1674,7 +1723,8 @@
         {
           "key": "kruelty",
           "name": "KRUELTY",
-          "url": "https://ra.co/dj/kruelty"
+          "url": "https://ra.co/dj/kruelty",
+          "ig": "krueltyofficial"
         },
         {
           "key": "lekkerfaces",
@@ -1684,7 +1734,8 @@
         {
           "key": "mad dog",
           "name": "Mad Dog",
-          "url": "https://ra.co/dj/maddog-nl"
+          "url": "https://ra.co/dj/maddog-nl",
+          "ig": "djmaddog"
         },
         {
           "key": "marc acardipane",
@@ -1699,7 +1750,8 @@
         {
           "key": "nomad",
           "name": "Nomad",
-          "url": "https://ra.co/dj/nomad"
+          "url": "https://ra.co/dj/nomad",
+          "ig": "nomadsos"
         },
         {
           "key": "paul elstak",
@@ -1709,7 +1761,8 @@
         {
           "key": "ruffian",
           "name": "Ruffian",
-          "url": "https://ra.co/dj/ruffian"
+          "url": "https://ra.co/dj/ruffian",
+          "ig": "ruffian.nl"
         },
         {
           "key": "sound rush",
@@ -1729,7 +1782,8 @@
         {
           "key": "vieze asbak",
           "name": "Vieze Asbak",
-          "url": "https://ra.co/dj/viezeasbak"
+          "url": "https://ra.co/dj/viezeasbak",
+          "ig": "viezeasbak"
         },
         {
           "key": "villain",
@@ -1739,7 +1793,8 @@
         {
           "key": "breathless",
           "name": "Breathless",
-          "url": "https://ra.co/dj/breathless"
+          "url": "https://ra.co/dj/breathless",
+          "ig": "breathless_official"
         },
         {
           "key": "simon says",
@@ -1825,42 +1880,50 @@
         {
           "key": "2hot2play",
           "name": "2HOT2PLAY",
-          "url": "https://ra.co/dj/2hot2play"
+          "url": "https://ra.co/dj/2hot2play",
+          "ig": "2hot2play"
         },
         {
           "key": "a n i",
           "name": "A.N.I.",
-          "url": "https://ra.co/dj/ani"
+          "url": "https://ra.co/dj/ani",
+          "ig": "a.n.i._official_"
         },
         {
           "key": "alarico",
           "name": "Alarico",
-          "url": "https://ra.co/dj/alarico"
+          "url": "https://ra.co/dj/alarico",
+          "ig": "alarico___"
         },
         {
           "key": "yanamaste",
           "name": "Yanamaste",
-          "url": "https://ra.co/dj/yanamaste"
+          "url": "https://ra.co/dj/yanamaste",
+          "ig": "yanamaste"
         },
         {
           "key": "ben techy",
           "name": "Ben Techy",
-          "url": "https://ra.co/dj/bentechy"
+          "url": "https://ra.co/dj/bentechy",
+          "ig": "bentechyofficial"
         },
         {
           "key": "charlie sparks",
           "name": "Charlie Sparks",
-          "url": "https://ra.co/dj/charliesparks"
+          "url": "https://ra.co/dj/charliesparks",
+          "ig": "charliesparksmusic"
         },
         {
           "key": "daria kolosova",
           "name": "Daria Kolosova",
-          "url": "https://ra.co/dj/dariakolosova"
+          "url": "https://ra.co/dj/dariakolosova",
+          "ig": "dar.key"
         },
         {
           "key": "dj dreckisch",
           "name": "DJ DRECKISCH",
-          "url": "https://ra.co/dj/djdreckisch"
+          "url": "https://ra.co/dj/djdreckisch",
+          "ig": "dj_dreckisch"
         },
         {
           "key": "elmefti",
@@ -1870,7 +1933,8 @@
         {
           "key": "i hate models",
           "name": "I Hate Models",
-          "url": "https://ra.co/dj/ihatemodels"
+          "url": "https://ra.co/dj/ihatemodels",
+          "ig": "ihatemodels1"
         },
         {
           "key": "in verruf",
@@ -1880,7 +1944,8 @@
         {
           "key": "ornella",
           "name": "Ornella",
-          "url": "https://ra.co/dj/ornella"
+          "url": "https://ra.co/dj/ornella",
+          "ig": "ornella_luz"
         },
         {
           "key": "johannes schuster",
@@ -1895,7 +1960,8 @@
         {
           "key": "negitiv",
           "name": "NEGITIV",
-          "url": "https://ra.co/dj/negitiv"
+          "url": "https://ra.co/dj/negitiv",
+          "ig": "negitiv"
         },
         {
           "key": "nikolina",
@@ -1915,12 +1981,14 @@
         {
           "key": "onlynumbers",
           "name": "Onlynumbers",
-          "url": "https://ra.co/dj/onlynumbers"
+          "url": "https://ra.co/dj/onlynumbers",
+          "ig": "onlynumbers_uju"
         },
         {
           "key": "restricted",
           "name": "Restricted",
-          "url": "https://ra.co/dj/restricted"
+          "url": "https://ra.co/dj/restricted",
+          "ig": "itsrestricted_"
         },
         {
           "key": "saika",
@@ -1930,7 +1998,8 @@
         {
           "key": "shdw",
           "name": "SHDW",
-          "url": "https://ra.co/dj/shdw"
+          "url": "https://ra.co/dj/shdw",
+          "ig": "i.am.shdw"
         },
         {
           "key": "ueberrest",
@@ -1940,27 +2009,32 @@
         {
           "key": "vendex",
           "name": "Vendex",
-          "url": "https://ra.co/dj/vendex"
+          "url": "https://ra.co/dj/vendex",
+          "ig": "vendexofficial"
         },
         {
           "key": "luciid",
           "name": "Luciid",
-          "url": "https://ra.co/dj/luciid"
+          "url": "https://ra.co/dj/luciid",
+          "ig": "luciidmusic"
         },
         {
           "key": "prada2000",
           "name": "PRADA2000",
-          "url": "https://ra.co/dj/prada2000"
+          "url": "https://ra.co/dj/prada2000",
+          "ig": "prada2000"
         },
         {
           "key": "nicolas julian",
           "name": "Nicolas Julian",
-          "url": "https://ra.co/dj/nicolasjulian"
+          "url": "https://ra.co/dj/nicolasjulian",
+          "ig": "nicolas.julian"
         },
         {
           "key": "slvl",
           "name": "SLVL",
-          "url": "https://ra.co/dj/slvl"
+          "url": "https://ra.co/dj/slvl",
+          "ig": "slvl_music"
         }
       ]
     },
@@ -1996,7 +2070,8 @@
         {
           "key": "ffzg",
           "name": "ffzg",
-          "url": null
+          "url": null,
+          "ig": "_ffzg_"
         }
       ]
     },
@@ -2029,12 +2104,14 @@
         {
           "key": "kim ahlf",
           "name": "KIM AHLF",
-          "url": "https://ra.co/dj/kimahlf"
+          "url": "https://ra.co/dj/kimahlf",
+          "ig": "kim.ahlf"
         },
         {
           "key": "kacy",
           "name": "Kacy",
-          "url": "https://ra.co/dj/kacy"
+          "url": "https://ra.co/dj/kacy",
+          "ig": "kacy.roseanne"
         }
       ]
     },
@@ -2066,12 +2143,14 @@
         {
           "key": "sven vath",
           "name": "Sven Vath",
-          "url": "https://ra.co/dj/svenvath"
+          "url": "https://ra.co/dj/svenvath",
+          "ig": "svenvaeth_official"
         },
         {
           "key": "maurizio schmitz",
           "name": "Maurizio Schmitz",
-          "url": "https://ra.co/dj/maurizioschmitz"
+          "url": "https://ra.co/dj/maurizioschmitz",
+          "ig": "maurizioschmitz"
         }
       ]
     },
@@ -2105,7 +2184,8 @@
         {
           "key": "schrotthagen",
           "name": "Schrotthagen",
-          "url": "https://ra.co/dj/schrotthagen"
+          "url": "https://ra.co/dj/schrotthagen",
+          "ig": "schrotthagen"
         }
       ]
     },
@@ -2138,12 +2218,14 @@
         {
           "key": "die tektonische plattenverschiebung",
           "name": "Die Tektonische Plattenverschiebung",
-          "url": "https://ra.co/dj/dietektonischeplattenverschiebung"
+          "url": "https://ra.co/dj/dietektonischeplattenverschiebung",
+          "ig": "tekto_tekto"
         },
         {
           "key": "dj fm dj freund",
           "name": "DJ FM & DJ FREUND",
-          "url": "https://ra.co/dj/djfmdjfreund"
+          "url": "https://ra.co/dj/djfmdjfreund",
+          "ig": "electroamore_muc"
         }
       ]
     },
@@ -2200,12 +2282,14 @@
         {
           "key": "kaufmann",
           "name": "Kaufmann",
-          "url": "https://ra.co/dj/kaufmann"
+          "url": "https://ra.co/dj/kaufmann",
+          "ig": "kaufmann.unofficial"
         },
         {
           "key": "lazykid",
           "name": "Lazykid",
-          "url": "https://ra.co/dj/lazykid"
+          "url": "https://ra.co/dj/lazykid",
+          "ig": "lazykid.music"
         },
         {
           "key": "rad lez",
@@ -2220,7 +2304,8 @@
         {
           "key": "till antonio",
           "name": "Till Antonio",
-          "url": "https://ra.co/dj/tillantonio"
+          "url": "https://ra.co/dj/tillantonio",
+          "ig": "till.antonio"
         }
       ]
     },

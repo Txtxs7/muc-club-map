@@ -285,17 +285,33 @@ button { font: inherit; color: inherit; cursor: pointer; }
 
 .acts-intro { font-size: 12px; color: var(--muted); margin: 0 0 10px; line-height: 1.4; }
 .acts-form-wrap { position: relative; margin-bottom: 12px; }
-.acts-form { display: flex; gap: 6px; }
+.acts-form { display: flex; flex-direction: column; gap: 6px; }
+.acts-form-row { display: flex; gap: 6px; }
 .acts-form input {
   flex: 1; min-width: 0; background: var(--bg-2); border: 1px solid var(--line);
-  color: var(--text); padding: 8px 10px; font-family: var(--sans); font-size: 14px; outline: none;
+  color: var(--text); padding: 8px 10px; font-family: var(--sans); font-size: 13px; outline: none;
 }
 .acts-form input:focus { border-color: var(--custom); }
 .acts-form button {
-  background: var(--custom); color: #000; border: 0; padding: 0 14px;
-  font-family: var(--mono); font-weight: 700; font-size: 12px; text-transform: uppercase;
+  background: var(--custom); color: #000; border: 0; padding: 8px 14px;
+  font-family: var(--mono); font-weight: 700; font-size: 12px; text-transform: uppercase; white-space: nowrap;
 }
 .acts-form button:hover { filter: brightness(1.1); }
+.ig-pill {
+  display: inline-block; font-family: var(--mono); font-size: 11px; color: #ff6ad5;
+  text-decoration: none;
+}
+.ig-pill:hover { text-decoration: underline; }
+.ig-edit-form { display: flex; gap: 5px; margin-top: 8px; }
+.ig-edit-form input {
+  flex: 1; min-width: 0; background: var(--bg-3); border: 1px solid var(--line);
+  color: var(--text); padding: 5px 8px; font-family: var(--mono); font-size: 12px; outline: none;
+}
+.ig-edit-form input:focus { border-color: var(--custom); }
+.ig-edit-form button {
+  background: var(--bg-3); border: 1px solid var(--custom); color: var(--custom);
+  padding: 4px 10px; font-family: var(--mono); font-size: 11px; text-transform: uppercase;
+}
 
 .ac-list {
   list-style: none; margin: 2px 0 0; padding: 0;

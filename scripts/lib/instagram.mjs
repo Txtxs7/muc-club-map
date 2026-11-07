@@ -10,7 +10,7 @@ import { execFile } from 'node:child_process';
 import { existsSync } from 'node:fs';
 import { promisify } from 'node:util';
 import { KNOWN_VENUES, IG_HANDLE_TO_ARTIST } from '../config.mjs';
-import { resolveKnownVenue, extractKnownArtists } from './classify.mjs';
+import { resolveKnownVenue, extractKnownArtists, ARTIST_TO_IG_HANDLE, artistKey } from './classify.mjs';
 import { decodeEntities } from './munich-sources.mjs';
 
 const execFileAsync = promisify(execFile);
@@ -284,7 +284,8 @@ export function parseInstagramEvent(post, account, fromIso, toIso) {
     ...extractKnownArtists(lineupBlock, { allowPlainNames: true }),
     ...extractKnownArtists(bodyNoCredits, { allowPlainNames: false }),
   ]) {
-    artists.set(name.toLowerCase(), name);
+    const ig = ARTIST_TO_IG_HANDLE[artistKey(name)] || null;
+    artists.set(name.toLowerCase(), { name, url: null, ...(ig ? { ig } : {}) });
   }
 
   const addHandle = (rawHandle, explicitName = '') => {
@@ -304,7 +305,10 @@ export function parseInstagramEvent(post, account, fromIso, toIso) {
         .replace(/[._]+/g, ' ')
         .replace(/\bdj\b/gi, 'DJ')
         .trim();
-    if (cleaned.length >= 2) artists.set(cleaned.toLowerCase(), cleaned);
+    if (cleaned.length >= 2) {
+      const prev = artists.get(cleaned.toLowerCase());
+      artists.set(cleaned.toLowerCase(), { name: prev?.name || cleaned, url: prev?.url || null, ig: h });
+    }
   };
 
   for (const m of lineupBlock.matchAll(/@([a-z0-9._]{2,30})/gi)) addHandle(m[1]);
@@ -318,7 +322,7 @@ export function parseInstagramEvent(post, account, fromIso, toIso) {
   for (const m of body.matchAll(/(?:headliner\s+mit:\s*|special\s+guest\s+)@?([A-Za-z0-9._ÄÖÜäöüßØø]{2,30})/gi)) {
     const token = m[1].replace(/[!.,:;]+$/, '');
     if (body.includes(`@${token.toLowerCase()}`)) addHandle(token);
-    else if (token.length >= 3) artists.set(token.toLowerCase(), token);
+    else if (token.length >= 3 && !artists.has(token.toLowerCase())) artists.set(token.toLowerCase(), { name: token, url: null });
   }
 
   return {
@@ -335,7 +339,7 @@ export function parseInstagramEvent(post, account, fromIso, toIso) {
     genres: [],
     collectiveStyles: account.defaultStyles || [],
     collectiveName: `@${account.handle}`,
-    artists: [...artists.values()].map((name) => ({ name, url: null })),
+    artists: [...artists.values()],
     venue: venueObj,
   };
 }

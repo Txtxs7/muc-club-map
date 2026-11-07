@@ -24,7 +24,15 @@ import { fetchAreaEvents, fetchGermanyEvents } from './lib/ra.mjs';
 import { fetchRoteSonne, fetchSchwarzesMuenchen, fetchTicketIoShops } from './lib/munich-sources.mjs';
 import { fetchInstagramEvents } from './lib/instagram.mjs';
 import { geocode, distanceKm, isPrecise } from './lib/geo.mjs';
-import { classify, cleanArtistName, artistKey, resolveKnownVenue, extractKnownArtists } from './lib/classify.mjs';
+import {
+  classify,
+  cleanArtistName,
+  artistKey,
+  resolveKnownVenue,
+  extractKnownArtists,
+  extractIgHandle,
+  ARTIST_TO_IG_HANDLE,
+} from './lib/classify.mjs';
 import { enrichArtists } from './lib/artists.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -81,7 +89,8 @@ function mergeDuplicate(a, b) {
       const k = artistKey(ar.name);
       if (!k) continue;
       const prev = artistMap.get(k);
-      artistMap.set(k, { name: prev?.name || ar.name, url: prev?.url || ar.url || null });
+      const ig = ar.ig || prev?.ig || ARTIST_TO_IG_HANDLE[k] || null;
+      artistMap.set(k, { name: prev?.name || ar.name, url: prev?.url || ar.url || null, ...(ig ? { ig } : {}) });
     }
   }
 
@@ -151,7 +160,14 @@ async function main() {
   for (const { listingDate, event: ev } of rawRa.values()) {
     if (!ev?.venue) continue;
     const contentText = stripHtml(ev.content);
-    const raArtists = (ev.artists || []).map((a) => ({ name: a.name, url: a.contentUrl ? `https://ra.co${a.contentUrl}` : null }));
+    const raArtists = (ev.artists || []).map((a) => {
+      const ig = extractIgHandle(a.instagram) || ARTIST_TO_IG_HANDLE[artistKey(a.name)] || null;
+      return {
+        name: a.name,
+        url: a.contentUrl ? `https://ra.co${a.contentUrl}` : null,
+        ...(ig ? { ig } : {}),
+      };
+    });
     // Falls RA noch keine Artists im Feld hat, bekannte Acts aus Titel bzw. @Handles im Text ergänzen
     const knownInText = [
       ...extractKnownArtists(ev.title, { allowPlainNames: true }),
@@ -331,7 +347,11 @@ async function main() {
       confidence: ev.confidence,
       reasons: ev.reasons,
       artists: ev.artists
-        .map((a) => ({ key: artistKey(a.name), name: cleanArtistName(a.name), url: a.url }))
+        .map((a) => {
+          const k = artistKey(a.name);
+          const ig = a.ig || ARTIST_TO_IG_HANDLE[k] || null;
+          return { key: k, name: cleanArtistName(a.name), url: a.url, ...(ig ? { ig } : {}) };
+        })
         .filter((a) => a.key),
     }))
     .sort((a, b) => (a.date + (a.start || '')).localeCompare(b.date + (b.start || '')));
@@ -471,17 +491,23 @@ async function main() {
           };
         }
 
-        const rawArtists = (ev.artists || []).map((a) => ({
-          key: artistKey(a.name),
-          name: cleanArtistName(a.name),
-          url: a.contentUrl ? `https://ra.co${a.contentUrl}` : null,
-        })).filter((a) => a.key);
+        const rawArtists = (ev.artists || []).map((a) => {
+          const k = artistKey(a.name);
+          const ig = extractIgHandle(a.instagram) || ARTIST_TO_IG_HANDLE[k] || null;
+          return {
+            key: k,
+            name: cleanArtistName(a.name),
+            url: a.contentUrl ? `https://ra.co${a.contentUrl}` : null,
+            ...(ig ? { ig } : {}),
+          };
+        }).filter((a) => a.key);
         const rawKeys = new Set(rawArtists.map((a) => a.key));
         for (const name of extractKnownArtists(ev.title, { allowPlainNames: true })) {
           const k = artistKey(name);
           if (k && !rawKeys.has(k)) {
             rawKeys.add(k);
-            rawArtists.push({ key: k, name, url: null });
+            const ig = ARTIST_TO_IG_HANDLE[k] || null;
+            rawArtists.push({ key: k, name, url: null, ...(ig ? { ig } : {}) });
           }
         }
 

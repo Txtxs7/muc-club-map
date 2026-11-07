@@ -1,16 +1,20 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { classify, artistKey, cleanArtistName } from './lib/classify.mjs';
+import { classify, artistKey, cleanArtistName, extractIgHandle } from './lib/classify.mjs';
 import { parseInstagramEvent } from './lib/instagram.mjs';
 import { isPrecise, distanceKm } from './lib/geo.mjs';
 
-test('Namenszusätze und deutsche Umlaute werden sauber normalisiert', () => {
+test('Namenszusätze, Umlaute und Instagram-Links werden sauber normalisiert', () => {
   assert.equal(cleanArtistName('Haze (GER)'), 'Haze');
   assert.equal(cleanArtistName('Almedina (2)'), 'Almedina');
   assert.equal(artistKey('KØZLØV'), 'kozlov');
   assert.equal(artistKey('Héctor Oaks'), 'hector oaks');
   assert.equal(artistKey('Klangkünstler'), artistKey('Klangkuenstler'));
   assert.equal(artistKey('Überrest'), artistKey('Ueberrest'));
+  assert.equal(extractIgHandle('https://www.instagram.com/somewhensrx/?hl=de'), 'somewhensrx');
+  assert.equal(extractIgHandle('instagram.com/4nouk.mp3/'), '4nouk.mp3');
+  assert.equal(extractIgHandle('@fnk.off'), 'fnk.off');
+  assert.equal(extractIgHandle('https://www.instagram.com/p/DfO8R8bDPKL/'), null);
 });
 
 test('Genre Industrial → sicher', () => {

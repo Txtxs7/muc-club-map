@@ -26,7 +26,7 @@ const QUERY = `query GetEvents($filters: FilterInputDtoInput, $pageSize: Int, $p
           contentUrl
           location { latitude longitude }
         }
-        artists { id name contentUrl }
+        artists { id name contentUrl instagram }
       }
     }
   }
@@ -57,7 +57,7 @@ const QUERY_LIGHT = `query GetGermanyEvents($filters: FilterInputDtoInput, $page
           area { id name }
           location { latitude longitude }
         }
-        artists { id name contentUrl }
+        artists { id name contentUrl instagram }
       }
     }
   }

@@ -39,6 +39,31 @@ for (const [k, v] of Object.entries(ARTIST_STYLES)) {
   ARTIST_LOOKUP[plainKey(k)] = v;
 }
 
+export const ARTIST_TO_IG_HANDLE = {};
+for (const [handle, canonicalName] of Object.entries(IG_HANDLE_TO_ARTIST)) {
+  const k = artistKey(canonicalName);
+  if (k && !ARTIST_TO_IG_HANDLE[k]) ARTIST_TO_IG_HANDLE[k] = handle.toLowerCase();
+}
+
+const IG_NON_PROFILE_PATHS = new Set(['p', 'reel', 'reels', 'stories', 'tv', 'explore', 'accounts', 'direct', 'about', 'legal']);
+
+/** Extrahiert einen sauberen Instagram-Handle aus Profil-URLs ("https://www.instagram.com/somewhensrx?hl=de") oder "@somewhensrx". */
+export function extractIgHandle(raw) {
+  const s = String(raw || '').trim();
+  if (!s) return null;
+  const urlMatch = s.match(/(?:https?:\/\/)?(?:www\.)?instagram\.com\/([A-Za-z0-9._]{2,30})(?:[/?#]|$)/i);
+  if (urlMatch) {
+    const seg = urlMatch[1].toLowerCase().replace(/\.+$/, '');
+    return IG_NON_PROFILE_PATHS.has(seg) ? null : seg;
+  }
+  const handleMatch = s.match(/^@?([A-Za-z0-9._]{2,30})$/);
+  if (handleMatch && !/\s/.test(s)) {
+    const seg = handleMatch[1].toLowerCase().replace(/\.+$/, '');
+    return IG_NON_PROFILE_PATHS.has(seg) ? null : seg;
+  }
+  return null;
+}
+
 export function lookupArtistStyles(name) {
   return ARTIST_LOOKUP[artistKey(name)] || ARTIST_LOOKUP[plainKey(name)] || null;
 }
