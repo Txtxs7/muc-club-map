@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T08:41:56.842Z",
+  "generatedAt": "2026-11-07T20:14:17.884Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -16,15 +16,6 @@
       "lng": 11.558182,
       "distanceKm": 1
     },
-    "ra-118360": {
-      "id": "ra-118360",
-      "name": "Unter Deck",
-      "address": "Oberanger 26, 80331 München",
-      "url": "https://ra.co/clubs/118360",
-      "lat": 48.13509,
-      "lng": 11.57111,
-      "distanceKm": 0
-    },
     "known-rote-sonne": {
       "id": "known-rote-sonne",
       "name": "Rote Sonne",
@@ -33,6 +24,15 @@
       "lat": 48.142272,
       "lng": 11.570342,
       "distanceKm": 1
+    },
+    "ra-118360": {
+      "id": "ra-118360",
+      "name": "Unter Deck",
+      "address": "Oberanger 26, 80331 München",
+      "url": "https://ra.co/clubs/118360",
+      "lat": 48.13509,
+      "lng": 11.57111,
+      "distanceKm": 0
     },
     "known-bahnwaerter-thiel": {
       "id": "known-bahnwaerter-thiel",
@@ -132,6 +132,15 @@
       "lat": 48.194698,
       "lng": 11.60786,
       "distanceKm": 7
+    },
+    "ra-305534": {
+      "id": "ra-305534",
+      "name": "Studio B7",
+      "address": "Zielstattstraße 37 81370 München",
+      "url": "https://ra.co/clubs/305534",
+      "lat": 48.102189,
+      "lng": 11.531332,
+      "distanceKm": 5
     },
     "known-feierwerk": {
       "id": "known-feierwerk",
@@ -233,16 +242,17 @@
       "artists": []
     },
     {
-      "id": "rs-kuduxxti-litoshka-softchaos",
-      "source": "rotesonne",
+      "id": "ra-2579581",
+      "source": "ra",
       "sources": [
+        "Resident Advisor",
         "Rote Sonne"
       ],
       "date": "2026-11-07",
       "title": "HOLEY x Body Fluid w/ Kuduxxti, Litoshka, softchaos",
       "start": "23:00",
-      "end": null,
-      "url": "https://rotesonne.ticket.io/B88Z7m9f/",
+      "end": "08:00",
+      "url": "https://ra.co/events/2579581",
       "igUrl": null,
       "flyer": null,
       "venueId": "known-rote-sonne",
@@ -258,19 +268,22 @@
       ],
       "artists": [
         {
-          "key": "kuduxxti",
-          "name": "Kuduxxti",
-          "url": null
+          "key": "softchaos",
+          "name": "softchaos",
+          "url": "https://ra.co/dj/softchaos",
+          "ig": "softchaosssss"
         },
         {
           "key": "litoshka",
           "name": "Litoshka",
-          "url": null
+          "url": "https://ra.co/dj/litoshka-2",
+          "ig": "litoshka.dj_"
         },
         {
-          "key": "softchaos",
-          "name": "softchaos",
-          "url": null
+          "key": "kuduxxti",
+          "name": "Kuduxxti",
+          "url": "https://ra.co/dj/kuduxxti",
+          "ig": "kuduxxti"
         }
       ]
     },
@@ -2339,6 +2352,50 @@
           "key": "jan ehret",
           "name": "Jan Ehret",
           "url": "https://ra.co/dj/janehret"
+        }
+      ]
+    },
+    {
+      "id": "ra-2579539",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-31",
+      "title": "Silvester at Studio B7",
+      "start": "20:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2579539",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-305534",
+      "genres": [
+        "Techno",
+        "Minimal Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno",
+        "Genre: Minimal Techno"
+      ],
+      "artists": [
+        {
+          "key": "shishmish",
+          "name": "Shishmish",
+          "url": "https://ra.co/dj/shishmish"
+        },
+        {
+          "key": "sashty",
+          "name": "SASHTY",
+          "url": "https://ra.co/dj/sashty"
+        },
+        {
+          "key": "marcel dusk",
+          "name": "Marcel Dusk",
+          "url": "https://ra.co/dj/marceldusk"
         }
       ]
     },
