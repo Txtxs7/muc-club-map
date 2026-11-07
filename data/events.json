@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T22:19:16.672Z",
+  "generatedAt": "2026-11-07T00:18:37.445Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,42 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-tonhalle": {
-      "id": "known-tonhalle",
-      "name": "Tonhalle München",
-      "address": "Ateliertrasse 24, 81671 München",
-      "url": "https://ra.co/clubs/227774",
-      "lat": 48.12472,
-      "lng": 11.60611,
-      "distanceKm": 3
-    },
-    "ra-6828": {
-      "id": "ra-6828",
-      "name": "Pacha",
-      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
-      "url": "https://ra.co/clubs/6828",
-      "lat": 48.142272,
-      "lng": 11.570342,
-      "distanceKm": 1
-    },
-    "known-lieberscholli": {
-      "id": "known-lieberscholli",
-      "name": "Lieberscholli",
-      "address": "Landsberger Str. 212, 80687 München, Germany",
-      "url": "https://ra.co/clubs/226763",
-      "lat": 48.14198,
-      "lng": 11.51594,
-      "distanceKm": 4
-    },
-    "ra-148879": {
-      "id": "ra-148879",
-      "name": "Corleone",
-      "address": "Sendlinger-Tor-Platz 7, 80336 München",
-      "url": "https://ra.co/clubs/148879",
-      "lat": 48.133727,
-      "lng": 11.56523,
-      "distanceKm": 1
-    },
     "known-palais": {
       "id": "known-palais",
       "name": "Palais Club",
@@ -78,6 +42,15 @@
       "lat": 48.123198,
       "lng": 11.554813,
       "distanceKm": 2
+    },
+    "known-lieberscholli": {
+      "id": "known-lieberscholli",
+      "name": "Lieberscholli",
+      "address": "Landsberger Str. 212, 80687 München, Germany",
+      "url": "https://ra.co/clubs/226763",
+      "lat": 48.14198,
+      "lng": 11.51594,
+      "distanceKm": 4
     },
     "known-printhouse": {
       "id": "known-printhouse",
@@ -133,6 +106,24 @@
       "lng": 11.608399,
       "distanceKm": 7
     },
+    "ra-6828": {
+      "id": "ra-6828",
+      "name": "Pacha",
+      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
+      "url": "https://ra.co/clubs/6828",
+      "lat": 48.142272,
+      "lng": 11.570342,
+      "distanceKm": 1
+    },
+    "known-tonhalle": {
+      "id": "known-tonhalle",
+      "name": "Tonhalle München",
+      "address": "Ateliertrasse 24, 81671 München",
+      "url": "https://ra.co/clubs/227774",
+      "lat": 48.12472,
+      "lng": 11.60611,
+      "distanceKm": 3
+    },
     "ra-8425": {
       "id": "ra-8425",
       "name": "Kesselhaus",
@@ -180,204 +171,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2545194",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-06",
-      "title": "Aircraft LIVE / POETRY + LO-FI BEATS / AFTERPARTY BY TUFF MONTY",
-      "start": "19:00",
-      "end": "05:00",
-      "url": "https://ra.co/events/2545194",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-lieberscholli",
-      "genres": [
-        "Techno",
-        "Electronica"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "aircraft",
-          "name": "Aircraft",
-          "url": "https://ra.co/dj/aircraft"
-        }
-      ]
-    },
-    {
-      "id": "ra-2423305",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-06",
-      "title": "NTO live in concert @ Tonhalle Munich",
-      "start": "20:00",
-      "end": "00:00",
-      "url": "https://ra.co/events/2423305",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-tonhalle",
-      "genres": [
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "nto",
-          "name": "NTO",
-          "url": "https://ra.co/dj/nto"
-        },
-        {
-          "key": "prismode",
-          "name": "Prismode",
-          "url": "https://ra.co/dj/prismode-de"
-        },
-        {
-          "key": "solvane",
-          "name": "Solvane",
-          "url": "https://ra.co/dj/solvane"
-        }
-      ]
-    },
-    {
-      "id": "ra-2520638",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-06",
-      "title": "World League with Kevin de Vries",
-      "start": "22:00",
-      "end": "06:00",
-      "url": "https://ra.co/events/2520638",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-6828",
-      "genres": [
-        "Trance",
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "kevin de vries",
-          "name": "Kevin de Vries",
-          "url": "https://ra.co/dj/kevindevries"
-        }
-      ]
-    },
-    {
-      "id": "ra-2554474",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-06",
-      "title": "Electroamore im Corleone",
-      "start": "22:00",
-      "end": "04:00",
-      "url": "https://ra.co/events/2554474",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-148879",
-      "genres": [
-        "Techno",
-        "Electro"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "ronny",
-          "name": "RONNY",
-          "url": "https://ra.co/dj/ronny"
-        },
-        {
-          "key": "die tektonische plattenverschiebung",
-          "name": "Die Tektonische Plattenverschiebung",
-          "url": "https://ra.co/dj/dietektonischeplattenverschiebung"
-        },
-        {
-          "key": "dj fm dj freund",
-          "name": "DJ FM & DJ FREUND",
-          "url": "https://ra.co/dj/djfmdjfreund"
-        }
-      ]
-    },
-    {
-      "id": "rs-doctor-muecke-energy-tape-hurts-saminski",
-      "source": "rotesonne",
-      "sources": [
-        "Rote Sonne"
-      ],
-      "date": "2026-11-06",
-      "title": "slippy series w/ Doctor Mücke, Energy Tape, Hurts, Saminski",
-      "start": "23:00",
-      "end": null,
-      "url": "https://rotesonne.ticket.io/JGAkbB34/",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "doctor muecke",
-          "name": "Doctor Mücke",
-          "url": null
-        },
-        {
-          "key": "energy tape",
-          "name": "Energy Tape",
-          "url": null
-        },
-        {
-          "key": "hurts",
-          "name": "Hurts",
-          "url": null
-        },
-        {
-          "key": "saminski",
-          "name": "Saminski",
-          "url": null
-        }
-      ]
-    },
     {
       "id": "ra-2570265",
       "source": "ra",

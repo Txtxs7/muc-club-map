@@ -393,3 +393,73 @@ export const ARTIST_STYLES = {
 export const VENUE_STYLES = {
   // 'Beispiel-Club': ['hardtechno'],
 };
+
+// Alle 42 deutschen Resident-Advisor-Areas (Country ID 12 = Germany) für die deutschlandweite Act-Suche
+export const DE_RA_AREAS = [
+  209, 336, 357, 34, 274, 298, 208, 225, 265, 143, 229, 144, 150, 145, 235, 147, 228, 148, 146, 219, 354,
+  210, 220, 233, 149, 358, 687, 153, 226, 151, 275, 353, 154, 224, 266, 333, 356, 227, 273, 152, 355, 688,
+];
+
+// Stadt-/Regionszentren als Fallback, falls ein deutscher RA-Venue nur grobe Ganzzahl-Koordinaten hat
+export const DE_AREA_COORDS = {
+  Berlin: { city: 'Berlin', lat: 52.52, lng: 13.405 },
+  Munich: { city: 'München', lat: 48.1374, lng: 11.5755 },
+  Augsburg: { city: 'Augsburg', lat: 48.3705, lng: 10.8978 },
+  Regensburg: { city: 'Regensburg', lat: 49.0134, lng: 12.1016 },
+  Nürnberg: { city: 'Nürnberg', lat: 49.4521, lng: 11.0767 },
+  Bavaria: { city: 'Bayern', lat: 48.77, lng: 11.43 },
+  Cologne: { city: 'Köln', lat: 50.9375, lng: 6.9603 },
+  Düsseldorf: { city: 'Düsseldorf', lat: 51.2277, lng: 6.7735 },
+  'Dortmund / Essen': { city: 'Dortmund / Ruhr', lat: 51.5136, lng: 7.4653 },
+  Bochum: { city: 'Bochum', lat: 51.4818, lng: 7.2162 },
+  Münster: { city: 'Münster', lat: 51.9607, lng: 7.6261 },
+  Bielefeld: { city: 'Bielefeld', lat: 52.0302, lng: 8.5325 },
+  'North Rhine-Westphalia': { city: 'NRW', lat: 51.4332, lng: 7.6616 },
+  Hamburg: { city: 'Hamburg', lat: 53.5511, lng: 9.9937 },
+  Bremen: { city: 'Bremen', lat: 53.0793, lng: 8.8017 },
+  Hannover: { city: 'Hannover', lat: 52.3759, lng: 9.732 },
+  'Lower Saxony': { city: 'Niedersachsen', lat: 52.6367, lng: 9.8451 },
+  'Schleswig-Holstein': { city: 'Schleswig-Holstein', lat: 54.2194, lng: 9.6961 },
+  Frankfurt: { city: 'Frankfurt', lat: 50.1109, lng: 8.6821 },
+  Darmstadt: { city: 'Darmstadt', lat: 49.8728, lng: 8.6512 },
+  Wiesbaden: { city: 'Wiesbaden', lat: 50.0782, lng: 8.2398 },
+  Kassel: { city: 'Kassel', lat: 51.3127, lng: 9.4797 },
+  Hesse: { city: 'Hessen', lat: 50.6521, lng: 9.1624 },
+  Mainz: { city: 'Mainz', lat: 49.9929, lng: 8.2473 },
+  'Rhineland-Palatinate': { city: 'Rheinland-Pfalz', lat: 49.9129, lng: 7.4496 },
+  Saarland: { city: 'Saarbrücken', lat: 49.2402, lng: 6.9969 },
+  Stuttgart: { city: 'Stuttgart', lat: 48.7758, lng: 9.1829 },
+  Mannheim: { city: 'Mannheim', lat: 49.4875, lng: 8.466 },
+  Karlsruhe: { city: 'Karlsruhe', lat: 49.0069, lng: 8.4037 },
+  Heidelberg: { city: 'Heidelberg', lat: 49.3988, lng: 8.6724 },
+  Freiburg: { city: 'Freiburg', lat: 47.999, lng: 7.8421 },
+  'Baden-Württemberg': { city: 'Baden-Württemberg', lat: 48.6616, lng: 9.3501 },
+  Leipzig: { city: 'Leipzig', lat: 51.3397, lng: 12.3731 },
+  Dresden: { city: 'Dresden', lat: 51.0504, lng: 13.7373 },
+  Chemnitz: { city: 'Chemnitz', lat: 50.8278, lng: 12.9214 },
+  Saxony: { city: 'Sachsen', lat: 51.1045, lng: 13.2017 },
+  Erfurt: { city: 'Erfurt', lat: 50.9848, lng: 11.0299 },
+  Jena: { city: 'Jena', lat: 50.9271, lng: 11.5892 },
+  Thuringia: { city: 'Thüringen', lat: 50.901, lng: 11.0348 },
+  Brandenburg: { city: 'Brandenburg', lat: 52.3906, lng: 13.0645 },
+  'Saxony-Anhalt': { city: 'Magdeburg / Halle', lat: 52.1205, lng: 11.6276 },
+  'Mecklenburg-Vorpommern': { city: 'Rostock', lat: 54.0924, lng: 12.0991 },
+};
+
+// Exakte Koordinaten bekannter deutscher Szene-Clubs (falls RA nur gerundete Koordinaten liefert)
+export const DE_CLUB_COORDS = [
+  { re: /\bm-bia\b/i, city: 'Berlin', lat: 52.52194, lng: 13.41321 },
+  { re: /\bbootshaus\b/i, city: 'Köln', lat: 50.93179, lng: 6.98591 },
+  { re: /\bschrotty\b/i, city: 'Köln', lat: 50.95711, lng: 6.90125 },
+  { re: /\bodonien\b/i, city: 'Köln', lat: 50.95542, lng: 6.94278 },
+  { re: /\bartheater\b/i, city: 'Köln', lat: 50.95198, lng: 6.91342 },
+  { re: /\bgotec\b/i, city: 'Karlsruhe', lat: 49.00851, lng: 8.35472 },
+  { re: /\bproton\b/i, city: 'Stuttgart', lat: 48.77478, lng: 9.17431 },
+  { re: /\btanzhaus\s*west\b/i, city: 'Frankfurt', lat: 50.09911, lng: 8.64589 },
+  { re: /\bmtw\s*club\b/i, city: 'Offenbach / Frankfurt', lat: 50.11072, lng: 8.74952 },
+  { re: /\bjunkyard\b/i, city: 'Dortmund', lat: 51.52569, lng: 7.45421 },
+  { re: /\bfusion\s*club\b/i, city: 'Münster', lat: 51.94722, lng: 7.64167 },
+  { re: /\buebel\s*&\s*gef[äa]hrlich\b/i, city: 'Hamburg', lat: 53.55639, lng: 9.96972 },
+  { re: /\bedelfettwerk\b/i, city: 'Hamburg', lat: 53.57789, lng: 9.90361 },
+  { re: /\belipamanoke\b/i, city: 'Leipzig', lat: 51.32831, lng: 12.33128 },
+];

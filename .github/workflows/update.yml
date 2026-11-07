@@ -2,11 +2,11 @@ name: Events aktualisieren & deployen
 
 on:
   schedule:
-    - cron: '17 4 * * *' # täglich ~05:17 / 06:17 Uhr deutscher Zeit
+    - cron: '17 4,16 * * *' # 2x täglich (~05:17 & 17:17 Uhr deutscher Zeit)
   workflow_dispatch: {}
   push:
     branches: [main, master]
-    paths-ignore: ['data/events.json', 'data/artists.json', 'data/venue-cache.json', 'data/ig-cache.json']
+    paths-ignore: ['data/events.json', 'data/germany-events.json', 'data/artists.json', 'data/venue-cache.json', 'data/ig-cache.json']
 
 permissions:
   contents: write

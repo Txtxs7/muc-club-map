@@ -41,8 +41,17 @@
         <button class="chip on" data-style="uptempo">Uptempo</button>
         <button class="chip" data-style="techno" title="Events, die nur allgemein als Techno getaggt sind – evtl. auch hart">+ Techno (unsicher)</button>
       </div>
+      <div class="top-actions" role="group" aria-label="Aktionen">
+        <button id="topActsBtn" class="action-btn acts-jump" title="Eigene Acts verwalten & deutschlandweit anzeigen">
+          ★ Meine Acts (DE) <span id="topActsCount" class="count-pill" hidden>0</span>
+        </button>
+        <button id="refreshBtn" class="action-btn refresh-btn" title="Eventdaten ohne Cache neu laden">
+          <span class="spin-icon" aria-hidden="true">↻</span> Aktualisieren
+        </button>
+      </div>
     </div>
   </header>
+  <div id="refreshToast" class="refresh-toast" role="status" aria-live="polite" hidden></div>
 
   <nav id="dateStrip" class="date-strip" aria-label="Kommende Tage"></nav>
 
@@ -50,6 +59,14 @@
     <div id="map" class="map" aria-label="Karte"></div>
     <aside id="panel" class="panel" aria-live="polite">
       <div class="panel-handle" id="panelHandle" aria-hidden="true"></div>
+      <div class="panel-tabs" role="tablist" aria-label="Ansicht wählen">
+        <button id="tabMap" class="panel-tab active" role="tab" aria-selected="true" data-tab="map">
+          📍 Tageskarte
+        </button>
+        <button id="tabActs" class="panel-tab" role="tab" aria-selected="false" data-tab="acts">
+          ★ Meine Acts (DE) <span id="tabActsCount" class="tab-badge" hidden>0</span>
+        </button>
+      </div>
       <div id="panelContent" class="panel-content">
         <p class="muted">Lade Events …</p>
       </div>

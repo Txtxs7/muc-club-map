@@ -34,7 +34,36 @@ const QUERY = `query GetEvents($filters: FilterInputDtoInput, $pageSize: Int, $p
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-async function gql(variables, attempt = 1) {
+const QUERY_LIGHT = `query GetGermanyEvents($filters: FilterInputDtoInput, $pageSize: Int, $page: Int) {
+  eventListings(filters: $filters, pageSize: $pageSize, page: $page) {
+    totalResults
+    data {
+      id
+      listingDate
+      event {
+        id
+        title
+        date
+        startTime
+        endTime
+        contentUrl
+        flyerFront
+        genres { name }
+        venue {
+          id
+          name
+          address
+          contentUrl
+          area { id name }
+          location { latitude longitude }
+        }
+        artists { id name contentUrl }
+      }
+    }
+  }
+}`;
+
+async function gql(variables, attempt = 1, query = QUERY) {
   const res = await fetch(ENDPOINT, {
     method: 'POST',
     headers: {
@@ -43,12 +72,12 @@ async function gql(variables, attempt = 1) {
       Origin: 'https://ra.co',
       Referer: 'https://ra.co/events/de/munich',
     },
-    body: JSON.stringify({ query: QUERY, variables }),
+    body: JSON.stringify({ query, variables }),
   });
   if (!res.ok) {
     if (attempt < 3) {
       await sleep(2000 * attempt);
-      return gql(variables, attempt + 1);
+      return gql(variables, attempt + 1, query);
     }
     throw new Error(`RA HTTP ${res.status}`);
   }
@@ -70,6 +99,27 @@ export async function fetchAreaEvents(areaId, from, to) {
     out.push(...res.data);
     if (res.data.length < pageSize || out.length >= res.totalResults) break;
     await sleep(600);
+  }
+  return out;
+}
+
+/** Holt kompakt alle Events mehrerer Areas (z. B. ganz Deutschland) ohne schwere HTML-Texte. */
+export async function fetchGermanyEvents(areaIds, from, to) {
+  const pageSize = 100;
+  const out = [];
+  for (let page = 1; page <= 50; page++) {
+    const res = await gql(
+      {
+        filters: { areas: { any: areaIds }, listingDate: { gte: from, lte: to } },
+        pageSize,
+        page,
+      },
+      1,
+      QUERY_LIGHT,
+    );
+    out.push(...res.data);
+    if (res.data.length < pageSize || out.length >= res.totalResults) break;
+    await sleep(350);
   }
   return out;
 }

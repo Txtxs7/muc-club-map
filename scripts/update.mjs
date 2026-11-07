@@ -9,8 +9,18 @@ import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { CENTER, RADIUS_KM, DAYS_AHEAD, RA_AREAS, TICKET_IO_SHOPS, INSTAGRAM_ACCOUNTS } from './config.mjs';
-import { fetchAreaEvents } from './lib/ra.mjs';
+import {
+  CENTER,
+  RADIUS_KM,
+  DAYS_AHEAD,
+  RA_AREAS,
+  DE_RA_AREAS,
+  DE_AREA_COORDS,
+  DE_CLUB_COORDS,
+  TICKET_IO_SHOPS,
+  INSTAGRAM_ACCOUNTS,
+} from './config.mjs';
+import { fetchAreaEvents, fetchGermanyEvents } from './lib/ra.mjs';
 import { fetchRoteSonne, fetchSchwarzesMuenchen, fetchTicketIoShops } from './lib/munich-sources.mjs';
 import { fetchInstagramEvents } from './lib/instagram.mjs';
 import { geocode, distanceKm, isPrecise } from './lib/geo.mjs';
@@ -351,6 +361,179 @@ async function main() {
   });
   console.log(`✅ ${events.length} Events in ${Object.keys(usedVenues).length} Venues gespeichert`);
   await writeJson('venue-cache.json', venueCache);
+
+  // ---- 3b) Deutschlandweiter Event-Index für eigene Acts (data/germany-events.json) ----
+  if (!args.has('--no-germany')) {
+    const prevDe = await readJson('germany-events.json', null);
+    try {
+      const rawDeList = await fetchGermanyEvents(DE_RA_AREAS, from, to);
+      const rawDe = new Map();
+      rawDeList.forEach((l) => {
+        if (l?.event?.id && l?.event?.venue) rawDe.set(String(l.event.id), l);
+      });
+      console.log(`🇩🇪 RA Deutschlandweit: ${rawDe.size} eindeutige Events geladen`);
+
+      const deVenues = {};
+      const deEvents = [];
+
+      const hashJitter = (str) => {
+        let h = 0;
+        for (let i = 0; i < str.length; i++) h = (h * 31 + str.charCodeAt(i)) | 0;
+        return (((h % 13) + 13) % 13 - 6) * 0.0015;
+      };
+
+      const cityFromAddr = (addr, areaName) => {
+        const m = String(addr || '').match(/\b\d{5}\s+([A-ZÄÖÜa-zäöüß\- ]{2,30})/);
+        if (m) return m[1].trim().replace(/\s+,.*$/, '');
+        return DE_AREA_COORDS[areaName]?.city || areaName || 'Deutschland';
+      };
+
+      // Zuerst alle bereits verorteten regionalen Events (inkl. Rote Sonne, Schwarzes München, Instagram) übernehmen
+      for (const ev of events) {
+        const v = usedVenues[ev.venueId];
+        if (!v) continue;
+        deVenues[ev.venueId] = {
+          id: v.id,
+          name: v.name,
+          city: cityFromAddr(v.address, v.distanceKm <= 25 ? 'Munich' : ''),
+          address: v.address || '',
+          url: v.url || null,
+          lat: v.lat,
+          lng: v.lng,
+          distanceKm: v.distanceKm,
+        };
+        deEvents.push({
+          id: ev.id,
+          source: ev.source,
+          sources: ev.sources,
+          date: ev.date,
+          title: ev.title,
+          start: ev.start,
+          end: ev.end,
+          url: ev.url,
+          igUrl: ev.igUrl || null,
+          flyer: ev.flyer || null,
+          venueId: ev.venueId,
+          styles: ev.styles,
+          artists: ev.artists,
+        });
+      }
+
+      const regionalEvents = deEvents.slice();
+      const haveRaIds = new Set(regionalEvents.map((e) => e.id));
+
+      for (const { listingDate, event: ev } of rawDe.values()) {
+        const eid = `ra-${ev.id}`;
+        if (haveRaIds.has(eid)) continue;
+        const date = String(listingDate || ev.date).slice(0, 10);
+        if (date < from || date > to) continue;
+
+        const vRaw = ev.venue;
+        const known = resolveKnownVenue(`${vRaw.name || ''} ${vRaw.address || ''}`);
+        const clubCoord = DE_CLUB_COORDS.find((c) => c.re.test(vRaw.name || ''));
+        const areaName = vRaw.area?.name || '';
+        const areaCoord = DE_AREA_COORDS[areaName];
+        const vid = known ? `known-${known.key}` : `ra-${vRaw.id}`;
+
+        if (!deVenues[vid]) {
+          let lat = null;
+          let lng = null;
+          if (known) {
+            lat = known.lat;
+            lng = known.lng;
+          } else if (clubCoord) {
+            lat = clubCoord.lat;
+            lng = clubCoord.lng;
+          } else if (isPrecise(vRaw.location?.latitude, vRaw.location?.longitude)) {
+            lat = vRaw.location.latitude;
+            lng = vRaw.location.longitude;
+          } else if (venueCache[vid]) {
+            lat = venueCache[vid].lat;
+            lng = venueCache[vid].lng;
+          } else if (areaCoord) {
+            lat = +(areaCoord.lat + hashJitter(vid + 'lat')).toFixed(6);
+            lng = +(areaCoord.lng + hashJitter(vid + 'lng')).toFixed(6);
+          } else if (vRaw.location?.latitude && vRaw.location?.longitude) {
+            lat = vRaw.location.latitude;
+            lng = vRaw.location.longitude;
+          }
+          if (lat == null || lng == null) continue;
+          const dist = Math.round(distanceKm(CENTER, { lat, lng }));
+          deVenues[vid] = {
+            id: vid,
+            name: known?.name || vRaw.name,
+            city: clubCoord?.city || cityFromAddr(vRaw.address || known?.address, areaName),
+            address: vRaw.address || known?.address || '',
+            url: (vRaw.contentUrl && `https://ra.co${vRaw.contentUrl}`) || known?.url || null,
+            lat: +Number(lat).toFixed(6),
+            lng: +Number(lng).toFixed(6),
+            distanceKm: dist,
+          };
+        }
+
+        const rawArtists = (ev.artists || []).map((a) => ({
+          key: artistKey(a.name),
+          name: cleanArtistName(a.name),
+          url: a.contentUrl ? `https://ra.co${a.contentUrl}` : null,
+        })).filter((a) => a.key);
+        const rawKeys = new Set(rawArtists.map((a) => a.key));
+        for (const name of extractKnownArtists(ev.title, { allowPlainNames: true })) {
+          const k = artistKey(name);
+          if (k && !rawKeys.has(k)) {
+            rawKeys.add(k);
+            rawArtists.push({ key: k, name, url: null });
+          }
+        }
+
+        // Prüfen, ob schon ein regionales Nicht-RA-Event am selben Tag/Venue existiert
+        const dup = regionalEvents.some(
+          (ex) =>
+            ex.date === date &&
+            ex.venueId === vid &&
+            (titleTokens(ex.title).some((w) => titleTokens(ev.title).includes(w)) ||
+              ex.artists.some((x) => rawKeys.has(x.key))),
+        );
+        if (dup) continue;
+
+        const cls = classify({
+          title: ev.title,
+          genres: (ev.genres || []).map((g) => g.name),
+          artists: rawArtists.map((a) => a.name),
+          venueName: deVenues[vid].name,
+        });
+
+        deEvents.push({
+          id: eid,
+          source: 'ra',
+          sources: ['Resident Advisor'],
+          date,
+          title: ev.title,
+          start: hhmm(ev.startTime),
+          end: hhmm(ev.endTime),
+          url: ev.contentUrl ? `https://ra.co${ev.contentUrl}` : null,
+          igUrl: null,
+          flyer: ev.flyerFront || null,
+          venueId: vid,
+          styles: cls?.styles || ['techno'],
+          artists: rawArtists,
+        });
+      }
+
+      deEvents.sort((a, b) => (a.date + (a.start || '')).localeCompare(b.date + (b.start || '')));
+      await writeFile(
+        path.join(DATA, 'germany-events.json'),
+        JSON.stringify({
+          generatedAt: new Date().toISOString(),
+          venues: deVenues,
+          events: deEvents,
+        }) + '\n',
+      );
+      console.log(`🇩🇪 ${deEvents.length} Deutschland-Events in ${Object.keys(deVenues).length} Venues gespeichert`);
+    } catch (e) {
+      console.warn(`⚠️  Deutschland-Index fehlgeschlagen (${e.message}) – behalte bisherigen Stand.`);
+      if (!prevDe) await writeJson('germany-events.json', { generatedAt: new Date().toISOString(), venues: {}, events: [] });
+    }
+  }
 
   // ---- 4) Acts anreichern ----
   if (!args.has('--no-artists')) {
