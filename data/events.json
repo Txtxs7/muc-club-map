@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:16:15.871Z",
+  "generatedAt": "2026-11-08T20:29:03.858Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -352,6 +352,79 @@
       ]
     },
     {
+      "id": "ra-2579967",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-13",
+      "title": "SYNTHX x Rote Sonne Staffellauf 001",
+      "start": "22:00",
+      "end": "08:00",
+      "url": "https://ra.co/events/2579967",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-rote-sonne",
+      "genres": [
+        "Trance",
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "nn",
+          "name": "ÆNN",
+          "url": "https://ra.co/dj/aenn",
+          "ig": "_anneprae"
+        },
+        {
+          "key": "anastasia",
+          "name": "anastasia",
+          "url": "https://ra.co/dj/anastasia",
+          "ig": "anastasiassofficial"
+        },
+        {
+          "key": "jan minnerup",
+          "name": "Jan Minnerup",
+          "url": "https://ra.co/dj/janminnerup",
+          "ig": "j_minnerup"
+        },
+        {
+          "key": "jbox",
+          "name": "JBox",
+          "url": "https://ra.co/dj/jbox"
+        },
+        {
+          "key": "listenblondie",
+          "name": "Listenblondie",
+          "url": "https://ra.co/dj/listenblondie"
+        },
+        {
+          "key": "praun",
+          "name": "Praun",
+          "url": "https://ra.co/dj/praun",
+          "ig": "praunniklaus"
+        },
+        {
+          "key": "subcutan",
+          "name": "subcutan",
+          "url": "https://ra.co/dj/subcutan"
+        },
+        {
+          "key": "vaneska",
+          "name": "Vaneska",
+          "url": "https://ra.co/dj/vaneska",
+          "ig": "vaneska.dj"
+        }
+      ]
+    },
+    {
       "id": "ig-DfQPGzkDnqP",
       "source": "instagram",
       "sources": [
@@ -541,9 +614,10 @@
       ]
     },
     {
-      "id": "rs-octor-perc-starkiller-synta",
-      "source": "rotesonne",
+      "id": "ra-2579971",
+      "source": "ra",
       "sources": [
+        "Resident Advisor",
         "Rote Sonne",
         "rotesonne.ticket.io",
         "Instagram @clubrotesonne"
@@ -552,7 +626,7 @@
       "title": "UNTREATED w/ Octor | Perc | STARKILLER | SYNTA",
       "start": "23:00",
       "end": "08:00",
-      "url": "https://rotesonne.ticket.io/3612ZPMm/",
+      "url": "https://ra.co/events/2579971",
       "igUrl": "https://www.instagram.com/p/DfPekFmK86q/",
       "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/3612ZPMm/img/holder-1080.jpg?bbac9aa5",
       "venueId": "known-rote-sonne",
@@ -566,28 +640,35 @@
       "reasons": [
         "Stichwort: \"UNTREATED\"",
         "Act: Octor",
-        "Act: PERC",
-        "Act: Perc"
+        "Act: Perc",
+        "Act: PERC"
       ],
       "artists": [
         {
           "key": "octor",
           "name": "Octor",
-          "url": null
+          "url": "https://ra.co/dj/octor"
         },
         {
           "key": "perc",
-          "name": "PERC",
-          "url": null
+          "name": "Perc",
+          "url": "https://ra.co/dj/perc"
+        },
+        {
+          "key": "starkiller de",
+          "name": "STARKILLER.DE",
+          "url": "https://ra.co/dj/starkiller.de",
+          "ig": "starkiller.official"
+        },
+        {
+          "key": "synta",
+          "name": "SYNTA",
+          "url": "https://ra.co/dj/synta",
+          "ig": "syntasizer"
         },
         {
           "key": "starkiller",
           "name": "STARKILLER",
-          "url": null
-        },
-        {
-          "key": "synta",
-          "name": "Synta",
           "url": null
         }
       ]

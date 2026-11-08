@@ -5420,5 +5420,159 @@
     "name": "ffzg",
     "updatedAt": "2026-11-06T22:15:22.902Z",
     "deezer": null
+  },
+  "nn": {
+    "name": "ÆNN",
+    "updatedAt": "2026-11-08T20:29:17.401Z",
+    "deezer": {
+      "id": 177081627,
+      "link": "https://www.deezer.com/artist/177081627",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/fd9f65dc8b82cca094bff00b7f2a542c/250x250-000000-80-0-0.jpg",
+      "fans": 0,
+      "top": []
+    }
+  },
+  "anastasia": {
+    "name": "anastasia",
+    "updatedAt": "2026-11-08T20:29:18.201Z",
+    "deezer": {
+      "id": 1496,
+      "link": "https://www.deezer.com/artist/1496",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/84714a832e3cacdeec0d98a061bafcae/250x250-000000-80-0-0.jpg",
+      "fans": 4603,
+      "top": [
+        {
+          "title": "Gia Sena Pou Latrevo",
+          "album": "Gia Sena Pou Latrevo",
+          "link": "https://www.deezer.com/track/3673628412",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/c/a/0/1caaa17e9184df7f375a90c7ab2a653d.mp3?hdnea=exp=1794170658~acl=/api/1/1/1/c/a/0/1caaa17e9184df7f375a90c7ab2a653d.mp3*~data=user_id=0,application_id=42~hmac=f687f92d48681f7873f4f594814e2ee824bb7d2f448e9fe2a6e669ae67fbbafa",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/0cfafc24de0815eaf837c16856d636c7/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "An Eisai Ena Asteri",
+          "album": "An Eisai Ena Asteri",
+          "link": "https://www.deezer.com/track/2075991617",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/e/0/aae0c56a2a0ac2c49ddc3eeeccf6264e.mp3?hdnea=exp=1794170658~acl=/api/1/1/a/a/e/0/aae0c56a2a0ac2c49ddc3eeeccf6264e.mp3*~data=user_id=0,application_id=42~hmac=cfc5d31330dabcb70b8d143b90dd17495702fe112e2f57ef2bd5372134bc7434",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/34732c36119e89493986cdfcf8b3b042/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Gia Tin Ellada",
+          "album": "Gia Tin Ellada",
+          "link": "https://www.deezer.com/track/3418587751",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/4/d/0/94d19d713d265e5f781d7d8a71a7c9f2.mp3?hdnea=exp=1794170658~acl=/api/1/1/9/4/d/0/94d19d713d265e5f781d7d8a71a7c9f2.mp3*~data=user_id=0,application_id=42~hmac=1dc25f2c01184a0e3c5c0f02c51ca322bbd1291f9b945124dc1e0c66f6864662",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d6780920fb2e5b4d281df7f522318ee0/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "LOCA",
+          "album": "LOCA",
+          "link": "https://www.deezer.com/track/4129871681",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/8/f/0/48f3ea2c3b73f76240fafc9cd0b0d160.mp3?hdnea=exp=1794170658~acl=/api/1/1/4/8/f/0/48f3ea2c3b73f76240fafc9cd0b0d160.mp3*~data=user_id=0,application_id=42~hmac=6d42e4e5f99f93b546923e79d1a5435259d8323e6cea95ef1014792bf1c67466",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/66aee9e3dbf2c82272196091fad3c711/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Amarties (Acoustic Version)",
+          "album": "Amarties (EP)",
+          "link": "https://www.deezer.com/track/1746048657",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/6/0/0260b89d0f0a09c679f9a967573242cc.mp3?hdnea=exp=1794170658~acl=/api/1/1/0/2/6/0/0260b89d0f0a09c679f9a967573242cc.mp3*~data=user_id=0,application_id=42~hmac=3dda9ef16ecc68bb3ebaa396c3d7f9436cededeff2e27aefc56ffa32ffd909c6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/a6b265c2e07567d288885912d919f008/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "jan minnerup": {
+    "name": "Jan Minnerup",
+    "updatedAt": "2026-11-08T20:29:18.925Z",
+    "deezer": {
+      "id": 263884551,
+      "link": "https://www.deezer.com/artist/263884551",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/079e715f00a40db126f999b638866e1e/250x250-000000-80-0-0.jpg",
+      "fans": 3,
+      "top": []
+    }
+  },
+  "jbox": {
+    "name": "JBox",
+    "updatedAt": "2026-11-08T20:29:19.440Z",
+    "deezer": {
+      "id": 10994076,
+      "link": "https://www.deezer.com/artist/10994076",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/30db5627fe25f3c45a65968984487b51/250x250-000000-80-0-0.jpg",
+      "fans": 21,
+      "top": []
+    }
+  },
+  "listenblondie": {
+    "name": "Listenblondie",
+    "updatedAt": "2026-11-08T20:29:20.083Z",
+    "deezer": {
+      "id": 285506931,
+      "link": "https://www.deezer.com/artist/285506931",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/5b66e960644b408459ae2680ef3f48b1/250x250-000000-80-0-0.jpg",
+      "fans": 16,
+      "top": [
+        {
+          "title": "The Shot",
+          "album": "The Shot",
+          "link": "https://www.deezer.com/track/3423175571",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/d/0/9dd5194a3d599a7a959ec5ddd08cf520.mp3?hdnea=exp=1794170660~acl=/api/1/1/9/d/d/0/9dd5194a3d599a7a959ec5ddd08cf520.mp3*~data=user_id=0,application_id=42~hmac=cefc1b09d2068a85a8bc310a432da2ba293d538c4360abc559e176cf0dc0c2ed",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/df95834b3f3f123108cee8f9ebc8192b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Get Down",
+          "album": "Get Down",
+          "link": "https://www.deezer.com/track/3171176161",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/4/0/4e40f162d3c13181f36a76f32c65f66c.mp3?hdnea=exp=1794170660~acl=/api/1/1/4/e/4/0/4e40f162d3c13181f36a76f32c65f66c.mp3*~data=user_id=0,application_id=42~hmac=e16e6a2b037785a4ceda594ee4cda2f341381679d0e07ea7474ced17fc216e1c",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b14ec3078b4e71a38bb1e797fe30b5e4/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Get Nasty",
+          "album": "Get Nasty",
+          "link": "https://www.deezer.com/track/3232051121",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/e/e/0/5eedd80deed257d6e8e1063ae95a3a31.mp3?hdnea=exp=1794170660~acl=/api/1/1/5/e/e/0/5eedd80deed257d6e8e1063ae95a3a31.mp3*~data=user_id=0,application_id=42~hmac=64fcd8e1abe6e1a5ac0b1bd22a5f614aace6f5a8adf12f40531d36ebf8b8e860",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/1717379ca495283206eb91a1d405ea2b/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "praun": {
+    "name": "Praun",
+    "updatedAt": "2026-11-08T20:29:20.633Z",
+    "deezer": {
+      "id": 300293461,
+      "link": "https://www.deezer.com/artist/300293461",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/3013a448b553d275e78168cc3361f456/250x250-000000-80-0-0.jpg",
+      "fans": 28,
+      "top": [
+        {
+          "title": "Vanishing Point",
+          "album": "VANISHING POINT",
+          "link": "https://www.deezer.com/track/3052439831",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/8/a/0/c8aad38f1c9e9fdf402db906c9494504.mp3?hdnea=exp=1794170660~acl=/api/1/1/c/8/a/0/c8aad38f1c9e9fdf402db906c9494504.mp3*~data=user_id=0,application_id=42~hmac=520dadef3b584947ba09c8ff1119a9ed6746b3982d463090547b1cc593f127fd",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3013a448b553d275e78168cc3361f456/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Grit",
+          "album": "Grit",
+          "link": "https://www.deezer.com/track/2826377132",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/b/9/0/5b9f00a71b3faa1d86a9b1fe0a0f583a.mp3?hdnea=exp=1794170660~acl=/api/1/1/5/b/9/0/5b9f00a71b3faa1d86a9b1fe0a0f583a.mp3*~data=user_id=0,application_id=42~hmac=09a0495bc1185a5ff91246cc94efd597c56acf0e78a10c73d71f816f76f26f01",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/ddce4d78c06797f69cb0359330b5e356/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "subcutan": {
+    "name": "subcutan",
+    "updatedAt": "2026-11-08T20:29:21.335Z",
+    "deezer": null
+  },
+  "vaneska": {
+    "name": "Vaneska",
+    "updatedAt": "2026-11-08T20:29:21.784Z",
+    "deezer": null
+  },
+  "starkiller de": {
+    "name": "STARKILLER.DE",
+    "updatedAt": "2026-11-08T20:29:22.289Z",
+    "deezer": null
   }
 }
