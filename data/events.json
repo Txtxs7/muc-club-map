@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:14:17.884Z",
+  "generatedAt": "2026-11-08T11:16:15.871Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,14 +7,14 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-palais": {
-      "id": "known-palais",
-      "name": "Palais Club",
-      "address": "Arnulfstrasse 16-18; 80335 Munich; Germany",
-      "url": "https://ra.co/clubs/8036",
-      "lat": 48.141923,
-      "lng": 11.558182,
-      "distanceKm": 1
+    "ra-118360": {
+      "id": "ra-118360",
+      "name": "Unter Deck",
+      "address": "Oberanger 26, 80331 München",
+      "url": "https://ra.co/clubs/118360",
+      "lat": 48.13509,
+      "lng": 11.57111,
+      "distanceKm": 0
     },
     "known-rote-sonne": {
       "id": "known-rote-sonne",
@@ -24,15 +24,6 @@
       "lat": 48.142272,
       "lng": 11.570342,
       "distanceKm": 1
-    },
-    "ra-118360": {
-      "id": "ra-118360",
-      "name": "Unter Deck",
-      "address": "Oberanger 26, 80331 München",
-      "url": "https://ra.co/clubs/118360",
-      "lat": 48.13509,
-      "lng": 11.57111,
-      "distanceKm": 0
     },
     "known-bahnwaerter-thiel": {
       "id": "known-bahnwaerter-thiel",
@@ -60,6 +51,15 @@
       "lat": 48.1281,
       "lng": 11.6295,
       "distanceKm": 4
+    },
+    "known-palais": {
+      "id": "known-palais",
+      "name": "Palais Club",
+      "address": "Arnulfstrasse 16-18; 80335 Munich; Germany",
+      "url": "https://ra.co/clubs/8036",
+      "lat": 48.141923,
+      "lng": 11.558182,
+      "distanceKm": 1
     },
     "known-kesselhaus-augsburg": {
       "id": "known-kesselhaus-augsburg",
@@ -180,151 +180,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2570265",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-07",
-      "title": "RESIDENTEN-SUITE",
-      "start": "04:00",
-      "end": "11:00",
-      "url": "https://ra.co/events/2570265",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-palais",
-      "genres": [
-        "Techno",
-        "Tech House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "sandra gold",
-          "name": "Sandra Gold",
-          "url": "https://ra.co/dj/sandragold",
-          "ig": "housedjane"
-        }
-      ]
-    },
-    {
-      "id": "ra-2570311",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-07",
-      "title": "NASTY TIMES WITH BOHO",
-      "start": "21:00",
-      "end": "11:00",
-      "url": "https://ra.co/events/2570311",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-palais",
-      "genres": [
-        "Techno",
-        "Tech House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": []
-    },
-    {
-      "id": "ra-2579581",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "Rote Sonne"
-      ],
-      "date": "2026-11-07",
-      "title": "HOLEY x Body Fluid w/ Kuduxxti, Litoshka, softchaos",
-      "start": "23:00",
-      "end": "08:00",
-      "url": "https://ra.co/events/2579581",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "softchaos",
-          "name": "softchaos",
-          "url": "https://ra.co/dj/softchaos",
-          "ig": "softchaosssss"
-        },
-        {
-          "key": "litoshka",
-          "name": "Litoshka",
-          "url": "https://ra.co/dj/litoshka-2",
-          "ig": "litoshka.dj_"
-        },
-        {
-          "key": "kuduxxti",
-          "name": "Kuduxxti",
-          "url": "https://ra.co/dj/kuduxxti",
-          "ig": "kuduxxti"
-        }
-      ]
-    },
-    {
-      "id": "ig-DfO8R8bDPKL",
-      "source": "instagram",
-      "sources": [
-        "Instagram @kesselhaus_augsburg"
-      ],
-      "date": "2026-11-07",
-      "title": "PLAY – SOMEWHEN ⛓️🖤",
-      "start": "23:00",
-      "end": null,
-      "url": "https://www.instagram.com/p/DfO8R8bDPKL/",
-      "igUrl": "https://www.instagram.com/p/DfO8R8bDPKL/",
-      "flyer": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/883300175_18654085318011438_8179352704938953694_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vRPJrHPZxtIQ7kNvwHAj01D&_nc_oc=AdqiDSWkaijFE8WzFdmxG7kKwenrtPX1U2QtqAIBOcR6GqJPn3RknC0twOgf4YwykGvYQ4QMic-SIDWSQ4VN4z-r&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=BEUJzFNHXzCIeH64wvkv_A&_nc_ss=7c689&oh=00_AQTZHQ4E1BnbV8Wal2DF5mBv6p2rF8JW283v07sV4VtsSA&oe=6AF43318",
-      "venueId": "known-kesselhaus-augsburg",
-      "genres": [],
-      "styles": [
-        "industrial"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"Beton, Verzerrung\"",
-        "Act: Somewhen"
-      ],
-      "artists": [
-        {
-          "key": "somewhen",
-          "name": "Somewhen",
-          "url": null,
-          "ig": "somewhensrx"
-        },
-        {
-          "key": "there is no tomorrow",
-          "name": "There Is No Tomorrow",
-          "url": null,
-          "ig": "thereisnotomorrow.dj"
-        }
-      ]
-    },
     {
       "id": "ra-2573914",
       "source": "ra",
