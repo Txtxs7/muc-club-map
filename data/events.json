@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:51:21.766Z",
+  "generatedAt": "2026-11-10T00:15:46.588Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -60,6 +60,15 @@
       "lat": 48.141923,
       "lng": 11.558182,
       "distanceKm": 1
+    },
+    "ra-258611": {
+      "id": "ra-258611",
+      "name": "Sauna Club",
+      "address": "",
+      "url": "https://ra.co/clubs/258611",
+      "lat": 48.375439,
+      "lng": 10.938343,
+      "distanceKm": 54
     },
     "known-kesselhaus-augsburg": {
       "id": "known-kesselhaus-augsburg",
@@ -850,6 +859,40 @@
           "key": "danuschek",
           "name": "danuschek",
           "url": "https://ra.co/dj/danuschek"
+        }
+      ]
+    },
+    {
+      "id": "ra-2580480",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-19",
+      "title": "ONE YEAR OF SCHUETTEL @Sauna",
+      "start": "22:00",
+      "end": "04:00",
+      "url": "https://ra.co/events/2580480",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-258611",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "leon haller",
+          "name": "Leon Haller",
+          "url": "https://ra.co/dj/leonhaller",
+          "ig": "leonhalller"
         }
       ]
     },
