@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T12:38:45.990Z",
+  "generatedAt": "2026-11-10T21:48:13.207Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -69,6 +69,15 @@
       "lat": 48.375439,
       "lng": 10.938343,
       "distanceKm": 54
+    },
+    "ra-254906": {
+      "id": "ra-254906",
+      "name": "TAM TAM Treppenbar",
+      "address": "Hildegardstraße 1, 80539 München",
+      "url": "https://ra.co/clubs/254906",
+      "lat": 48.137668,
+      "lng": 11.581877,
+      "distanceKm": 0
     },
     "known-kesselhaus-augsburg": {
       "id": "known-kesselhaus-augsburg",
@@ -803,6 +812,33 @@
           "url": null
         }
       ]
+    },
+    {
+      "id": "ra-2581662",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-19",
+      "title": "MASCHINENLIEBE (Live)",
+      "start": "21:30",
+      "end": "23:30",
+      "url": "https://ra.co/events/2581662",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-254906",
+      "genres": [
+        "Electro",
+        "Acid"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Acid"
+      ],
+      "artists": []
     },
     {
       "id": "ra-2565594",
@@ -2104,6 +2140,41 @@
           "name": "Kacy",
           "url": "https://ra.co/dj/kacy",
           "ig": "kacy.roseanne"
+        }
+      ]
+    },
+    {
+      "id": "ra-2581666",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-10",
+      "title": "135+ mit 1 CB & Psyfuck",
+      "start": "22:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2581666",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-bahnwaerter-thiel",
+      "genres": [],
+      "styles": [
+        "uptempo"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"135+\""
+      ],
+      "artists": [
+        {
+          "key": "s k y",
+          "name": "S K Y",
+          "url": "https://ra.co/dj/sky-us"
+        },
+        {
+          "key": "pnk pnthr",
+          "name": "pnk pnthr",
+          "url": "https://ra.co/dj/pnkpnthr"
         }
       ]
     },

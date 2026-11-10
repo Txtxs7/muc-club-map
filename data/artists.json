@@ -5574,5 +5574,21 @@
     "name": "STARKILLER.DE",
     "updatedAt": "2026-11-08T20:29:22.289Z",
     "deezer": null
+  },
+  "s k y": {
+    "name": "S K Y",
+    "updatedAt": "2026-11-10T21:48:30.574Z",
+    "deezer": null
+  },
+  "pnk pnthr": {
+    "name": "pnk pnthr",
+    "updatedAt": "2026-11-10T21:48:31.296Z",
+    "deezer": {
+      "id": 15215425,
+      "link": "https://www.deezer.com/artist/15215425",
+      "picture": "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+      "fans": 4,
+      "top": []
+    }
   }
 }
