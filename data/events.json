@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:48:13.207Z",
+  "generatedAt": "2026-11-11T11:52:33.474Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,15 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "ra-118360": {
-      "id": "ra-118360",
-      "name": "Unter Deck",
-      "address": "Oberanger 26, 80331 München",
-      "url": "https://ra.co/clubs/118360",
-      "lat": 48.13509,
-      "lng": 11.57111,
-      "distanceKm": 0
-    },
     "known-rote-sonne": {
       "id": "known-rote-sonne",
       "name": "Rote Sonne",
@@ -24,6 +15,15 @@
       "lat": 48.142272,
       "lng": 11.570342,
       "distanceKm": 1
+    },
+    "ra-118360": {
+      "id": "ra-118360",
+      "name": "Unter Deck",
+      "address": "Oberanger 26, 80331 München",
+      "url": "https://ra.co/clubs/118360",
+      "lat": 48.13509,
+      "lng": 11.57111,
+      "distanceKm": 0
     },
     "known-bahnwaerter-thiel": {
       "id": "known-bahnwaerter-thiel",
@@ -199,39 +199,6 @@
   },
   "events": [
     {
-      "id": "ra-2573914",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-10",
-      "title": "Tuesday in Love: JANKA b2b RONNY All night long",
-      "start": "20:00",
-      "end": "01:00",
-      "url": "https://ra.co/events/2573914",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-118360",
-      "genres": [
-        "Techno",
-        "House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "ronny",
-          "name": "RONNY",
-          "url": "https://ra.co/dj/ronny"
-        }
-      ]
-    },
-    {
       "id": "ra-2554408",
       "source": "ra",
       "sources": [
@@ -244,7 +211,7 @@
       "end": "03:00",
       "url": "https://ra.co/events/2554408",
       "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/HFANgKfh/img/holder-1080.jpg?163e945",
+      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/HFANgKfh/img/holder-1080.jpg?55c6f54b",
       "venueId": "known-rote-sonne",
       "genres": [
         "Techno",
@@ -373,10 +340,11 @@
       "id": "ra-2579967",
       "source": "ra",
       "sources": [
-        "Resident Advisor"
+        "Resident Advisor",
+        "Rote Sonne"
       ],
       "date": "2026-11-13",
-      "title": "SYNTHX x Rote Sonne Staffellauf 001",
+      "title": "Rote Sonne x Synthx Staffellauf 001 w/ ÆNN, ANASTASÍA, Drago, Jan Minnerup, JBox, Listenblondie, Praun, SUBCUTAN, Vaneska",
       "start": "22:00",
       "end": "08:00",
       "url": "https://ra.co/events/2579967",
@@ -439,6 +407,11 @@
           "name": "Vaneska",
           "url": "https://ra.co/dj/vaneska",
           "ig": "vaneska.dj"
+        },
+        {
+          "key": "drago",
+          "name": "Drago",
+          "url": null
         }
       ]
     },
@@ -777,21 +750,23 @@
       ]
     },
     {
-      "id": "tio-rotesonne-njxxexTQ",
-      "source": "ticket.io",
+      "id": "ra-2582303",
+      "source": "ra",
       "sources": [
+        "Resident Advisor",
         "rotesonne.ticket.io"
       ],
       "date": "2026-11-18",
-      "title": "garryklein w/ Dean DeVille | KIKAZA",
-      "start": "23:00",
+      "title": "garryklein w/ Dean DeVille | KIKIZA | xoxosasha",
+      "start": "22:00",
       "end": "03:00",
-      "url": "https://rotesonne.ticket.io/njxxexTQ/",
+      "url": "https://ra.co/events/2582303",
       "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/njxxexTQ/img/holder-1080.jpg?3ccddda4",
+      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/njxxexTQ/img/holder-1080.jpg?55c6f54b",
       "venueId": "known-rote-sonne",
       "genres": [
-        "Techno"
+        "Techno",
+        "Pop"
       ],
       "styles": [
         "techno"
@@ -807,8 +782,13 @@
           "url": null
         },
         {
-          "key": "kikaza",
-          "name": "KIKAZA",
+          "key": "kikiza",
+          "name": "KIKIZA",
+          "url": null
+        },
+        {
+          "key": "xoxosasha",
+          "name": "xoxosasha",
           "url": null
         }
       ]
@@ -1055,6 +1035,76 @@
       ]
     },
     {
+      "id": "ra-2582305",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor",
+        "Rote Sonne"
+      ],
+      "date": "2026-11-20",
+      "title": "Casual Tunes x Unknown Future w/ Adou, Beste Hira, Bless The Speaker, Conntex, DJ Hirnbirn b2b Trinity, Gaaston, sorry.coach",
+      "start": "23:00",
+      "end": "08:00",
+      "url": "https://ra.co/events/2582305",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-rote-sonne",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "beste hira",
+          "name": "Beste Hira",
+          "url": "https://ra.co/dj/bestehira"
+        },
+        {
+          "key": "bless the speakers",
+          "name": "Bless The Speakers",
+          "url": "https://ra.co/dj/blessthespeakers"
+        },
+        {
+          "key": "conntex",
+          "name": "Conntex",
+          "url": "https://ra.co/dj/conntex",
+          "ig": "conntex.3r"
+        },
+        {
+          "key": "gaaston",
+          "name": "Gaaston",
+          "url": "https://ra.co/dj/gaaston",
+          "ig": "gaaston.casualtunes"
+        },
+        {
+          "key": "adou",
+          "name": "Adou",
+          "url": null
+        },
+        {
+          "key": "bless the speaker",
+          "name": "Bless The Speaker",
+          "url": null
+        },
+        {
+          "key": "dj hirnbirn b2b trinity",
+          "name": "DJ Hirnbirn b2b Trinity",
+          "url": null
+        },
+        {
+          "key": "sorry coach",
+          "name": "sorry.coach",
+          "url": null
+        }
+      ]
+    },
+    {
       "id": "ra-2576050",
       "source": "ra",
       "sources": [
@@ -1180,20 +1230,22 @@
       ]
     },
     {
-      "id": "rs-butschiall-night-long",
-      "source": "rotesonne",
+      "id": "ra-2582311",
+      "source": "ra",
       "sources": [
+        "Resident Advisor",
         "Rote Sonne"
       ],
       "date": "2026-11-21",
-      "title": "Lucid Glow w/ Butschi*All Night Long",
+      "title": "Lucid Glow pres. Butschi*All Night Long",
       "start": "23:00",
-      "end": null,
-      "url": "https://rotesonne.ticket.io/jERhBgNp/",
+      "end": "08:00",
+      "url": "https://ra.co/events/2582311",
       "igUrl": null,
       "flyer": null,
       "venueId": "known-rote-sonne",
       "genres": [
+        "Trance",
         "Techno"
       ],
       "styles": [
@@ -1207,7 +1259,8 @@
         {
           "key": "butschi",
           "name": "Butschi",
-          "url": null
+          "url": "https://ra.co/dj/butschi",
+          "ig": "butschi111"
         }
       ]
     },
@@ -1272,7 +1325,7 @@
       "end": "03:00",
       "url": "https://rotesonne.ticket.io/L8xqPHhU/",
       "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/L8xqPHhU/img/holder-1080.jpg?5e1286c5",
+      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/L8xqPHhU/img/holder-1080.jpg?55c6f54b",
       "venueId": "known-rote-sonne",
       "genres": [
         "Techno"
@@ -1383,16 +1436,17 @@
       ]
     },
     {
-      "id": "rs-unannounced-line-up-3",
-      "source": "rotesonne",
+      "id": "ra-2582312",
+      "source": "ra",
       "sources": [
+        "Resident Advisor",
         "Rote Sonne"
       ],
       "date": "2026-11-27",
       "title": "RS:CommunityNight",
       "start": "23:00",
-      "end": null,
-      "url": "https://rotesonne.ticket.io/1CBScVjv/",
+      "end": "08:00",
+      "url": "https://ra.co/events/2582312",
       "igUrl": null,
       "flyer": null,
       "venueId": "known-rote-sonne",
@@ -1496,6 +1550,88 @@
         "Stichwort: \"UNTERWELT\""
       ],
       "artists": []
+    },
+    {
+      "id": "rs-amotik-artifex-chet-rubbs-b2b-goiaba-e2nmn-impendance-b2b-luca-jukic-izzya-melchiorr-nepomuk-stenny-strauss-windfuhr",
+      "source": "rotesonne",
+      "sources": [
+        "Rote Sonne"
+      ],
+      "date": "2026-11-28",
+      "title": "Ritual I (24h Event) w/ Amotik, Artifex, Chet Rubbs b2b Goiaba, E2NMN, Impendance b2b Luca Jukic, IZZYA, Melchiorr, Nepōmuk, Stenny, Strauss, Windfuhr",
+      "start": "23:00",
+      "end": null,
+      "url": "https://rotesonne.ticket.io/bGjceAwK/",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-rote-sonne",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "amotik",
+          "name": "Amotik",
+          "url": null
+        },
+        {
+          "key": "artifex",
+          "name": "Artifex",
+          "url": null
+        },
+        {
+          "key": "chet rubbs b2b goiaba",
+          "name": "Chet Rubbs b2b Goiaba",
+          "url": null
+        },
+        {
+          "key": "e2nmn",
+          "name": "E2NMN",
+          "url": null
+        },
+        {
+          "key": "impendance b2b luca jukic",
+          "name": "Impendance b2b Luca Jukic",
+          "url": null
+        },
+        {
+          "key": "izzya",
+          "name": "IZZYA",
+          "url": null
+        },
+        {
+          "key": "melchiorr",
+          "name": "Melchiorr",
+          "url": null
+        },
+        {
+          "key": "nepomuk",
+          "name": "Nepōmuk",
+          "url": null
+        },
+        {
+          "key": "stenny",
+          "name": "Stenny",
+          "url": null
+        },
+        {
+          "key": "strauss",
+          "name": "Strauss",
+          "url": null
+        },
+        {
+          "key": "windfuhr",
+          "name": "Windfuhr",
+          "url": null
+        }
+      ]
     },
     {
       "id": "ra-2573350",

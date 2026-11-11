@@ -5590,5 +5590,150 @@
       "fans": 4,
       "top": []
     }
+  },
+  "drago": {
+    "name": "Drago",
+    "updatedAt": "2026-11-11T11:52:55.069Z",
+    "deezer": {
+      "id": 361030,
+      "link": "https://www.deezer.com/artist/361030",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/bc2a7e7e0bf6069ce24f2b51b0248968/250x250-000000-80-0-0.jpg",
+      "fans": 234,
+      "top": [
+        {
+          "title": "Show It Off",
+          "album": "Take The Rhythm EP",
+          "link": "https://www.deezer.com/track/3996978551",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/7/0/4c7c10683cd80ded76f5f9c90b69c9b3.mp3?hdnea=exp=1794398875~acl=/api/1/1/4/c/7/0/4c7c10683cd80ded76f5f9c90b69c9b3.mp3*~data=user_id=0,application_id=42~hmac=73601138959457a641f47d34204736172ef5f1e6d26a8311f962c9c47e55552e",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7967cb2c0e2bd8c98f659db87f8ca71b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Darkest Hours",
+          "album": "Darkest Hours",
+          "link": "https://www.deezer.com/track/2465151415",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/3/0/1633f7aaa91d12294b24527c951c1ab1.mp3?hdnea=exp=1794398875~acl=/api/1/1/1/6/3/0/1633f7aaa91d12294b24527c951c1ab1.mp3*~data=user_id=0,application_id=42~hmac=1bc627ea03adb138bd6e4f854684282c7d99db49b454d7ab99675c3de47f7ecd",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/021490de891ece413efe7a1f9cd08e93/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "kikiza": {
+    "name": "KIKIZA",
+    "updatedAt": "2026-11-11T11:52:55.908Z",
+    "deezer": null
+  },
+  "xoxosasha": {
+    "name": "xoxosasha",
+    "updatedAt": "2026-11-11T11:52:56.408Z",
+    "deezer": null
+  },
+  "beste hira": {
+    "name": "Beste Hira",
+    "updatedAt": "2026-11-11T11:52:56.865Z",
+    "deezer": {
+      "id": 108014212,
+      "link": "https://www.deezer.com/artist/108014212",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/13188e9e4f333ef4bf9613b86710ee3f/250x250-000000-80-0-0.jpg",
+      "fans": 67,
+      "top": []
+    }
+  },
+  "bless the speakers": {
+    "name": "Bless The Speakers",
+    "updatedAt": "2026-11-11T11:52:57.531Z",
+    "deezer": null
+  },
+  "conntex": {
+    "name": "Conntex",
+    "updatedAt": "2026-11-11T11:52:58.018Z",
+    "deezer": {
+      "id": 199070727,
+      "link": "https://www.deezer.com/artist/199070727",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/2283ade528deb797c999f77673f958c4/250x250-000000-80-0-0.jpg",
+      "fans": 91,
+      "top": [
+        {
+          "title": "Control",
+          "album": "CNNTX001",
+          "link": "https://www.deezer.com/track/2660825282",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/4/0/f1467193414a26f38cd9d34b15a3a7fd.mp3?hdnea=exp=1794398878~acl=/api/1/1/f/1/4/0/f1467193414a26f38cd9d34b15a3a7fd.mp3*~data=user_id=0,application_id=42~hmac=8106cf7e09ecc35f418671506204f16d33dd3bd0a2f947966c4da47e569fc1fb",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/5cb747d3a4184cf40c829deeb0cb0026/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Foreboding",
+          "album": "B-DAY EDITION",
+          "link": "https://www.deezer.com/track/2690996302",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/a/0/b8aeb54668d87cae24b18d5b51a4a9c8.mp3?hdnea=exp=1794398878~acl=/api/1/1/b/8/a/0/b8aeb54668d87cae24b18d5b51a4a9c8.mp3*~data=user_id=0,application_id=42~hmac=9a0a69edffa62877012d387ac519a80d5c02f943183481f447b545f6663b76f1",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/4367c143cd04bfae1b2a2a3b6f684a72/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Kinetic (BENZA Remix)",
+          "album": "Saga",
+          "link": "https://www.deezer.com/track/3020348401",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/8/0/d5832693f5c353395b64fe535821a085.mp3?hdnea=exp=1794398878~acl=/api/1/1/d/5/8/0/d5832693f5c353395b64fe535821a085.mp3*~data=user_id=0,application_id=42~hmac=0ff4d1e7e406ef0d49abb9688882899dda7842170f2735b421a4e667c3c072dc",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/52be338a4be8f5ccd63645785227693c/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "gaaston": {
+    "name": "Gaaston",
+    "updatedAt": "2026-11-11T11:52:58.703Z",
+    "deezer": null
+  },
+  "adou": {
+    "name": "Adou",
+    "updatedAt": "2026-11-11T11:52:59.238Z",
+    "deezer": {
+      "id": 1179513,
+      "link": "https://www.deezer.com/artist/1179513",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/4b3905bd143dcbe37e2ed98ea1a7f45e/250x250-000000-80-0-0.jpg",
+      "fans": 22,
+      "top": []
+    }
+  },
+  "bless the speaker": {
+    "name": "Bless The Speaker",
+    "updatedAt": "2026-11-11T11:53:00.032Z",
+    "deezer": null
+  },
+  "dj hirnbirn b2b trinity": {
+    "name": "DJ Hirnbirn b2b Trinity",
+    "updatedAt": "2026-11-11T11:53:00.525Z",
+    "deezer": null
+  },
+  "sorry coach": {
+    "name": "sorry.coach",
+    "updatedAt": "2026-11-11T11:53:00.999Z",
+    "deezer": null
+  },
+  "chet rubbs b2b goiaba": {
+    "name": "Chet Rubbs b2b Goiaba",
+    "updatedAt": "2026-11-11T11:53:01.472Z",
+    "deezer": null
+  },
+  "impendance b2b luca jukic": {
+    "name": "Impendance b2b Luca Jukic",
+    "updatedAt": "2026-11-11T11:53:01.980Z",
+    "deezer": null
+  },
+  "strauss": {
+    "name": "Strauss",
+    "updatedAt": "2026-11-11T11:53:02.446Z",
+    "deezer": {
+      "id": 273769,
+      "link": "https://www.deezer.com/artist/273769",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/c6fd4ea9e5e58cab1d779c8f8a800d13/250x250-000000-80-0-0.jpg",
+      "fans": 4788,
+      "top": [
+        {
+          "title": "Titerito",
+          "album": "Titerito",
+          "link": "https://www.deezer.com/track/2827239102",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/7/8/0/9785602e81c543bf385641d889e7ef2f.mp3?hdnea=exp=1794398882~acl=/api/1/1/9/7/8/0/9785602e81c543bf385641d889e7ef2f.mp3*~data=user_id=0,application_id=42~hmac=4ca93d03c56619649be7ef722492a2a0dc3aa7401b1dcb6c1db746377c56d013",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/bab5f56365397b05cf6509ce55b15e48/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
   }
 }
