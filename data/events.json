@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T11:52:33.474Z",
+  "generatedAt": "2026-11-11T22:42:09.016Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -124,6 +124,15 @@
       "lng": 11.608399,
       "distanceKm": 7
     },
+    "known-skateschule": {
+      "id": "known-skateschule",
+      "name": "Skateschule / Skatehalle München",
+      "address": "Dachauer Straße 110c, 80797 München",
+      "url": "https://ra.co/clubs/302928",
+      "lat": 48.14695,
+      "lng": 11.51505,
+      "distanceKm": 5
+    },
     "ra-6828": {
       "id": "ra-6828",
       "name": "Pacha",
@@ -177,15 +186,6 @@
       "lat": 48.3341,
       "lng": 10.9035,
       "distanceKm": 54
-    },
-    "known-skateschule": {
-      "id": "known-skateschule",
-      "name": "Skateschule / Skatehalle München",
-      "address": "Hirschgartenallee 25, 80639 München",
-      "url": null,
-      "lat": 48.14695,
-      "lng": 11.51505,
-      "distanceKm": 5
     },
     "known-100hz-augsburg": {
       "id": "known-100hz-augsburg",
@@ -2122,6 +2122,11 @@
           "url": "https://ra.co/dj/kuko-de"
         },
         {
+          "key": "natte visstick",
+          "name": "Natte Visstick",
+          "url": "https://ra.co/dj/nattevisstick"
+        },
+        {
           "key": "negitiv",
           "name": "NEGITIV",
           "url": "https://ra.co/dj/negitiv",
@@ -2177,6 +2182,11 @@
           "ig": "vendexofficial"
         },
         {
+          "key": "natte visstick",
+          "name": "Natte Visstick",
+          "url": "https://ra.co/dj/nattevisstick"
+        },
+        {
           "key": "luciid",
           "name": "Luciid",
           "url": "https://ra.co/dj/luciid",
@@ -2203,34 +2213,47 @@
       ]
     },
     {
-      "id": "ig-DfSb24-oNnE",
-      "source": "instagram",
+      "id": "ra-2582718",
+      "source": "ra",
       "sources": [
+        "Resident Advisor",
         "Instagram @nuketekk"
       ],
       "date": "2026-12-05",
-      "title": "NUKETEKK RESIDENT NIGHT ☣️💛",
+      "title": "nuketekk Resident Night",
       "start": "22:00",
       "end": "05:00",
-      "url": "https://www.instagram.com/p/DfSb24-oNnE/",
+      "url": "https://ra.co/events/2582718",
       "igUrl": "https://www.instagram.com/p/DfSb24-oNnE/",
       "flyer": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/886416938_18025061117930138_2286233260933771828_n.heic?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=f92uaH2Wo7AQ7kNvwF6ciwb&_nc_oc=Ado31m8sS6UrAFmA64x8xihsNd1GvJtxDWFOddJpotZAQpo4fd7Kq3repeK8DcYadu0&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=Y6Gh8kdne5CHXZzL_O-l9Q&_nc_ss=7c689&oh=00_AQQ7oKCXHBJrbUBJE1d4P_B04RikFYfSq9YHpnmpAP28Eg&oe=6AF43C06",
       "venueId": "known-skateschule",
-      "genres": [],
+      "genres": [
+        "Hardcore",
+        "Industrial"
+      ],
       "styles": [
-        "hardtechno",
+        "uptempo",
         "industrial",
-        "uptempo"
+        "hardtechno"
       ],
       "confidence": "high",
       "reasons": [
+        "Genre: Hardcore",
+        "Genre: Industrial",
+        "Stichwort: \"nuketekk\"",
+        "Stichwort: \"Frenchcore\"",
+        "Act: Bollmann",
         "Kollektiv: @nuketekk",
         "Stichwort: \"NUKETEKK\"",
-        "Stichwort: \"industrial\"",
-        "Stichwort: \"Frenchcore\"",
-        "Act: Bollmann"
+        "Stichwort: \"industrial\""
       ],
       "artists": [
+        {
+          "key": "bollmann",
+          "name": "Bollmann",
+          "url": "https://ra.co/dj/bollmann",
+          "ig": "bollmann_"
+        },
         {
           "key": "ffzg",
           "name": "ffzg",

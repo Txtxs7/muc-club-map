@@ -5735,5 +5735,52 @@
         }
       ]
     }
+  },
+  "natte visstick": {
+    "name": "Natte Visstick",
+    "updatedAt": "2026-11-11T22:42:25.179Z",
+    "deezer": {
+      "id": 151718992,
+      "link": "https://www.deezer.com/artist/151718992",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/5549f8750d046d444745546cce14f347/250x250-000000-80-0-0.jpg",
+      "fans": 4289,
+      "top": [
+        {
+          "title": "Spring VIP",
+          "album": "Spring VIP",
+          "link": "https://www.deezer.com/track/4083921651",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/b/d/0/3bdab1f29d055d54ae2a1a83eb436d60.mp3?hdnea=exp=1794437845~acl=/api/1/1/3/b/d/0/3bdab1f29d055d54ae2a1a83eb436d60.mp3*~data=user_id=0,application_id=42~hmac=34fd332b0e9eb14ff277e90d6056eb8e07bb3270a7c0ec9233ce48afc4cdaabf",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c9cbc096fb6ed091a92b84572c7f036f/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Spring (DROPIXX & Araysen Remix)",
+          "album": "Spring (DROPIXX & Araysen Remix)",
+          "link": "https://www.deezer.com/track/4177760592",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/4/0/6d4886e5a090b72c7d24480c060c86e4.mp3?hdnea=exp=1794437845~acl=/api/1/1/6/d/4/0/6d4886e5a090b72c7d24480c060c86e4.mp3*~data=user_id=0,application_id=42~hmac=2e68171ca8e95ee972c0af5d0f626862000b72db095b4abc2aa8f346eb097e41",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/92640ead4af82a46adddf157df4240b0/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "POLSKA JUMPSTYLE",
+          "album": "POLSKA JUMPSTYLE",
+          "link": "https://www.deezer.com/track/3974605021",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/2/2/0/f22b8c36786b4776e40e1c55e3d01b55.mp3?hdnea=exp=1794437845~acl=/api/1/1/f/2/2/0/f22b8c36786b4776e40e1c55e3d01b55.mp3*~data=user_id=0,application_id=42~hmac=c5b2b9e8e3a5eae7d0b7f58e87fe1a2379def4ab08c416d8c4af125ae9a00e0f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/27a17601aff3ea7f9359ea4badb81264/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "CRUSH",
+          "album": "CRUSH",
+          "link": "https://www.deezer.com/track/2655932922",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/a/f/0/1af2a06906a61bfb0abf21e667173435.mp3?hdnea=exp=1794437845~acl=/api/1/1/1/a/f/0/1af2a06906a61bfb0abf21e667173435.mp3*~data=user_id=0,application_id=42~hmac=434ae44814de39b6fbea898f16f50406bbdd3d9034e8b2c718fa79cbb93253e5",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f6ddb4010867b38bb2c57a3d3f75b0dd/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "MOLLY",
+          "album": "MOLLY",
+          "link": "https://www.deezer.com/track/3164685681",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/4/0/414ac6e3fbd69533561801d271d2b054.mp3?hdnea=exp=1794437845~acl=/api/1/1/4/1/4/0/414ac6e3fbd69533561801d271d2b054.mp3*~data=user_id=0,application_id=42~hmac=7706c7e190cbb977cbbe11417ec3ad24fd0fae16381f58ff1a4bbf0de08729fd",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/79d5e96d31a4e88af8086cfa29674753/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
   }
 }
