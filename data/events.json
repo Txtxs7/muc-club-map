@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T22:42:09.016Z",
+  "generatedAt": "2026-11-12T12:42:45.186Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,15 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-rote-sonne": {
-      "id": "known-rote-sonne",
-      "name": "Rote Sonne",
-      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
-      "url": "https://ra.co/clubs/4829",
-      "lat": 48.142272,
-      "lng": 11.570342,
-      "distanceKm": 1
-    },
     "ra-118360": {
       "id": "ra-118360",
       "name": "Unter Deck",
@@ -42,6 +33,15 @@
       "lat": 48.14198,
       "lng": 11.51594,
       "distanceKm": 4
+    },
+    "known-rote-sonne": {
+      "id": "known-rote-sonne",
+      "name": "Rote Sonne",
+      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
+      "url": "https://ra.co/clubs/4829",
+      "lat": 48.142272,
+      "lng": 11.570342,
+      "distanceKm": 1
     },
     "known-printhouse": {
       "id": "known-printhouse",
@@ -160,6 +160,15 @@
       "lng": 11.60786,
       "distanceKm": 7
     },
+    "ra-217480": {
+      "id": "ra-217480",
+      "name": "MH5 Rooftop",
+      "address": "Atelierstraße 10, 81671 München, Germany",
+      "url": "https://ra.co/clubs/217480",
+      "lat": 48.125174,
+      "lng": 11.605659,
+      "distanceKm": 3
+    },
     "ra-305534": {
       "id": "ra-305534",
       "name": "Studio B7",
@@ -198,45 +207,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2554408",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "rotesonne.ticket.io"
-      ],
-      "date": "2026-11-11",
-      "title": "garryklein w/ Louis EMP | M!CA",
-      "start": "22:00",
-      "end": "03:00",
-      "url": "https://ra.co/events/2554408",
-      "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/HFANgKfh/img/holder-1080.jpg?55c6f54b",
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Techno",
-        "Pop"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "louis emp",
-          "name": "Louis EMP",
-          "url": null
-        },
-        {
-          "key": "m ca",
-          "name": "M!CA",
-          "url": null
-        }
-      ]
-    },
     {
       "id": "ra-2565301",
       "source": "ra",
@@ -2182,11 +2152,6 @@
           "ig": "vendexofficial"
         },
         {
-          "key": "natte visstick",
-          "name": "Natte Visstick",
-          "url": "https://ra.co/dj/nattevisstick"
-        },
-        {
           "key": "luciid",
           "name": "Luciid",
           "url": "https://ra.co/dj/luciid",
@@ -2605,6 +2570,50 @@
           "key": "marcel dusk",
           "name": "Marcel Dusk",
           "url": "https://ra.co/dj/marceldusk"
+        }
+      ]
+    },
+    {
+      "id": "ra-2581587",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-31",
+      "title": "New Year`s Eve with Moonbootica",
+      "start": "21:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2581587",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-217480",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "moonbootica",
+          "name": "Moonbootica",
+          "url": "https://ra.co/dj/moonbootica"
+        },
+        {
+          "key": "tom novy",
+          "name": "Tom Novy",
+          "url": "https://ra.co/dj/tomnovy"
+        },
+        {
+          "key": "b zey",
+          "name": "B-ZEY",
+          "url": "https://ra.co/dj/b-zey",
+          "ig": "bzey_music"
         }
       ]
     },
