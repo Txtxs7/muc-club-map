@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:11:27.059Z",
+  "generatedAt": "2026-11-13T21:59:07.916Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -220,7 +220,7 @@
       "end": "05:00",
       "url": "https://ra.co/events/2565500",
       "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/ysGZsUgk/events/tEKnoVvz/img/holder-1080.jpg?7727c233",
+      "flyer": "https://cdn.ticket.io/companies/ysGZsUgk/events/tEKnoVvz/img/holder-1080.jpg?c9721806",
       "venueId": "known-lieberscholli",
       "genres": [
         "Techno",
@@ -1289,6 +1289,66 @@
           "key": "dena",
           "name": "Dena",
           "url": "https://ra.co/dj/dena"
+        }
+      ]
+    },
+    {
+      "id": "ra-2584900",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-27",
+      "title": "NONSTOP PT. 1",
+      "start": "18:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2584900",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-lieberscholli",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "boyko",
+          "name": "Boyko",
+          "url": "https://ra.co/dj/boyko-ru"
+        },
+        {
+          "key": "reduks",
+          "name": "Reduks",
+          "url": "https://ra.co/dj/reduks"
+        },
+        {
+          "key": "reka zalan",
+          "name": "Reka Zalan",
+          "url": "https://ra.co/dj/rekazalan-de",
+          "ig": "rekanorazalan"
+        },
+        {
+          "key": "rill",
+          "name": "Rill",
+          "url": "https://ra.co/dj/rill"
+        },
+        {
+          "key": "sarica",
+          "name": "Sarica",
+          "url": "https://ra.co/dj/sarica",
+          "ig": "sarica_"
+        },
+        {
+          "key": "shaleen",
+          "name": "Shaleen",
+          "url": "https://ra.co/dj/shaleen",
+          "ig": "shaleen_"
         }
       ]
     },
@@ -2468,6 +2528,85 @@
           "key": "jan ehret",
           "name": "Jan Ehret",
           "url": "https://ra.co/dj/janehret"
+        }
+      ]
+    },
+    {
+      "id": "ra-2584901",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-31",
+      "title": "Lieber Scholli an Silvester",
+      "start": "18:00",
+      "end": "10:00",
+      "url": "https://ra.co/events/2584901",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-lieberscholli",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "cotti larje",
+          "name": "Cottí Larje",
+          "url": "https://ra.co/dj/cottilarje",
+          "ig": "cotti.larje"
+        },
+        {
+          "key": "gizmo",
+          "name": "Gizmo",
+          "url": "https://ra.co/dj/gizmo",
+          "ig": "gizmoandmac"
+        },
+        {
+          "key": "jan minnerup",
+          "name": "Jan Minnerup",
+          "url": "https://ra.co/dj/janminnerup",
+          "ig": "j_minnerup"
+        },
+        {
+          "key": "lazykid",
+          "name": "Lazykid",
+          "url": "https://ra.co/dj/lazykid",
+          "ig": "lazykid.music"
+        },
+        {
+          "key": "o h m",
+          "name": "O/H/M",
+          "url": "https://ra.co/dj/ohm-de"
+        },
+        {
+          "key": "rad lez",
+          "name": "Rad.Lez",
+          "url": "https://ra.co/dj/rad.lez"
+        },
+        {
+          "key": "sarica",
+          "name": "Sarica",
+          "url": "https://ra.co/dj/sarica",
+          "ig": "sarica_"
+        },
+        {
+          "key": "shabiki",
+          "name": "Shabiki",
+          "url": "https://ra.co/dj/shabiki"
+        },
+        {
+          "key": "thilo who",
+          "name": "Thilo Who",
+          "url": "https://ra.co/dj/thilowho",
+          "ig": "thilo_who"
         }
       ]
     },

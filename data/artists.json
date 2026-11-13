@@ -5887,5 +5887,146 @@
       "fans": 10,
       "top": []
     }
+  },
+  "boyko": {
+    "name": "Boyko",
+    "updatedAt": "2026-11-13T21:59:23.904Z",
+    "deezer": {
+      "id": 80284672,
+      "link": "https://www.deezer.com/artist/80284672",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/fc2b52b9587d76c67b28fe234ee0a821/250x250-000000-80-0-0.jpg",
+      "fans": 10,
+      "top": []
+    }
+  },
+  "reduks": {
+    "name": "Reduks",
+    "updatedAt": "2026-11-13T21:59:24.872Z",
+    "deezer": null
+  },
+  "reka zalan": {
+    "name": "Reka Zalan",
+    "updatedAt": "2026-11-13T21:59:25.381Z",
+    "deezer": null
+  },
+  "rill": {
+    "name": "Rill",
+    "updatedAt": "2026-11-13T21:59:25.825Z",
+    "deezer": {
+      "id": 4897171,
+      "link": "https://www.deezer.com/artist/4897171",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/5d12dc35df77d0593e67c567a327563f/250x250-000000-80-0-0.jpg",
+      "fans": 1539,
+      "top": [
+        {
+          "title": "Attitude",
+          "album": "Attitude",
+          "link": "https://www.deezer.com/track/3163939231",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/3/8/0/138418bb2af800fcc7bccd7d291ddca9.mp3?hdnea=exp=1794608066~acl=/api/1/1/1/3/8/0/138418bb2af800fcc7bccd7d291ddca9.mp3*~data=user_id=0,application_id=42~hmac=30309e5bd9b169f59b1f685aaafc93476c416164073265b59ffd06f0a96d253f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f9b9998c107bd4a7ae029fa02491863b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "110",
+          "album": "110",
+          "link": "https://www.deezer.com/track/4120996491",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/3/b/0/f3be0c4b3d00141d154947df3f1dc104.mp3?hdnea=exp=1794608066~acl=/api/1/1/f/3/b/0/f3be0c4b3d00141d154947df3f1dc104.mp3*~data=user_id=0,application_id=42~hmac=827b679f89caf1b193d5155bcb63a32ff9fb4cdac964aeb9b2a873819782f0a1",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/46e82035376ccbdb0a4009fa4435ce3e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Wenn du wüsstest",
+          "album": "Wenn du wüsstest",
+          "link": "https://www.deezer.com/track/1737935047",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/2/b/0/02b314ec90b5ce8b4fe8c48a947a0020.mp3?hdnea=exp=1794608066~acl=/api/1/1/0/2/b/0/02b314ec90b5ce8b4fe8c48a947a0020.mp3*~data=user_id=0,application_id=42~hmac=8de50f0ce6e84811340366374240ba716a102b59ae8f59bfa7c44745fd407bc8",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c8084776669d3d6857b744cb5bb91bce/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Fucked Up",
+          "album": "Fucked Up",
+          "link": "https://www.deezer.com/track/1484217862",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/e/4/0/0e44503ce61c8415a8370c6f03c75169.mp3?hdnea=exp=1794608066~acl=/api/1/1/0/e/4/0/0e44503ce61c8415a8370c6f03c75169.mp3*~data=user_id=0,application_id=42~hmac=9f46909b5de0c914dc6ff94ecdb7890baf524efee562af6925cb4567dbb49b66",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/dd5d4151d47cd44d5775301a14014828/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Sexappeal",
+          "album": "Sexappeal",
+          "link": "https://www.deezer.com/track/2465009425",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/a/0/0/5a036f103a27b05ee8d002cdfc4fd54a.mp3?hdnea=exp=1794608066~acl=/api/1/1/5/a/0/0/5a036f103a27b05ee8d002cdfc4fd54a.mp3*~data=user_id=0,application_id=42~hmac=cb8bde83e0220baf9705e756be0c5c48e8f60352e2661bbe2ea2278b49acbb01",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/056310b84a1415c9e94360a6569e6389/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "sarica": {
+    "name": "Sarica",
+    "updatedAt": "2026-11-13T21:59:26.526Z",
+    "deezer": null
+  },
+  "shaleen": {
+    "name": "Shaleen",
+    "updatedAt": "2026-11-13T21:59:27.054Z",
+    "deezer": {
+      "id": 7453608,
+      "link": "https://www.deezer.com/artist/7453608",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/67470c61ae2cf96228c33ca7dcec481d/250x250-000000-80-0-0.jpg",
+      "fans": 140,
+      "top": []
+    }
+  },
+  "gizmo": {
+    "name": "Gizmo",
+    "updatedAt": "2026-11-13T21:59:27.851Z",
+    "deezer": {
+      "id": 351710,
+      "link": "https://www.deezer.com/artist/351710",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/b9e8e9d35f169d2401895712a4dd7e0c/250x250-000000-80-0-0.jpg",
+      "fans": 4756,
+      "top": [
+        {
+          "title": "Necromancer",
+          "album": "Tales Of A Necromancer",
+          "link": "https://www.deezer.com/track/2872460432",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/6/9/0/7697d1b139fd49ca5dcd1c87ccfc1e11.mp3?hdnea=exp=1794608068~acl=/api/1/1/7/6/9/0/7697d1b139fd49ca5dcd1c87ccfc1e11.mp3*~data=user_id=0,application_id=42~hmac=221cceb2623cb709818d3e9d1c5f75ebd4db6bd8972548bc0cc1213377c1438f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/263884a2956809bc4ebf6f53ae78c9cc/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "$moke Halation",
+          "album": "Otakuslam​♡​Animecide",
+          "link": "https://www.deezer.com/track/2232246817",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/b/1/0/0b1888fee023f23432b1828b1d0478b6.mp3?hdnea=exp=1794608068~acl=/api/1/1/0/b/1/0/0b1888fee023f23432b1828b1d0478b6.mp3*~data=user_id=0,application_id=42~hmac=b670d9f47ee85b746e48697315fe38c6d6ea0bd4686531d95ba0e99ed54d85a5",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/11a204444a93f4fb6aecb2d8166ef71e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Numb My Mind",
+          "album": "Numb My Mind",
+          "link": "https://www.deezer.com/track/2201570127",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/0/d/0/40dbd6e582584720352106d7e45c4185.mp3?hdnea=exp=1794608068~acl=/api/1/1/4/0/d/0/40dbd6e582584720352106d7e45c4185.mp3*~data=user_id=0,application_id=42~hmac=44cbc633e41b4b92de745d1e461b79ab926313d1c2508848e1b8bf924c7a60ec",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/21069fde50efe3cb416e756103e841d2/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "BITCH FACE",
+          "album": "BITCH FACE",
+          "link": "https://www.deezer.com/track/4364430671",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/7/0/e375755dfe7cf2a6d268e9a8f13063da.mp3?hdnea=exp=1794608068~acl=/api/1/1/e/3/7/0/e375755dfe7cf2a6d268e9a8f13063da.mp3*~data=user_id=0,application_id=42~hmac=680619fd5932d23a230502aa0a33e165d3164d84236b9b78480fa24bf01447aa",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/94c55601ec7a8f6c11491f71826a09a3/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "CYANIDE",
+          "album": "CYANIDE",
+          "link": "https://www.deezer.com/track/2129227917",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/8/7/0/b8724f41873893cd71e47352f4ffb4cc.mp3?hdnea=exp=1794608068~acl=/api/1/1/b/8/7/0/b8724f41873893cd71e47352f4ffb4cc.mp3*~data=user_id=0,application_id=42~hmac=12e35eaf5ded96b2519e0bc1593a4ceb572a192ffd5666d6c57b0316c2e003ad",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7a2553a4ea7decddff0c029df26415cd/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "o h m": {
+    "name": "O/H/M",
+    "updatedAt": "2026-11-13T21:59:28.486Z",
+    "deezer": null
+  },
+  "thilo who": {
+    "name": "Thilo Who",
+    "updatedAt": "2026-11-13T21:59:28.992Z",
+    "deezer": null
   }
 }
