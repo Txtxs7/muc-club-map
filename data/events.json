@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:14:39.405Z",
+  "generatedAt": "2026-11-13T12:11:27.059Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,24 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "ra-118360": {
-      "id": "ra-118360",
-      "name": "Unter Deck",
-      "address": "Oberanger 26, 80331 München",
-      "url": "https://ra.co/clubs/118360",
-      "lat": 48.13509,
-      "lng": 11.57111,
-      "distanceKm": 0
-    },
-    "known-bahnwaerter-thiel": {
-      "id": "known-bahnwaerter-thiel",
-      "name": "Bahnwärter Thiel",
-      "address": "Tumblingerstraße 29, 80333 München",
-      "url": "https://ra.co/clubs/112682",
-      "lat": 48.123198,
-      "lng": 11.554813,
-      "distanceKm": 2
-    },
     "known-lieberscholli": {
       "id": "known-lieberscholli",
       "name": "Lieberscholli",
@@ -52,6 +34,15 @@
       "lng": 11.6295,
       "distanceKm": 4
     },
+    "ra-118360": {
+      "id": "ra-118360",
+      "name": "Unter Deck",
+      "address": "Oberanger 26, 80331 München",
+      "url": "https://ra.co/clubs/118360",
+      "lat": 48.13509,
+      "lng": 11.57111,
+      "distanceKm": 0
+    },
     "known-palais": {
       "id": "known-palais",
       "name": "Palais Club",
@@ -60,6 +51,15 @@
       "lat": 48.141923,
       "lng": 11.558182,
       "distanceKm": 1
+    },
+    "known-bahnwaerter-thiel": {
+      "id": "known-bahnwaerter-thiel",
+      "name": "Bahnwärter Thiel",
+      "address": "Tumblingerstraße 29, 80333 München",
+      "url": "https://ra.co/clubs/112682",
+      "lat": 48.123198,
+      "lng": 11.554813,
+      "distanceKm": 2
     },
     "ra-258611": {
       "id": "ra-258611",
@@ -207,64 +207,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2565301",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-12",
-      "title": "Isarbass",
-      "start": "22:00",
-      "end": "04:00",
-      "url": "https://ra.co/events/2565301",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-118360",
-      "genres": [
-        "Techno",
-        "Tech House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": []
-    },
-    {
-      "id": "ra-2565572",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-12",
-      "title": "135+ mit XOXO & Secret Trance Frequencies",
-      "start": "22:00",
-      "end": "05:00",
-      "url": "https://ra.co/events/2565572",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-bahnwaerter-thiel",
-      "genres": [],
-      "styles": [
-        "uptempo"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"135+\""
-      ],
-      "artists": [
-        {
-          "key": "atzlina",
-          "name": "Atzlina",
-          "url": "https://ra.co/dj/atzlina",
-          "ig": "atzlina.mp3"
-        }
-      ]
-    },
     {
       "id": "ra-2565500",
       "source": "ra",
