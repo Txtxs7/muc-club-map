@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:59:07.916Z",
+  "generatedAt": "2026-11-14T11:27:56.029Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,24 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-lieberscholli": {
-      "id": "known-lieberscholli",
-      "name": "Lieberscholli",
-      "address": "Landsberger Str. 212, 80687 München, Germany",
-      "url": "https://ra.co/clubs/226763",
-      "lat": 48.14198,
-      "lng": 11.51594,
-      "distanceKm": 4
-    },
-    "known-rote-sonne": {
-      "id": "known-rote-sonne",
-      "name": "Rote Sonne",
-      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
-      "url": "https://ra.co/clubs/4829",
-      "lat": 48.142272,
-      "lng": 11.570342,
-      "distanceKm": 1
-    },
     "known-printhouse": {
       "id": "known-printhouse",
       "name": "Printhouse München",
@@ -42,6 +24,15 @@
       "lat": 48.13509,
       "lng": 11.57111,
       "distanceKm": 0
+    },
+    "known-rote-sonne": {
+      "id": "known-rote-sonne",
+      "name": "Rote Sonne",
+      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
+      "url": "https://ra.co/clubs/4829",
+      "lat": 48.142272,
+      "lng": 11.570342,
+      "distanceKm": 1
     },
     "known-palais": {
       "id": "known-palais",
@@ -95,6 +86,15 @@
       "url": "https://ra.co/clubs/19037",
       "lat": 48.144976,
       "lng": 11.521915,
+      "distanceKm": 4
+    },
+    "known-lieberscholli": {
+      "id": "known-lieberscholli",
+      "name": "Lieberscholli",
+      "address": "Landsberger Str. 212, 80687 München, Germany",
+      "url": "https://ra.co/clubs/226763",
+      "lat": 48.14198,
+      "lng": 11.51594,
       "distanceKm": 4
     },
     "known-bergson": {
@@ -207,150 +207,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2565500",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "lieberscholli.ticket.io"
-      ],
-      "date": "2026-11-13",
-      "title": "Dark Pulse",
-      "start": "22:00",
-      "end": "05:00",
-      "url": "https://ra.co/events/2565500",
-      "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/ysGZsUgk/events/tEKnoVvz/img/holder-1080.jpg?c9721806",
-      "venueId": "known-lieberscholli",
-      "genres": [
-        "Techno",
-        "House"
-      ],
-      "styles": [
-        "hardtechno"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"Hard Techno\"",
-        "Stichwort: \"Hardtechno\""
-      ],
-      "artists": [
-        {
-          "key": "danuschek",
-          "name": "danuschek",
-          "url": "https://ra.co/dj/danuschek"
-        },
-        {
-          "key": "spanierohneauto",
-          "name": "SpanierOhneAuto",
-          "url": "https://ra.co/dj/spanierohneauto",
-          "ig": "spanierohneauto"
-        }
-      ]
-    },
-    {
-      "id": "ra-2579967",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "Rote Sonne"
-      ],
-      "date": "2026-11-13",
-      "title": "Rote Sonne x Synthx Staffellauf 001 w/ ÆNN, ANASTASÍA, Drago, Jan Minnerup, JBox, Listenblondie, Praun, SUBCUTAN, Vaneska",
-      "start": "22:00",
-      "end": "08:00",
-      "url": "https://ra.co/events/2579967",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Trance",
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "nn",
-          "name": "ÆNN",
-          "url": "https://ra.co/dj/aenn",
-          "ig": "_anneprae"
-        },
-        {
-          "key": "anastasia",
-          "name": "anastasia",
-          "url": "https://ra.co/dj/anastasia",
-          "ig": "anastasiassofficial"
-        },
-        {
-          "key": "jan minnerup",
-          "name": "Jan Minnerup",
-          "url": "https://ra.co/dj/janminnerup",
-          "ig": "j_minnerup"
-        },
-        {
-          "key": "jbox",
-          "name": "JBox",
-          "url": "https://ra.co/dj/jbox"
-        },
-        {
-          "key": "listenblondie",
-          "name": "Listenblondie",
-          "url": "https://ra.co/dj/listenblondie"
-        },
-        {
-          "key": "praun",
-          "name": "Praun",
-          "url": "https://ra.co/dj/praun",
-          "ig": "praunniklaus"
-        },
-        {
-          "key": "subcutan",
-          "name": "subcutan",
-          "url": "https://ra.co/dj/subcutan"
-        },
-        {
-          "key": "vaneska",
-          "name": "Vaneska",
-          "url": "https://ra.co/dj/vaneska",
-          "ig": "vaneska.dj"
-        },
-        {
-          "key": "drago",
-          "name": "Drago",
-          "url": null
-        }
-      ]
-    },
-    {
-      "id": "ig-DfQPGzkDnqP",
-      "source": "instagram",
-      "sources": [
-        "Instagram @100hz.club"
-      ],
-      "date": "2026-11-13",
-      "title": "🎛 100Hz OPEN DECKS - Session 002 | 13.11.26 🎛",
-      "start": "23:00",
-      "end": "05:00",
-      "url": "https://www.instagram.com/p/DfQPGzkDnqP/",
-      "igUrl": "https://www.instagram.com/p/DfQPGzkDnqP/",
-      "flyer": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/876258226_17979835140133685_8247763724722545356_n.heic?stp=c288.0.864.864a_dst-jpg_e35_s640x640_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7UnsgotbD6gQ7kNvwGpvUgJ&_nc_oc=AdoWaKytvkkvTjWGnLDjZXLBD1xfgrpL9uYqTAfT_BFDzh29ExyZpPLk_J5F5BoGILV15dJDLY6MCD86Wxl0eOW6&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=oYGCMctxnOwLazqGv-09Ow&_nc_ss=7c689&oh=00_AQRdVbuqUzNvUBBz15wZohXeDsPaKGIFwH9klKxIqQt3IQ&oe=6AF4253E",
-      "venueId": "known-100hz-augsburg",
-      "genres": [],
-      "styles": [
-        "hardtechno"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"Hardtechno\""
-      ],
-      "artists": []
-    },
     {
       "id": "ra-2570343",
       "source": "ra",
@@ -2375,6 +2231,88 @@
           "name": "Schrotthagen",
           "url": "https://ra.co/dj/schrotthagen",
           "ig": "schrotthagen"
+        }
+      ]
+    },
+    {
+      "id": "ra-2585176",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-12",
+      "title": "11 Years Escon Anniversary – Weekender",
+      "start": "23:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2585176",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-lieberscholli",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "dont blink",
+          "name": "DONT BLINK",
+          "url": "https://ra.co/dj/dontblink",
+          "ig": "dontblinkmusic"
+        },
+        {
+          "key": "gizmo",
+          "name": "Gizmo",
+          "url": "https://ra.co/dj/gizmo",
+          "ig": "gizmoandmac"
+        },
+        {
+          "key": "roman adam",
+          "name": "Roman Adam",
+          "url": "https://ra.co/dj/romanadam",
+          "ig": "roman_adam_ofc"
+        },
+        {
+          "key": "zwie tech",
+          "name": "Zwie:Tech",
+          "url": "https://ra.co/dj/zwietech",
+          "ig": "zwietech"
+        },
+        {
+          "key": "kerry gold",
+          "name": "Kerry Gold",
+          "url": "https://ra.co/dj/kerrygold",
+          "ig": "kergold_"
+        },
+        {
+          "key": "nina hepburn",
+          "name": "Nina Hepburn",
+          "url": "https://ra.co/dj/ninahepburn",
+          "ig": "ninahepburn_"
+        },
+        {
+          "key": "frida darko",
+          "name": "Frida Darko",
+          "url": "https://ra.co/dj/fridadarko",
+          "ig": "frida.darko"
+        },
+        {
+          "key": "mr ciao",
+          "name": "Mr.Ciao",
+          "url": "https://ra.co/dj/mr.ciao",
+          "ig": "mr.ciao_music"
+        },
+        {
+          "key": "sayuara",
+          "name": "sayuara",
+          "url": "https://ra.co/dj/sayuara",
+          "ig": "sayuara_"
         }
       ]
     },

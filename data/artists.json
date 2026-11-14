@@ -6028,5 +6028,175 @@
     "name": "Thilo Who",
     "updatedAt": "2026-11-13T21:59:28.992Z",
     "deezer": null
+  },
+  "dont blink": {
+    "name": "DONT BLINK",
+    "updatedAt": "2026-11-14T11:28:10.351Z",
+    "deezer": {
+      "id": 13746735,
+      "link": "https://www.deezer.com/artist/13746735",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/fb17fae7c85ebef359da505694ed584a/250x250-000000-80-0-0.jpg",
+      "fans": 1350,
+      "top": [
+        {
+          "title": "WHERE DO WE BEGIN",
+          "album": "WHERE DO WE BEGIN",
+          "link": "https://www.deezer.com/track/4337871592",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/7/f/0/07fefe1076f1bebe210b711e8009a253.mp3?hdnea=exp=1794656590~acl=/api/1/1/0/7/f/0/07fefe1076f1bebe210b711e8009a253.mp3*~data=user_id=0,application_id=42~hmac=01188ad46e7da4e44cae89960d8799fca0c4b42cca48e1b2addc356bf2e77cd7",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/1d3c314e89334ee75a9ac82cb61b7274/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "DIGITAL ANIMAL",
+          "album": "DIGITAL ANIMAL",
+          "link": "https://www.deezer.com/track/4070757311",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/1/8/0/f18d86d65156e706d212805d74b23c4a.mp3?hdnea=exp=1794656590~acl=/api/1/1/f/1/8/0/f18d86d65156e706d212805d74b23c4a.mp3*~data=user_id=0,application_id=42~hmac=db7bd52d401c68660c496a56f4b53e0aaf31a2bd2433797810bdbdf2080e9324",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/ec326fb957b473133c8c4fe593807e95/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "OUT OF MY HEAD",
+          "album": "OUT OF MY HEAD",
+          "link": "https://www.deezer.com/track/4161148232",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/3/0/883077484e28ab2a5f51c791d9bdc336.mp3?hdnea=exp=1794656590~acl=/api/1/1/8/8/3/0/883077484e28ab2a5f51c791d9bdc336.mp3*~data=user_id=0,application_id=42~hmac=cc9917765b85024e0e84715d9eaecd457223aa0b96dd59b24203965abebae9f6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f31e57bb6433c3dea4b1afdd5573c452/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "ITS OUR HOUSE",
+          "album": "Spotlight EP (Vol.3)",
+          "link": "https://www.deezer.com/track/3600179252",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/b/b/0/2bb374dfbe8ed2c03552a28e746ae8e3.mp3?hdnea=exp=1794656590~acl=/api/1/1/2/b/b/0/2bb374dfbe8ed2c03552a28e746ae8e3.mp3*~data=user_id=0,application_id=42~hmac=4a802b5ecd32871c5cb76de4e1afe18c121c51673f9142545f2bb76e44f3cb6b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/38314c8b98ade54b9be1d4723dd25786/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "LEFT TO RIGHT",
+          "album": "LEFT TO RIGHT",
+          "link": "https://www.deezer.com/track/3962949431",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/9/0/ad9fbcd357a4adbb7819d242e60ada5a.mp3?hdnea=exp=1794656590~acl=/api/1/1/a/d/9/0/ad9fbcd357a4adbb7819d242e60ada5a.mp3*~data=user_id=0,application_id=42~hmac=f48f14f0c721287b63f2c0de3f3efd7d089d1a762aee03e7d1a9d97e7249263a",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/45cce6ce1632988552f6477fe97dab10/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "roman adam": {
+    "name": "Roman Adam",
+    "updatedAt": "2026-11-14T11:28:11.084Z",
+    "deezer": {
+      "id": 14042863,
+      "link": "https://www.deezer.com/artist/14042863",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/46218dd26d161c03c2b57b29e02d69f7/250x250-000000-80-0-0.jpg",
+      "fans": 111,
+      "top": [
+        {
+          "title": "Elevate",
+          "album": "Elevate",
+          "link": "https://www.deezer.com/track/3382068171",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/e/0/85e53c7e34b026419e6b8dc21d057f8e.mp3?hdnea=exp=1794656591~acl=/api/1/1/8/5/e/0/85e53c7e34b026419e6b8dc21d057f8e.mp3*~data=user_id=0,application_id=42~hmac=68b4a29f49f51cbe846ad7a6e0e7db0646cc55c54837c003c3e273b2bdc0d8d2",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/5e4718d3ce2352737819879327b53be3/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Want It",
+          "album": "Want It",
+          "link": "https://www.deezer.com/track/3209365171",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/2/7/0/e272c31bd230232665d47cd4e01906c1.mp3?hdnea=exp=1794656591~acl=/api/1/1/e/2/7/0/e272c31bd230232665d47cd4e01906c1.mp3*~data=user_id=0,application_id=42~hmac=5785607bf6e517ea38dec06b2b52ba17b7877f649456cbae40e76c416c8d31e7",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d12484a6e4e2ffae93bdd958cdb0739f/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Soulbuddy",
+          "album": "Somebody Else",
+          "link": "https://www.deezer.com/track/3644102712",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/c/1/0/ac1f0ed9c9bbb570b79b84cf493791af.mp3?hdnea=exp=1794656591~acl=/api/1/1/a/c/1/0/ac1f0ed9c9bbb570b79b84cf493791af.mp3*~data=user_id=0,application_id=42~hmac=ad96e5a629944a9c493bd501dc6fcdda2aae8a63947b92f51f550d1c44e79143",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/9c9cf3fb8f8558459b227464eb1e56fe/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "zwie tech": {
+    "name": "Zwie:Tech",
+    "updatedAt": "2026-11-14T11:28:11.739Z",
+    "deezer": null
+  },
+  "kerry gold": {
+    "name": "Kerry Gold",
+    "updatedAt": "2026-11-14T11:28:12.177Z",
+    "deezer": null
+  },
+  "nina hepburn": {
+    "name": "Nina Hepburn",
+    "updatedAt": "2026-11-14T11:28:12.655Z",
+    "deezer": {
+      "id": 72801032,
+      "link": "https://www.deezer.com/artist/72801032",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/5f6ab81a5440e65c365141149ade00c7/250x250-000000-80-0-0.jpg",
+      "fans": 39,
+      "top": []
+    }
+  },
+  "frida darko": {
+    "name": "Frida Darko",
+    "updatedAt": "2026-11-14T11:28:13.188Z",
+    "deezer": {
+      "id": 114691002,
+      "link": "https://www.deezer.com/artist/114691002",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/5464ef6a52b08318dabb19b3783a3fc9/250x250-000000-80-0-0.jpg",
+      "fans": 591,
+      "top": [
+        {
+          "title": "Elevate",
+          "album": "Elevate",
+          "link": "https://www.deezer.com/track/3459644461",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/5/9/0/f592246f676382e41463a2de35bb55c0.mp3?hdnea=exp=1794656593~acl=/api/1/1/f/5/9/0/f592246f676382e41463a2de35bb55c0.mp3*~data=user_id=0,application_id=42~hmac=8d106caa3f98ec176efe61e0252fe681933c7caef5de3caad08f7ba0d78a2790",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c31833a2bc9f7a3f9037e529e7cc4efd/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Trip With Me",
+          "album": "Voice or Noise",
+          "link": "https://www.deezer.com/track/3854439321",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/0/d/0/80d7f4ad7c3854e5dbcbd069548a12e4.mp3?hdnea=exp=1794656593~acl=/api/1/1/8/0/d/0/80d7f4ad7c3854e5dbcbd069548a12e4.mp3*~data=user_id=0,application_id=42~hmac=48c1abc8a5f23719ac8ca0b14d77bb1cc71f1ce93dd3d1a58ed319b9952f1dea",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7624bace64dfface6ead4985de14e62e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Voice or Noise",
+          "album": "Voice or Noise",
+          "link": "https://www.deezer.com/track/3854439281",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/0/1/0/101eebb9651e7ec32768277d02e4e24b.mp3?hdnea=exp=1794656593~acl=/api/1/1/1/0/1/0/101eebb9651e7ec32768277d02e4e24b.mp3*~data=user_id=0,application_id=42~hmac=7726077fdc10d62d91adb9328d204e2567663bb768dac681a03d39e19cec64b7",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7624bace64dfface6ead4985de14e62e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Letting People Be Wrong About You",
+          "album": "Not the One",
+          "link": "https://www.deezer.com/track/2923920931",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/b/7/0/4b7285a174c23803aef0e1fba3822c9a.mp3?hdnea=exp=1794656593~acl=/api/1/1/4/b/7/0/4b7285a174c23803aef0e1fba3822c9a.mp3*~data=user_id=0,application_id=42~hmac=8e7b55734e99e9abecdd1c3bfe9d6aa20cbf2895e30746d9fc3a139c7975a948",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b9ca3c6c379c498213951e8796f0c4fe/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Hush",
+          "album": "Hush",
+          "link": "https://www.deezer.com/track/3630048432",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/7/0/eb74b4419fff2f0658ae6ae286ac19b7.mp3?hdnea=exp=1794656593~acl=/api/1/1/e/b/7/0/eb74b4419fff2f0658ae6ae286ac19b7.mp3*~data=user_id=0,application_id=42~hmac=1d006ea5f74b8cd44a6049437f23d18a98e556810657c211ffb5655292017b36",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f48566d9eebf725cb0d3df7000e901a4/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "mr ciao": {
+    "name": "Mr.Ciao",
+    "updatedAt": "2026-11-14T11:28:13.792Z",
+    "deezer": {
+      "id": 305393881,
+      "link": "https://www.deezer.com/artist/305393881",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/6917e35bb1ba8d9948a1ea1d4c18ef3b/250x250-000000-80-0-0.jpg",
+      "fans": 9,
+      "top": []
+    }
+  },
+  "sayuara": {
+    "name": "sayuara",
+    "updatedAt": "2026-11-14T11:28:14.601Z",
+    "deezer": {
+      "id": 413830631,
+      "link": "https://www.deezer.com/artist/413830631",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/4bee22731e5f11f393d3747f32848f05/250x250-000000-80-0-0.jpg",
+      "fans": 1,
+      "top": []
+    }
   }
 }
