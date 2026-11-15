@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:43:28.833Z",
+  "generatedAt": "2026-11-15T11:56:57.783Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,24 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-printhouse": {
-      "id": "known-printhouse",
-      "name": "Printhouse München",
-      "address": "Dessauerstrasse 10, 80992 München",
-      "url": "https://ra.co/clubs/302632",
-      "lat": 48.1281,
-      "lng": 11.6295,
-      "distanceKm": 4
-    },
-    "ra-118360": {
-      "id": "ra-118360",
-      "name": "Unter Deck",
-      "address": "Oberanger 26, 80331 München",
-      "url": "https://ra.co/clubs/118360",
-      "lat": 48.13509,
-      "lng": 11.57111,
-      "distanceKm": 0
-    },
     "known-rote-sonne": {
       "id": "known-rote-sonne",
       "name": "Rote Sonne",
@@ -32,15 +14,6 @@
       "url": "https://ra.co/clubs/4829",
       "lat": 48.142272,
       "lng": 11.570342,
-      "distanceKm": 1
-    },
-    "known-palais": {
-      "id": "known-palais",
-      "name": "Palais Club",
-      "address": "Arnulfstrasse 16-18; 80335 Munich; Germany",
-      "url": "https://ra.co/clubs/8036",
-      "lat": 48.141923,
-      "lng": 11.558182,
       "distanceKm": 1
     },
     "known-bahnwaerter-thiel": {
@@ -115,6 +88,15 @@
       "lng": 10.890775,
       "distanceKm": 57
     },
+    "ra-118360": {
+      "id": "ra-118360",
+      "name": "Unter Deck",
+      "address": "Oberanger 26, 80331 München",
+      "url": "https://ra.co/clubs/118360",
+      "lat": 48.13509,
+      "lng": 11.57111,
+      "distanceKm": 0
+    },
     "known-zenith": {
       "id": "known-zenith",
       "name": "Zenith / Kesselhaus / Kohlebunker",
@@ -178,6 +160,15 @@
       "lng": 11.531332,
       "distanceKm": 5
     },
+    "known-palais": {
+      "id": "known-palais",
+      "name": "Palais Club",
+      "address": "Arnulfstraße 16–18, 80335 München",
+      "url": "https://www.palaisclub.de/",
+      "lat": 48.141923,
+      "lng": 11.555377,
+      "distanceKm": 2
+    },
     "known-feierwerk": {
       "id": "known-feierwerk",
       "name": "Feierwerk (Sunny Red / Kranhalle / Hansa 39)",
@@ -207,286 +198,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2570343",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-14",
-      "title": "WE PLAY",
-      "start": "03:00",
-      "end": "11:00",
-      "url": "https://ra.co/events/2570343",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-palais",
-      "genres": [
-        "Techno",
-        "Tech House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "george bleicher",
-          "name": "George Bleicher",
-          "url": "https://ra.co/dj/georgebleicher",
-          "ig": "georgebleicher"
-        },
-        {
-          "key": "gunnar stiller",
-          "name": "Gunnar Stiller",
-          "url": "https://ra.co/dj/gunnarstiller",
-          "ig": "gunnarstiller"
-        }
-      ]
-    },
-    {
-      "id": "ra-2508010",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-14",
-      "title": "Der 8. Tag by Electroamore",
-      "start": "16:00",
-      "end": "04:00",
-      "url": "https://ra.co/events/2508010",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-118360",
-      "genres": [
-        "Techno",
-        "Electro"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "fej tal",
-          "name": "Fej:tal",
-          "url": "https://ra.co/dj/fejtal",
-          "ig": "fej.tal"
-        },
-        {
-          "key": "dj fm dj freund",
-          "name": "DJ FM & DJ FREUND",
-          "url": "https://ra.co/dj/djfmdjfreund",
-          "ig": "electroamore_muc"
-        },
-        {
-          "key": "ronny",
-          "name": "RONNY",
-          "url": "https://ra.co/dj/ronny"
-        },
-        {
-          "key": "die tektonische plattenverschiebung",
-          "name": "Die Tektonische Plattenverschiebung",
-          "url": "https://ra.co/dj/dietektonischeplattenverschiebung",
-          "ig": "tekto_tekto"
-        }
-      ]
-    },
-    {
-      "id": "ra-2571981",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-14",
-      "title": "Printhouse Edition 0003",
-      "start": "20:00",
-      "end": "05:00",
-      "url": "https://ra.co/events/2571981",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-printhouse",
-      "genres": [
-        "Techno",
-        "House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "izzya",
-          "name": "IZZYA",
-          "url": "https://ra.co/dj/izzya",
-          "ig": "izzya._"
-        },
-        {
-          "key": "kinzua",
-          "name": "Kinzua",
-          "url": "https://ra.co/dj/kinzua"
-        },
-        {
-          "key": "vril",
-          "name": ".VRIL",
-          "url": "https://ra.co/dj/vril",
-          "ig": "vril_01"
-        },
-        {
-          "key": "recondite",
-          "name": "Recondite",
-          "url": "https://ra.co/dj/recondite",
-          "ig": "_recondite_"
-        },
-        {
-          "key": "euphrat",
-          "name": "Euphrat",
-          "url": "https://ra.co/dj/euphrat",
-          "ig": "euphrat__"
-        },
-        {
-          "key": "nathalie seres",
-          "name": "Nathalie Seres",
-          "url": "https://ra.co/dj/nathalieseres",
-          "ig": "nathalie__seres"
-        },
-        {
-          "key": "sevensol",
-          "name": "Sevensol",
-          "url": "https://ra.co/dj/sevensol",
-          "ig": "sevensol___"
-        },
-        {
-          "key": "qnete",
-          "name": "Qnete",
-          "url": "https://ra.co/dj/qnete"
-        }
-      ]
-    },
-    {
-      "id": "ra-2579971",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "Rote Sonne",
-        "rotesonne.ticket.io",
-        "Instagram @clubrotesonne"
-      ],
-      "date": "2026-11-14",
-      "title": "UNTREATED w/ Octor | Perc | STARKILLER | SYNTA",
-      "start": "23:00",
-      "end": "08:00",
-      "url": "https://ra.co/events/2579971",
-      "igUrl": "https://www.instagram.com/p/DfPekFmK86q/",
-      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/3612ZPMm/img/holder-1080.jpg?bbac9aa5",
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Techno"
-      ],
-      "styles": [
-        "industrial"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"UNTREATED\"",
-        "Act: Octor",
-        "Act: Perc",
-        "Act: PERC"
-      ],
-      "artists": [
-        {
-          "key": "octor",
-          "name": "Octor",
-          "url": "https://ra.co/dj/octor"
-        },
-        {
-          "key": "perc",
-          "name": "Perc",
-          "url": "https://ra.co/dj/perc"
-        },
-        {
-          "key": "starkiller de",
-          "name": "STARKILLER.DE",
-          "url": "https://ra.co/dj/starkiller.de",
-          "ig": "starkiller.official"
-        },
-        {
-          "key": "synta",
-          "name": "SYNTA",
-          "url": "https://ra.co/dj/synta",
-          "ig": "syntasizer"
-        },
-        {
-          "key": "starkiller",
-          "name": "STARKILLER",
-          "url": null
-        }
-      ]
-    },
-    {
-      "id": "ig-DezJabCBLsP",
-      "source": "instagram",
-      "sources": [
-        "Instagram @100hz.club"
-      ],
-      "date": "2026-11-14",
-      "title": "🖤🔥 REVELATION – HARDERSTYLES EDITION🔥🖤",
-      "start": "23:00",
-      "end": null,
-      "url": "https://www.instagram.com/p/DeaDXMdgOdq/",
-      "igUrl": "https://www.instagram.com/p/DezJabCBLsP/",
-      "flyer": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/853757169_17887979055622236_4651823969573978931_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=a-05zm5ZYrgQ7kNvwHi0HGy&_nc_oc=AdrSOznGgdfCDx555ffLUGdo4v_sRgpjR3qSFfy-m8zAtKmcrDNTjN4Zi1A23-ESoQ-cfteChtsXykdCN7DMlzbH&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=jDowxLLsiOUElHNaRda50A&_nc_ss=7c689&oh=00_AQSHBcAqhgs4ppPmpnCtqg87qJMSYrSQZO2lHGmsDJFErQ&oe=6AF434AD",
-      "venueId": "known-100hz-augsburg",
-      "genres": [],
-      "styles": [
-        "uptempo"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"HARDERSTYLES\""
-      ],
-      "artists": [
-        {
-          "key": "dj stepfather",
-          "name": "DJ stepfather",
-          "url": null,
-          "ig": "dj_stepfather"
-        },
-        {
-          "key": "tt tempo timo",
-          "name": "tt tempo timo",
-          "url": null,
-          "ig": "tt_tempo_timo"
-        },
-        {
-          "key": "secondface",
-          "name": "secondface",
-          "url": null,
-          "ig": "secondfaceofficial"
-        },
-        {
-          "key": "leonidas",
-          "name": "leonidas",
-          "url": null,
-          "ig": "leonidas_djofficial"
-        },
-        {
-          "key": "adaptive",
-          "name": "adaptive",
-          "url": null,
-          "ig": "adaptive_dj"
-        }
-      ]
-    },
     {
       "id": "sm-e2122",
       "source": "schwarzes-muenchen",
