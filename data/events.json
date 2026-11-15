@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T11:56:57.783Z",
+  "generatedAt": "2026-11-15T21:02:25.074Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -1531,7 +1531,25 @@
       "reasons": [
         "Genre: Techno"
       ],
-      "artists": []
+      "artists": [
+        {
+          "key": "geistfrei",
+          "name": "GEISTFREI",
+          "url": "https://ra.co/dj/geistfrei",
+          "ig": "_geistfrei_"
+        },
+        {
+          "key": "i ro",
+          "name": "I-RO",
+          "url": "https://ra.co/dj/i-ro",
+          "ig": "i_ro____"
+        },
+        {
+          "key": "lumos",
+          "name": "Lumos",
+          "url": "https://ra.co/dj/lumos"
+        }
+      ]
     },
     {
       "id": "ra-2533320",

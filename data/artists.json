@@ -6198,5 +6198,32 @@
       "fans": 1,
       "top": []
     }
+  },
+  "geistfrei": {
+    "name": "GEISTFREI",
+    "updatedAt": "2026-11-15T21:02:38.303Z",
+    "deezer": {
+      "id": 145994792,
+      "link": "https://www.deezer.com/artist/145994792",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/4703933718580fad87a3554a7a8cbc4f/250x250-000000-80-0-0.jpg",
+      "fans": 27,
+      "top": []
+    }
+  },
+  "i ro": {
+    "name": "I-RO",
+    "updatedAt": "2026-11-15T21:02:39.229Z",
+    "deezer": null
+  },
+  "lumos": {
+    "name": "Lumos",
+    "updatedAt": "2026-11-15T21:02:39.722Z",
+    "deezer": {
+      "id": 10355110,
+      "link": "https://www.deezer.com/artist/10355110",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/6f1c2fee7727881a65e850e164808e3c/250x250-000000-80-0-0.jpg",
+      "fans": 18,
+      "top": []
+    }
   }
 }
