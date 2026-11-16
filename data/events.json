@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:02:25.074Z",
+  "generatedAt": "2026-11-16T12:44:09.355Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -462,7 +462,14 @@
         "Genre: Hardcore",
         "Stichwort: \"hardcore\""
       ],
-      "artists": []
+      "artists": [
+        {
+          "key": "roter stern",
+          "name": "Roter Stern",
+          "url": "https://ra.co/dj/roterstern",
+          "ig": "r0terstern"
+        }
+      ]
     },
     {
       "id": "ra-2522067",
@@ -2278,50 +2285,6 @@
       ]
     },
     {
-      "id": "ra-2579539",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-12-31",
-      "title": "Silvester at Studio B7",
-      "start": "20:00",
-      "end": "06:00",
-      "url": "https://ra.co/events/2579539",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-305534",
-      "genres": [
-        "Techno",
-        "Minimal Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno",
-        "Genre: Minimal Techno"
-      ],
-      "artists": [
-        {
-          "key": "shishmish",
-          "name": "Shishmish",
-          "url": "https://ra.co/dj/shishmish"
-        },
-        {
-          "key": "sashty",
-          "name": "SASHTY",
-          "url": "https://ra.co/dj/sashty"
-        },
-        {
-          "key": "marcel dusk",
-          "name": "Marcel Dusk",
-          "url": "https://ra.co/dj/marceldusk"
-        }
-      ]
-    },
-    {
       "id": "ra-2581587",
       "source": "ra",
       "sources": [
@@ -2362,6 +2325,50 @@
           "name": "B-ZEY",
           "url": "https://ra.co/dj/b-zey",
           "ig": "bzey_music"
+        }
+      ]
+    },
+    {
+      "id": "ra-2579539",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-31",
+      "title": "Silvester at Studio B7",
+      "start": "22:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2579539",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-305534",
+      "genres": [
+        "Techno",
+        "Minimal Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno",
+        "Genre: Minimal Techno"
+      ],
+      "artists": [
+        {
+          "key": "shishmish",
+          "name": "Shishmish",
+          "url": "https://ra.co/dj/shishmish"
+        },
+        {
+          "key": "sashty",
+          "name": "SASHTY",
+          "url": "https://ra.co/dj/sashty"
+        },
+        {
+          "key": "marcel dusk",
+          "name": "Marcel Dusk",
+          "url": "https://ra.co/dj/marceldusk"
         }
       ]
     },
