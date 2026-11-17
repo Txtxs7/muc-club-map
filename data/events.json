@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T00:14:28.923Z",
+  "generatedAt": "2026-11-17T13:23:18.336Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -43,15 +43,6 @@
       "lng": 11.581877,
       "distanceKm": 0
     },
-    "known-kesselhaus-augsburg": {
-      "id": "known-kesselhaus-augsburg",
-      "name": "Kesselhaus Augsburg",
-      "address": "Riedingerstraße 26i, 86153 Augsburg",
-      "url": "https://ra.co/clubs/190353",
-      "lat": 48.38494,
-      "lng": 10.88885,
-      "distanceKm": 58
-    },
     "known-backstage": {
       "id": "known-backstage",
       "name": "Backstage München",
@@ -60,6 +51,15 @@
       "lat": 48.144976,
       "lng": 11.521915,
       "distanceKm": 4
+    },
+    "known-kesselhaus-augsburg": {
+      "id": "known-kesselhaus-augsburg",
+      "name": "Kesselhaus Augsburg",
+      "address": "Riedingerstraße 26i, 86153 Augsburg",
+      "url": "https://ra.co/clubs/190353",
+      "lat": 48.38494,
+      "lng": 10.88885,
+      "distanceKm": 58
     },
     "known-lieberscholli": {
       "id": "known-lieberscholli",
@@ -321,6 +321,11 @@
           "ig": "antyo.ak"
         },
         {
+          "key": "db r",
+          "name": "dB.R",
+          "url": "https://ra.co/dj/db.r"
+        },
+        {
           "key": "danuschek",
           "name": "danuschek",
           "url": "https://ra.co/dj/danuschek"
@@ -434,10 +439,22 @@
       ],
       "artists": [
         {
+          "key": "korex",
+          "name": "Kørex",
+          "url": "https://ra.co/dj/korex",
+          "ig": "korex.dj"
+        },
+        {
           "key": "roter stern",
           "name": "Roter Stern",
           "url": "https://ra.co/dj/roterstern",
           "ig": "r0terstern"
+        },
+        {
+          "key": "krvzy",
+          "name": "KRVZY",
+          "url": "https://ra.co/dj/krvzy",
+          "ig": "krvzy.techno"
         }
       ]
     },
@@ -861,11 +878,6 @@
         "Genre: Techno"
       ],
       "artists": [
-        {
-          "key": "boyko",
-          "name": "Boyko",
-          "url": "https://ra.co/dj/boyko-ru"
-        },
         {
           "key": "reduks",
           "name": "Reduks",
@@ -2305,7 +2317,7 @@
         "Resident Advisor"
       ],
       "date": "2026-12-31",
-      "title": "Silvester at Studio B7",
+      "title": "Silvester Special - Studio B7 x CFU",
       "start": "22:00",
       "end": "06:00",
       "url": "https://ra.co/events/2579539",

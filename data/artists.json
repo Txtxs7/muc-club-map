@@ -6230,5 +6230,26 @@
     "name": "Roter Stern",
     "updatedAt": "2026-11-16T12:44:24.397Z",
     "deezer": null
+  },
+  "db r": {
+    "name": "dB.R",
+    "updatedAt": "2026-11-17T13:23:32.108Z",
+    "deezer": null
+  },
+  "korex": {
+    "name": "Kørex",
+    "updatedAt": "2026-11-17T13:23:32.851Z",
+    "deezer": {
+      "id": 5133533,
+      "link": "https://www.deezer.com/artist/5133533",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/1b17ffa4a72dc0b9a5ce9071762e958e/250x250-000000-80-0-0.jpg",
+      "fans": 13,
+      "top": []
+    }
+  },
+  "krvzy": {
+    "name": "KRVZY",
+    "updatedAt": "2026-11-17T13:23:33.435Z",
+    "deezer": null
   }
 }
