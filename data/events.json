@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:44:09.355Z",
+  "generatedAt": "2026-11-17T00:14:28.923Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -198,36 +198,6 @@
     }
   },
   "events": [
-    {
-      "id": "sm-e2122",
-      "source": "schwarzes-muenchen",
-      "sources": [
-        "Schwarzes München"
-      ],
-      "date": "2026-11-16",
-      "title": "The Cassandra Complex - Generating Station Complex Tour",
-      "start": "20:00",
-      "end": null,
-      "url": "https://schwarzes-muenchen.de/events/details/2122-the-cassandra-complex-generating-station-complex-tour",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-backstage",
-      "genres": [],
-      "styles": [
-        "industrial"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Act: The Cassandra Complex"
-      ],
-      "artists": [
-        {
-          "key": "the cassandra complex",
-          "name": "The Cassandra Complex",
-          "url": null
-        }
-      ]
-    },
     {
       "id": "ra-2582303",
       "source": "ra",
