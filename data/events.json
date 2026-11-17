@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:23:18.336Z",
+  "generatedAt": "2026-11-17T23:30:18.830Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -87,6 +87,15 @@
       "lat": 48.365375,
       "lng": 10.890775,
       "distanceKm": 57
+    },
+    "ra-129494": {
+      "id": "ra-129494",
+      "name": "Neun Kulturzentrum",
+      "address": "Elisabethstraße 9, 85051, Ingolstadt, Germany",
+      "url": "https://ra.co/clubs/129494",
+      "lat": 48.742403,
+      "lng": 11.437621,
+      "distanceKm": 68
     },
     "ra-118360": {
       "id": "ra-118360",
@@ -211,7 +220,7 @@
       "end": "03:00",
       "url": "https://ra.co/events/2582303",
       "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/njxxexTQ/img/holder-1080.jpg?55c6f54b",
+      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/njxxexTQ/img/holder-1080.jpg?43d20409",
       "venueId": "known-rote-sonne",
       "genres": [
         "Techno",
@@ -905,6 +914,41 @@
           "name": "Shaleen",
           "url": "https://ra.co/dj/shaleen",
           "ig": "shaleen_"
+        }
+      ]
+    },
+    {
+      "id": "ra-2587585",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-27",
+      "title": "Winterbeats Club Night",
+      "start": "21:00",
+      "end": "03:30",
+      "url": "https://ra.co/events/2587585",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-129494",
+      "genres": [
+        "Hardcore"
+      ],
+      "styles": [
+        "uptempo",
+        "hardtechno"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Genre: Hardcore",
+        "Stichwort: \"Hard Techno\"",
+        "Stichwort: \"Harder Styles\""
+      ],
+      "artists": [
+        {
+          "key": "unicorn on k",
+          "name": "Unicorn on K",
+          "url": "https://ra.co/dj/unicornonketamine"
         }
       ]
     },
@@ -2071,6 +2115,38 @@
           "name": "DJ FM & DJ FREUND",
           "url": "https://ra.co/dj/djfmdjfreund",
           "ig": "electroamore_muc"
+        }
+      ]
+    },
+    {
+      "id": "ra-2587205",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-17",
+      "title": "135+ mit Nuketekk & Tanzwut Kollektiv",
+      "start": "22:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2587205",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-bahnwaerter-thiel",
+      "genres": [],
+      "styles": [
+        "hardtechno",
+        "uptempo"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"Nuketekk\"",
+        "Stichwort: \"135+\""
+      ],
+      "artists": [
+        {
+          "key": "overload",
+          "name": "Overload",
+          "url": "https://ra.co/dj/overload"
         }
       ]
     },

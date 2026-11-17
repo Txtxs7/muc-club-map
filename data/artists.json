@@ -6251,5 +6251,99 @@
     "name": "KRVZY",
     "updatedAt": "2026-11-17T13:23:33.435Z",
     "deezer": null
+  },
+  "unicorn on k": {
+    "name": "Unicorn on K",
+    "updatedAt": "2026-11-17T23:30:34.919Z",
+    "deezer": {
+      "id": 318592481,
+      "link": "https://www.deezer.com/artist/318592481",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/b790a25eb835d745f0bfbc11cde8f5df/250x250-000000-80-0-0.jpg",
+      "fans": 567,
+      "top": [
+        {
+          "title": "Afgan K",
+          "album": "Afgan K",
+          "link": "https://www.deezer.com/track/2841207402",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/1/0/16146567f7f8cc9a8c287496a4c6f0a4.mp3?hdnea=exp=1794959135~acl=/api/1/1/1/6/1/0/16146567f7f8cc9a8c287496a4c6f0a4.mp3*~data=user_id=0,application_id=42~hmac=2387ceec467119a7a5e44f8bac4ce2d9a0e416707c8a051c0c5787c6c9bb5549",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7ad51f0ab0b94a606a0d8ec19fe801ce/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "RAINBOWS EVERYDAY",
+          "album": "RAINBOWS EVERYDAY",
+          "link": "https://www.deezer.com/track/3408069851",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/e/7/0/6e71b8f41a09b527781ec0e72c3937a5.mp3?hdnea=exp=1794959135~acl=/api/1/1/6/e/7/0/6e71b8f41a09b527781ec0e72c3937a5.mp3*~data=user_id=0,application_id=42~hmac=a1c90844307c41a2e6e71891493f88bc4c53ab574a1f608b39daf9332345c4a1",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/47676ca5ce79614f1b5b0daf756cae0c/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "MISS UUU",
+          "album": "MISS UUU",
+          "link": "https://www.deezer.com/track/4154547852",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/4/0/8b4c9fcd54c42e48f05b81bcbba28037.mp3?hdnea=exp=1794959135~acl=/api/1/1/8/b/4/0/8b4c9fcd54c42e48f05b81bcbba28037.mp3*~data=user_id=0,application_id=42~hmac=b7eba289850e9db6e7445eea707b627f32a026a4b8c2bf1f99003980e370f076",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d77459138a494aad412d0dba38387926/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "BAILANDO",
+          "album": "BAILANDO",
+          "link": "https://www.deezer.com/track/3804076402",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/c/3/3/0/c33e15eed1f226389d53588d7663de0c.mp3?hdnea=exp=1794959135~acl=/api/1/1/c/3/3/0/c33e15eed1f226389d53588d7663de0c.mp3*~data=user_id=0,application_id=42~hmac=9b3e4980018b8eb4c6f9aeab630d0235800e0201d1f005e707beb03cf85d51b6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7e2e6400ffbed3e5dc73824139ed199a/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "DOOMSDAY",
+          "album": "DOOMSDAY",
+          "link": "https://www.deezer.com/track/3428057471",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/3/0/9c34962a71c2d6e8a1092b3fc1abd3f0.mp3?hdnea=exp=1794959135~acl=/api/1/1/9/c/3/0/9c34962a71c2d6e8a1092b3fc1abd3f0.mp3*~data=user_id=0,application_id=42~hmac=7e4c0398c9594d08d4fb7e88677f83131ebed8d42869654af21a449468cd8fa9",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/8b02395b6bc4c214e831c9f24f779a54/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "overload": {
+    "name": "Overload",
+    "updatedAt": "2026-11-17T23:30:35.840Z",
+    "deezer": {
+      "id": 10497,
+      "link": "https://www.deezer.com/artist/10497",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/a1ad12677bb12fdaf9a7c44506f6c673/250x250-000000-80-0-0.jpg",
+      "fans": 5509,
+      "top": [
+        {
+          "title": "Black Out (Extended Mix)",
+          "album": "SUPER EUROBEAT presents INITIAL D WORLD HITS SELECTION 2",
+          "link": "https://www.deezer.com/track/2511575201",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/8/e/0/f8eb1c6f55e2cfa82fb13f875f647dbf.mp3?hdnea=exp=1794959136~acl=/api/1/1/f/8/e/0/f8eb1c6f55e2cfa82fb13f875f647dbf.mp3*~data=user_id=0,application_id=42~hmac=dea10d615cd2ff1b1db4d2720e58b9b773f90d400dee262718fbdac4f92054d6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d7d71b4e75e2cf45ca6f41a2bca7a54b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Black Out (Extended Mix)",
+          "album": "SUPER EUROBEAT VOL.82 EXTENDED VERSION TIME EDITION",
+          "link": "https://www.deezer.com/track/2510472811",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/e/c/0/4ec1214d4808dddbe8eb3a6550660042.mp3?hdnea=exp=1794959136~acl=/api/1/1/4/e/c/0/4ec1214d4808dddbe8eb3a6550660042.mp3*~data=user_id=0,application_id=42~hmac=cab6de7be07bb17531613655964ca9d9a4d28c323653b0aad881bb7947605a81",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b1c07fcac6f4fd01e7b7c071cf7acf0b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "TEARS IN MY HEART",
+          "album": "SUPER EUROBEAT presents TIME-RECORDS SELECTION -OVERLOAD-",
+          "link": "https://www.deezer.com/track/3126227131",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/2/0/72228686fc93a588f89cb8e3c176187e.mp3?hdnea=exp=1794959136~acl=/api/1/1/7/2/2/0/72228686fc93a588f89cb8e3c176187e.mp3*~data=user_id=0,application_id=42~hmac=8b369a3df46ac8e4d2f272a29ad30c9f380e3cf3173f6458715762e45cc97cb3",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b184365cb2334dc42dc3d9a97ca79732/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "FOXY LADY",
+          "album": "SUPER EUROBEAT presents TIME-RECORDS SELECTION -OVERLOAD-",
+          "link": "https://www.deezer.com/track/3126227081",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/4/0/2040cba9a58ba3cd291d8fd91634927b.mp3?hdnea=exp=1794959136~acl=/api/1/1/2/0/4/0/2040cba9a58ba3cd291d8fd91634927b.mp3*~data=user_id=0,application_id=42~hmac=d9e65a268d47b0d427113a620ab26a7829b7f3b7f705bdd4f09c10ac6dc4f0f4",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b184365cb2334dc42dc3d9a97ca79732/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "BLACK OUT",
+          "album": "SUPER EUROBEAT presents TIME-RECORDS SELECTION -OVERLOAD-",
+          "link": "https://www.deezer.com/track/3126227061",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/4/1/0/f41ed1cc64143be7d2aa7f6abcd81498.mp3?hdnea=exp=1794959136~acl=/api/1/1/f/4/1/0/f41ed1cc64143be7d2aa7f6abcd81498.mp3*~data=user_id=0,application_id=42~hmac=0cd023761492b7d9d8e31fb91e5846dee1faea48022b672258017107041029c3",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b184365cb2334dc42dc3d9a97ca79732/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
   }
 }
