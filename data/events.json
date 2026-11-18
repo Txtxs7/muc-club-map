@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:30:18.830Z",
+  "generatedAt": "2026-11-18T13:02:12.626Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -1543,10 +1543,11 @@
       "id": "ra-2564883",
       "source": "ra",
       "sources": [
-        "Resident Advisor"
+        "Resident Advisor",
+        "Rote Sonne"
       ],
       "date": "2026-12-04",
-      "title": "RAUM Records x BeHaerd",
+      "title": "RAUM Records x BeHaerd w/ GEISTFREI, I-RO, Lumos",
       "start": "23:00",
       "end": "08:00",
       "url": "https://ra.co/events/2564883",
@@ -1888,6 +1889,48 @@
       ]
     },
     {
+      "id": "rs-mari-sakurai-nastasia-slany",
+      "source": "rotesonne",
+      "sources": [
+        "Rote Sonne"
+      ],
+      "date": "2026-12-05",
+      "title": "HOLEY w/ Mari Sakurai, Nastasia, SLANY",
+      "start": "23:00",
+      "end": null,
+      "url": "https://rotesonne.ticket.io/chqGbKzt/",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-rote-sonne",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "mari sakurai",
+          "name": "Mari Sakurai",
+          "url": null
+        },
+        {
+          "key": "nastasia",
+          "name": "Nastasia",
+          "url": null
+        },
+        {
+          "key": "slany",
+          "name": "SLANY",
+          "url": null
+        }
+      ]
+    },
+    {
       "id": "ra-2581666",
       "source": "ra",
       "sources": [
@@ -2075,6 +2118,53 @@
           "name": "sayuara",
           "url": "https://ra.co/dj/sayuara",
           "ig": "sayuara_"
+        }
+      ]
+    },
+    {
+      "id": "rs-gi-o-kirk-mbrekk-maryline-k",
+      "source": "rotesonne",
+      "sources": [
+        "Rote Sonne"
+      ],
+      "date": "2026-12-12",
+      "title": "Sachsentrance w/ GI.O, Kirk, MBREKK, MARYLINE K",
+      "start": "23:00",
+      "end": null,
+      "url": "https://rotesonne.ticket.io/ZEfDT16A/",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-rote-sonne",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "gi o",
+          "name": "GI.O",
+          "url": null
+        },
+        {
+          "key": "kirk",
+          "name": "Kirk",
+          "url": null
+        },
+        {
+          "key": "mbrekk",
+          "name": "MBREKK",
+          "url": null
+        },
+        {
+          "key": "maryline k",
+          "name": "MARYLINE K",
+          "url": null
         }
       ]
     },

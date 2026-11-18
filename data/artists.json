@@ -6345,5 +6345,109 @@
         }
       ]
     }
+  },
+  "mari sakurai": {
+    "name": "Mari Sakurai",
+    "updatedAt": "2026-11-18T13:02:27.516Z",
+    "deezer": null
+  },
+  "nastasia": {
+    "name": "Nastasia",
+    "updatedAt": "2026-11-18T13:02:28.096Z",
+    "deezer": null
+  },
+  "slany": {
+    "name": "SLANY",
+    "updatedAt": "2026-11-18T13:02:28.599Z",
+    "deezer": {
+      "id": 66247942,
+      "link": "https://www.deezer.com/artist/66247942",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/64fcdd2889f81c73ea74756f2a5b3352/250x250-000000-80-0-0.jpg",
+      "fans": 9,
+      "top": []
+    }
+  },
+  "gi o": {
+    "name": "GI.O",
+    "updatedAt": "2026-11-18T13:02:29.271Z",
+    "deezer": {
+      "id": 258925042,
+      "link": "https://www.deezer.com/artist/258925042",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/4cd9930909702e85663235ffd6c7e55e/250x250-000000-80-0-0.jpg",
+      "fans": 26,
+      "top": [
+        {
+          "title": "Se Solta",
+          "album": "Various Hotties",
+          "link": "https://www.deezer.com/track/4208144202",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/1/b/0/81bfefc1747033a2e004cb1be70b0d83.mp3?hdnea=exp=1795007849~acl=/api/1/1/8/1/b/0/81bfefc1747033a2e004cb1be70b0d83.mp3*~data=user_id=0,application_id=42~hmac=a99b41d381a5185f2a90b6bee6b06dd49bcec19a1dac487d15dee5deaaf51478",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/bf57a30822b072a8f931c2c6ce70c8b9/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Missed Call",
+          "album": "Missed Call",
+          "link": "https://www.deezer.com/track/3274975851",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/a/1/0/aa109da5ecd962ccdab766d3328766a0.mp3?hdnea=exp=1795007849~acl=/api/1/1/a/a/1/0/aa109da5ecd962ccdab766d3328766a0.mp3*~data=user_id=0,application_id=42~hmac=f3c67995225918709019d2b9dd60a6f748e0d6c7e6d9002eb481829665c275d8",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e6f7e9231274574c2a8b9683e08d714d/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "kirk": {
+    "name": "Kirk",
+    "updatedAt": "2026-11-18T13:02:29.839Z",
+    "deezer": {
+      "id": 342156,
+      "link": "https://www.deezer.com/artist/342156",
+      "picture": "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+      "fans": 1143,
+      "top": [
+        {
+          "title": "The Clock (Extended)",
+          "album": "The Clock",
+          "link": "https://www.deezer.com/track/4330466562",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/f/1/0/0f187f906833815878e4339366b29210.mp3?hdnea=exp=1795007850~acl=/api/1/1/0/f/1/0/0f187f906833815878e4339366b29210.mp3*~data=user_id=0,application_id=42~hmac=fd584a0ac898fd1ee8a8fb9fa1893213f354733cf72ad4aa3fcba8f72b413f9c",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7f5c3ffaec1fc0d96d26fe3203da6bc6/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Bla Bla Bla (Flip)",
+          "album": "Bla Bla Bla (Flip)",
+          "link": "https://www.deezer.com/track/2643515642",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/c/7/0/9c7af8924e4a125352ee0c025843ade1.mp3?hdnea=exp=1795007850~acl=/api/1/1/9/c/7/0/9c7af8924e4a125352ee0c025843ade1.mp3*~data=user_id=0,application_id=42~hmac=dc3d9b2cd6138bff7b40248bfe0b391e056c5ee600859fc471d89448b22bd310",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e8202b3dfc688203894cb97fd83a3e15/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "CD is dead",
+          "album": "CD is dead",
+          "link": "https://www.deezer.com/track/3579491181",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/f/b/b/0/fbb9a3fd3c41e1bbbf63434631788dcf.mp3?hdnea=exp=1795007850~acl=/api/1/1/f/b/b/0/fbb9a3fd3c41e1bbbf63434631788dcf.mp3*~data=user_id=0,application_id=42~hmac=43bddac84f14410566bbc2d0267cfaf208da6293baa8b0a324b4f38845d95dfa",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/1078db5ae51f009d265eaf658169a445/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Cyber Skank (Jean Terechkova Remix)",
+          "album": "Cyber Skank",
+          "link": "https://www.deezer.com/track/3420657311",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/d/a/0/9dab55f4b300b5f600b1726ec1dee9d9.mp3?hdnea=exp=1795007850~acl=/api/1/1/9/d/a/0/9dab55f4b300b5f600b1726ec1dee9d9.mp3*~data=user_id=0,application_id=42~hmac=1d9a561a8a7b472af9ac76d7723f6c8278bb06adab0147d0e9c7c158924ae456",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/00c69b12ba887432aaba466966b5c4a6/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "The Clock",
+          "album": "The Clock",
+          "link": "https://www.deezer.com/track/4330466552",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/c/0/92c0dd64cbd0d1a4cbda7e507bb26afb.mp3?hdnea=exp=1795007850~acl=/api/1/1/9/2/c/0/92c0dd64cbd0d1a4cbda7e507bb26afb.mp3*~data=user_id=0,application_id=42~hmac=d95d3a70e61fc2480cf387209c8c9d5a7a0744375b6e502b82cdf701e64c3045",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7f5c3ffaec1fc0d96d26fe3203da6bc6/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "mbrekk": {
+    "name": "MBREKK",
+    "updatedAt": "2026-11-18T13:02:30.518Z",
+    "deezer": null
+  },
+  "maryline k": {
+    "name": "MARYLINE K",
+    "updatedAt": "2026-11-18T13:02:31.003Z",
+    "deezer": null
   }
 }
