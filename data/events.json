@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T22:56:54.138Z",
+  "generatedAt": "2026-11-19T13:03:07.999Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,15 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-rote-sonne": {
-      "id": "known-rote-sonne",
-      "name": "Rote Sonne",
-      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
-      "url": "https://ra.co/clubs/4829",
-      "lat": 48.142272,
-      "lng": 11.570342,
-      "distanceKm": 1
-    },
     "known-bahnwaerter-thiel": {
       "id": "known-bahnwaerter-thiel",
       "name": "Bahnwärter Thiel",
@@ -70,6 +61,15 @@
       "lng": 11.51594,
       "distanceKm": 4
     },
+    "known-rote-sonne": {
+      "id": "known-rote-sonne",
+      "name": "Rote Sonne",
+      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
+      "url": "https://ra.co/clubs/4829",
+      "lat": 48.142272,
+      "lng": 11.570342,
+      "distanceKm": 1
+    },
     "known-bergson": {
       "id": "known-bergson",
       "name": "Bergson Kunstkraftwerk",
@@ -78,6 +78,15 @@
       "lat": 48.15731,
       "lng": 11.43072,
       "distanceKm": 11
+    },
+    "ra-249064": {
+      "id": "ra-249064",
+      "name": "NY.Club",
+      "address": "Elisenstraße 3, 80335 München",
+      "url": "https://ra.co/clubs/249064",
+      "lat": 48.141466,
+      "lng": 11.561779,
+      "distanceKm": 1
     },
     "known-hallo-werner": {
       "id": "known-hallo-werner",
@@ -207,50 +216,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2582303",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "rotesonne.ticket.io"
-      ],
-      "date": "2026-11-18",
-      "title": "garryklein w/ Dean DeVille | KIKIZA | xoxosasha",
-      "start": "22:00",
-      "end": "03:00",
-      "url": "https://ra.co/events/2582303",
-      "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/njxxexTQ/img/holder-1080.jpg?43d20409",
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Techno",
-        "Pop"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "dean deville",
-          "name": "Dean DeVille",
-          "url": null
-        },
-        {
-          "key": "kikiza",
-          "name": "KIKIZA",
-          "url": null
-        },
-        {
-          "key": "xoxosasha",
-          "name": "xoxosasha",
-          "url": null
-        }
-      ]
-    },
     {
       "id": "ra-2581662",
       "source": "ra",
@@ -743,6 +708,38 @@
           "name": "Butschi",
           "url": "https://ra.co/dj/butschi",
           "ig": "butschi111"
+        }
+      ]
+    },
+    {
+      "id": "ra-2589258",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-21",
+      "title": "DARK /// MEN OLNY feat. JOYADI",
+      "start": "23:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2589258",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-249064",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "dj manu munich",
+          "name": "DJ MANU (MUNICH)",
+          "url": "https://ra.co/dj/djmanumunich"
         }
       ]
     },
