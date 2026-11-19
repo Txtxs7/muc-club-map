@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:03:07.999Z",
+  "generatedAt": "2026-11-19T23:02:58.108Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,33 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-bahnwaerter-thiel": {
-      "id": "known-bahnwaerter-thiel",
-      "name": "Bahnwärter Thiel",
-      "address": "Tumblingerstraße 29, 80333 München",
-      "url": "https://ra.co/clubs/112682",
-      "lat": 48.123198,
-      "lng": 11.554813,
-      "distanceKm": 2
-    },
-    "ra-258611": {
-      "id": "ra-258611",
-      "name": "Sauna Club",
-      "address": "",
-      "url": "https://ra.co/clubs/258611",
-      "lat": 48.375439,
-      "lng": 10.938343,
-      "distanceKm": 54
-    },
-    "ra-254906": {
-      "id": "ra-254906",
-      "name": "TAM TAM Treppenbar",
-      "address": "Hildegardstraße 1, 80539 München",
-      "url": "https://ra.co/clubs/254906",
-      "lat": 48.137668,
-      "lng": 11.581877,
-      "distanceKm": 0
-    },
     "known-backstage": {
       "id": "known-backstage",
       "name": "Backstage München",
@@ -69,6 +42,24 @@
       "lat": 48.142272,
       "lng": 11.570342,
       "distanceKm": 1
+    },
+    "known-zirka": {
+      "id": "known-zirka",
+      "name": "ZIRKA Space",
+      "address": "Dachauer Str. 110c, 80636 München, Germany",
+      "url": "https://ra.co/clubs/208413",
+      "lat": 48.15662,
+      "lng": 11.54718,
+      "distanceKm": 3
+    },
+    "known-bahnwaerter-thiel": {
+      "id": "known-bahnwaerter-thiel",
+      "name": "Bahnwärter Thiel",
+      "address": "Tumblingerstraße 29, 80333 München",
+      "url": "https://ra.co/clubs/112682",
+      "lat": 48.123198,
+      "lng": 11.554813,
+      "distanceKm": 2
     },
     "known-bergson": {
       "id": "known-bergson",
@@ -151,6 +142,15 @@
       "lng": 11.60611,
       "distanceKm": 3
     },
+    "ra-308122": {
+      "id": "ra-308122",
+      "name": "Larifari",
+      "address": "Auf dem Gries 4, 85368 Moosburg an der Isar",
+      "url": "https://ra.co/clubs/308122",
+      "lat": 48.467506,
+      "lng": 11.937939,
+      "distanceKm": 45
+    },
     "ra-8425": {
       "id": "ra-8425",
       "name": "Kesselhaus",
@@ -159,6 +159,15 @@
       "lat": 48.194698,
       "lng": 11.60786,
       "distanceKm": 7
+    },
+    "ra-140061": {
+      "id": "ra-140061",
+      "name": "Soho Stage",
+      "address": "Ludwigstraße 34, 86152 Augsburg, Germany",
+      "url": "https://ra.co/clubs/140061",
+      "lat": 48.370943,
+      "lng": 10.893155,
+      "distanceKm": 57
     },
     "ra-217480": {
       "id": "ra-217480",
@@ -216,130 +225,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2581662",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-19",
-      "title": "MASCHINENLIEBE (Live)",
-      "start": "21:30",
-      "end": "23:30",
-      "url": "https://ra.co/events/2581662",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-254906",
-      "genres": [
-        "Electro",
-        "Acid"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Acid"
-      ],
-      "artists": []
-    },
-    {
-      "id": "ra-2565594",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-19",
-      "title": "135+ mit Klangfarben & Halligalli.with.friends",
-      "start": "22:00",
-      "end": "05:00",
-      "url": "https://ra.co/events/2565594",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-bahnwaerter-thiel",
-      "genres": [],
-      "styles": [
-        "uptempo"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"135+\""
-      ],
-      "artists": [
-        {
-          "key": "arkinice",
-          "name": "Arkinice",
-          "url": "https://ra.co/dj/arkinice",
-          "ig": "arkiniceofficial"
-        },
-        {
-          "key": "cotti larje",
-          "name": "Cottí Larje",
-          "url": "https://ra.co/dj/cottilarje",
-          "ig": "cotti.larje"
-        },
-        {
-          "key": "dj sonnenbrand",
-          "name": "DJ Sonnenbrand",
-          "url": "https://ra.co/dj/djsonnenbrand"
-        },
-        {
-          "key": "terzenbreaker",
-          "name": "Terzenbreaker",
-          "url": "https://ra.co/dj/terzenbreaker"
-        },
-        {
-          "key": "antyo",
-          "name": "antyo",
-          "url": "https://ra.co/dj/antyo",
-          "ig": "antyo.ak"
-        },
-        {
-          "key": "db r",
-          "name": "dB.R",
-          "url": "https://ra.co/dj/db.r"
-        },
-        {
-          "key": "danuschek",
-          "name": "danuschek",
-          "url": "https://ra.co/dj/danuschek"
-        }
-      ]
-    },
-    {
-      "id": "ra-2580480",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-19",
-      "title": "ONE YEAR OF SCHUETTEL @Sauna",
-      "start": "22:00",
-      "end": "04:00",
-      "url": "https://ra.co/events/2580480",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-258611",
-      "genres": [
-        "Techno",
-        "House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "leon haller",
-          "name": "Leon Haller",
-          "url": "https://ra.co/dj/leonhaller",
-          "ig": "leonhalller"
-        }
-      ]
-    },
     {
       "id": "ra-2569667",
       "source": "ra",
@@ -429,6 +314,39 @@
           "name": "KRVZY",
           "url": "https://ra.co/dj/krvzy",
           "ig": "krvzy.techno"
+        }
+      ]
+    },
+    {
+      "id": "ra-2574809",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-20",
+      "title": "FOFS – Closing Party",
+      "start": "22:00",
+      "end": "03:00",
+      "url": "https://ra.co/events/2574809",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-zirka",
+      "genres": [
+        "House"
+      ],
+      "styles": [
+        "hardtechno"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"hardgroove\""
+      ],
+      "artists": [
+        {
+          "key": "erhyc",
+          "name": "Erhyc",
+          "url": "https://ra.co/dj/erhyc",
+          "ig": "erhyc.music"
         }
       ]
     },
@@ -2119,6 +2037,33 @@
       ]
     },
     {
+      "id": "ra-2589643",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-12",
+      "title": "ECHØR x Larifari",
+      "start": "23:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2589643",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-308122",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "hardtechno"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"hardgroove\""
+      ],
+      "artists": []
+    },
+    {
       "id": "rs-gi-o-kirk-mbrekk-maryline-k",
       "source": "rotesonne",
       "sources": [
@@ -2351,6 +2296,33 @@
       ]
     },
     {
+      "id": "ra-2589621",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-19",
+      "title": "ECHØR x Soho Stage",
+      "start": "23:00",
+      "end": "07:00",
+      "url": "https://ra.co/events/2589621",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-140061",
+      "genres": [
+        "Techno",
+        "Electro"
+      ],
+      "styles": [
+        "hardtechno"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"Hardgroove\""
+      ],
+      "artists": []
+    },
+    {
       "id": "ra-2584901",
       "source": "ra",
       "sources": [
@@ -2540,6 +2512,51 @@
         "Stichwort: \"Dark Infection\""
       ],
       "artists": []
+    },
+    {
+      "id": "ra-2589558",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2027-01-20",
+      "title": "Electroamore im Unter Deck",
+      "start": "20:00",
+      "end": "03:00",
+      "url": "https://ra.co/events/2589558",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-118360",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "fej tal",
+          "name": "Fej:tal",
+          "url": "https://ra.co/dj/fejtal",
+          "ig": "fej.tal"
+        },
+        {
+          "key": "safahs",
+          "name": "Safahs",
+          "url": "https://ra.co/dj/safahs",
+          "ig": "safahs_music"
+        },
+        {
+          "key": "dj fm dj freund",
+          "name": "DJ FM & DJ FREUND",
+          "url": "https://ra.co/dj/djfmdjfreund",
+          "ig": "electroamore_muc"
+        }
+      ]
     }
   ]
 }

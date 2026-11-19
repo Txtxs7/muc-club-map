@@ -6454,5 +6454,21 @@
     "name": "DJ MANU (MUNICH)",
     "updatedAt": "2026-11-19T13:03:23.266Z",
     "deezer": null
+  },
+  "erhyc": {
+    "name": "Erhyc",
+    "updatedAt": "2026-11-19T23:03:14.131Z",
+    "deezer": null
+  },
+  "safahs": {
+    "name": "Safahs",
+    "updatedAt": "2026-11-19T23:03:14.814Z",
+    "deezer": {
+      "id": 246730542,
+      "link": "https://www.deezer.com/artist/246730542",
+      "picture": "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+      "fans": 0,
+      "top": []
+    }
   }
 }
