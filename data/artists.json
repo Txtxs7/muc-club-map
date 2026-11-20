@@ -6470,5 +6470,45 @@
       "fans": 0,
       "top": []
     }
+  },
+  "george radsport": {
+    "name": "GEORGE RADSPORT",
+    "updatedAt": "2026-11-20T22:42:31.392Z",
+    "deezer": {
+      "id": 372333171,
+      "link": "https://www.deezer.com/artist/372333171",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/17faa1ace679e46f8b02f73bac0201af/250x250-000000-80-0-0.jpg",
+      "fans": 41,
+      "top": [
+        {
+          "title": "WACH",
+          "album": "WACH",
+          "link": "https://www.deezer.com/track/4236636842",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/e/0/16e593067d2529058ee6db7d946fea49.mp3?hdnea=exp=1795215451~acl=/api/1/1/1/6/e/0/16e593067d2529058ee6db7d946fea49.mp3*~data=user_id=0,application_id=42~hmac=f36a7e2ebbf590b06ed8aa6c6cfb6f06e256255ec2320d916cc608925f98a6d0",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/aa21b967105b97e1b57f0ec114c536b4/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "UPSIDE DOWN",
+          "album": "UPSIDE DOWN",
+          "link": "https://www.deezer.com/track/4115968791",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/3/7/0/6371cf3860e95ad37cb7d91a8ac5f596.mp3?hdnea=exp=1795215451~acl=/api/1/1/6/3/7/0/6371cf3860e95ad37cb7d91a8ac5f596.mp3*~data=user_id=0,application_id=42~hmac=728df23e21e5589b36eb9b49fd51e80808197ee693bb57a88285bc272fee00cb",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/67e8f0a2b30df6caecad02473bc24a62/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Attention",
+          "album": "Eugen",
+          "link": "https://www.deezer.com/track/3308454831",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/3/3/0/b33bd5f7d27d0faa7d562b6f7a522f95.mp3?hdnea=exp=1795215451~acl=/api/1/1/b/3/3/0/b33bd5f7d27d0faa7d562b6f7a522f95.mp3*~data=user_id=0,application_id=42~hmac=1f52ae928f9245bcfa650a30efa38fa60917de9d202cfe45e685e7b1746117dd",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c32a696300071602c11021edc8a9a366/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Sternzeichen Wasserwaage",
+          "album": "Sternzeichen Wasserwaage",
+          "link": "https://www.deezer.com/track/3607013772",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/b/0/e3b2d62f0d311b4d09ae7a7f6dba702f.mp3?hdnea=exp=1795215451~acl=/api/1/1/e/3/b/0/e3b2d62f0d311b4d09ae7a7f6dba702f.mp3*~data=user_id=0,application_id=42~hmac=5994c39559c8115d0cb2da3b6ac8fc1d871327d6b46f943d560acb318fc85402",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7dfa0dc668021c6050be6a5cc4456e0c/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
   }
 }

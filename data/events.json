@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:52:53.964Z",
+  "generatedAt": "2026-11-20T22:41:15.284Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -168,6 +168,15 @@
       "lat": 48.370943,
       "lng": 10.893155,
       "distanceKm": 57
+    },
+    "ra-289122": {
+      "id": "ra-289122",
+      "name": "Bizarradies",
+      "address": "Peter-Anders-Straße 4b, 81245 München, Deutschland",
+      "url": "https://ra.co/clubs/289122",
+      "lat": 48.153057,
+      "lng": 11.477986,
+      "distanceKm": 7
     },
     "ra-217480": {
       "id": "ra-217480",
@@ -512,6 +521,11 @@
           "name": "ENERGY TAPE",
           "url": "https://ra.co/dj/energytape",
           "ig": "closure.energytape"
+        },
+        {
+          "key": "george radsport",
+          "name": "GEORGE RADSPORT",
+          "url": "https://ra.co/dj/georgeradsport"
         },
         {
           "key": "taria",
@@ -2321,6 +2335,39 @@
         "Stichwort: \"Hardgroove\""
       ],
       "artists": []
+    },
+    {
+      "id": "ra-2590071",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-26",
+      "title": "Knky Icons - Iconic X-Mas",
+      "start": "20:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2590071",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-289122",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "alessia cattani",
+          "name": "Alessia Cattani",
+          "url": "https://ra.co/dj/alessiacattani"
+        }
+      ]
     },
     {
       "id": "ra-2584901",
