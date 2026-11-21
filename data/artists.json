@@ -6510,5 +6510,179 @@
         }
       ]
     }
+  },
+  "marvin": {
+    "name": "Marvin",
+    "updatedAt": "2026-11-21T21:39:21.937Z",
+    "deezer": {
+      "id": 65597312,
+      "link": "https://www.deezer.com/artist/65597312",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/342c2da5f30a98d45c8b2b96e9b18166/250x250-000000-80-0-0.jpg",
+      "fans": 57506,
+      "top": [
+        {
+          "title": "Ma vie sans toi",
+          "album": "Ma vie sans toi",
+          "link": "https://www.deezer.com/track/91332240",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/3/8/0/7388663d2f01749d9b4c3987d247f4c9.mp3?hdnea=exp=1795298062~acl=/api/1/1/7/3/8/0/7388663d2f01749d9b4c3987d247f4c9.mp3*~data=user_id=0,application_id=42~hmac=d691d252ccd7a296c1cca4fe777e6715ac28389bc220b4cbe357234cb44facfa",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/aeec94d86e3c2cc0eae01b0ee8222bd4/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Si tu t'en vas",
+          "album": "Si tu t'en vas",
+          "link": "https://www.deezer.com/track/3302660121",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/b/0/88bf73e5e9c17adb2dbf3cbe4330f0cc.mp3?hdnea=exp=1795298062~acl=/api/1/1/8/8/b/0/88bf73e5e9c17adb2dbf3cbe4330f0cc.mp3*~data=user_id=0,application_id=42~hmac=8e0bdb358cf3022b695f44c194078505abf986d98494767f54de855b5a943c30",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/08d751c570005c1641c59db082696d88/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Jusqu'au bout du monde",
+          "album": "Jusqu'au bout du monde",
+          "link": "https://www.deezer.com/track/2863518602",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/1/6/0/316f4a82beda40971f42c7b747d7b132.mp3?hdnea=exp=1795298062~acl=/api/1/1/3/1/6/0/316f4a82beda40971f42c7b747d7b132.mp3*~data=user_id=0,application_id=42~hmac=6e2d7ea35a3c6c06b8e04a9525a0e0c61f92b4955bb494e11cd620baf5956009",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/a27c05c30c5009929d8a4e0d8e074bec/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Le coup de soleil",
+          "album": "Mon univers",
+          "link": "https://www.deezer.com/track/445858842",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/5/4/0/454a4bb6874eab1bf63922546ca069a0.mp3?hdnea=exp=1795298062~acl=/api/1/1/4/5/4/0/454a4bb6874eab1bf63922546ca069a0.mp3*~data=user_id=0,application_id=42~hmac=9d45f0b2a950e16d9c00bb73076ccf1b5e77e3f4a2b184869b41d9fafbc6e9fb",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/51a93b683fb547806296f747c56b8dff/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Sans toi",
+          "album": "Mon univers",
+          "link": "https://www.deezer.com/track/445858772",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/b/8/0/eb8a9c76b2328bd278c8e49166b654f0.mp3?hdnea=exp=1795298062~acl=/api/1/1/e/b/8/0/eb8a9c76b2328bd278c8e49166b654f0.mp3*~data=user_id=0,application_id=42~hmac=bea6ba7c9a1f66b857bf9425b91923e8daf02c85ffae736dd600e9bf47ae32fa",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/51a93b683fb547806296f747c56b8dff/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "bennet": {
+    "name": "Bennet",
+    "updatedAt": "2026-11-21T21:39:22.899Z",
+    "deezer": {
+      "id": 1012093,
+      "link": "https://www.deezer.com/artist/1012093",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/6581678f2da08ebcdd64763ffd924955/250x250-000000-80-0-0.jpg",
+      "fans": 399,
+      "top": [
+        {
+          "title": "Mum's Gone to Iceland",
+          "album": "Super Natural",
+          "link": "https://www.deezer.com/track/1642457812",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/f/2/0/6f290c135aaa85fd1bf6ac506bcbba79.mp3?hdnea=exp=1795298063~acl=/api/1/1/6/f/2/0/6f290c135aaa85fd1bf6ac506bcbba79.mp3*~data=user_id=0,application_id=42~hmac=80db2f1df4ad21887bb019a549ccc2cb72dd099d7004b1db33edab8b9e7860e6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/62aa9674a85f13636cb08768f8197812/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Jordan Bennet",
+          "album": "Super Natural",
+          "link": "https://www.deezer.com/track/1642457742",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/6/0/8b6dd5f1ec045c396d595eb3b62e9c60.mp3?hdnea=exp=1795298063~acl=/api/1/1/8/b/6/0/8b6dd5f1ec045c396d595eb3b62e9c60.mp3*~data=user_id=0,application_id=42~hmac=a279e6e773d59368b39056b7208d686ed8f592cc30ede204dea9308f3475a15b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/62aa9674a85f13636cb08768f8197812/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "blanka": {
+    "name": "BLANKA",
+    "updatedAt": "2026-11-21T21:39:23.496Z",
+    "deezer": {
+      "id": 509775,
+      "link": "https://www.deezer.com/artist/509775",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/24383a73894ebe70fcccddc5d8741a00/250x250-000000-80-0-0.jpg",
+      "fans": 3569,
+      "top": [
+        {
+          "title": "Way Way",
+          "album": "Way Way",
+          "link": "https://www.deezer.com/track/109235114",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/d/9/0/dd9120788bc7141ba110949818c52d0e.mp3?hdnea=exp=1795298063~acl=/api/1/1/d/d/9/0/dd9120788bc7141ba110949818c52d0e.mp3*~data=user_id=0,application_id=42~hmac=9bc710e423ed3813ee704b89a25f1666b38cb9bdabf9f4f6859996927a18406e",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/bfe24fb54edfa65b3232da1e5d0f91fd/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "budino": {
+    "name": "Budino",
+    "updatedAt": "2026-11-21T21:39:24.048Z",
+    "deezer": {
+      "id": 4598817,
+      "link": "https://www.deezer.com/artist/4598817",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/01685dbfd8a8897c5dab0a649e3bcbe6/250x250-000000-80-0-0.jpg",
+      "fans": 93,
+      "top": [
+        {
+          "title": "Déixame Adiviñar",
+          "album": "Sotaque",
+          "link": "https://www.deezer.com/track/3237607291",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/5/0/0/d5087b8927e022e306f761ef1ffc7e06.mp3?hdnea=exp=1795298064~acl=/api/1/1/d/5/0/0/d5087b8927e022e306f761ef1ffc7e06.mp3*~data=user_id=0,application_id=42~hmac=660baa52dd8fe2a6a7fc6c09261162ce5e8ebc971f1e43af8dd4848ebf168fec",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/653e80905ed4d7d79f783d50ff7e3569/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "gabrielle kwarteng": {
+    "name": "Gabrielle Kwarteng",
+    "updatedAt": "2026-11-21T21:39:24.646Z",
+    "deezer": null
+  },
+  "inox traxx": {
+    "name": "Inox Traxx",
+    "updatedAt": "2026-11-21T21:39:25.058Z",
+    "deezer": {
+      "id": 77892192,
+      "link": "https://www.deezer.com/artist/77892192",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/d04f34ac0574e98f8e2ccdc09f55030b/250x250-000000-80-0-0.jpg",
+      "fans": 230,
+      "top": [
+        {
+          "title": "DSF (Mixed)",
+          "album": "fabric presents Rødhåd (DJ Mix) (Mixed)",
+          "link": "https://www.deezer.com/track/2947328901",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/a/4/8/0/a481afdc7230ecbbe63b8f02078796b8.mp3?hdnea=exp=1795298065~acl=/api/1/1/a/4/8/0/a481afdc7230ecbbe63b8f02078796b8.mp3*~data=user_id=0,application_id=42~hmac=91229ca589b320876334696775828dab4da7dcfc5a064ac1034d3cfebea85732",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b15653cfa15236300973b52b5507a7ca/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Random Case",
+          "album": "House of Wax EP",
+          "link": "https://www.deezer.com/track/1282345482",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/9/d/0/d9d0c5ca41f632af6a84bdc9a75f1259.mp3?hdnea=exp=1795298065~acl=/api/1/1/d/9/d/0/d9d0c5ca41f632af6a84bdc9a75f1259.mp3*~data=user_id=0,application_id=42~hmac=43675a4f67cca4656433252816e53312c3936b0b4eb6a3f027837db3825ece09",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/81463804bdd5fed0cf9ab6e06133182f/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Love Letter",
+          "album": "Love Letter",
+          "link": "https://www.deezer.com/track/4077399851",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/a/b/0/dabde199655f16fbb836fd02ac8200ce.mp3?hdnea=exp=1795298065~acl=/api/1/1/d/a/b/0/dabde199655f16fbb836fd02ac8200ce.mp3*~data=user_id=0,application_id=42~hmac=c40e37fe03e636fe25a39ce927a6c4432fbe788ff7c6b006e841a0904fa2a83e",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d04f34ac0574e98f8e2ccdc09f55030b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Circle (Ignez Remix)",
+          "album": "SMV016",
+          "link": "https://www.deezer.com/track/3950819991",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/5/5/0/b554dba7a2b7e76ac856e2b6117675f0.mp3?hdnea=exp=1795298065~acl=/api/1/1/b/5/5/0/b554dba7a2b7e76ac856e2b6117675f0.mp3*~data=user_id=0,application_id=42~hmac=ae3093f0d287939e37d8367155c88aea84a83842f958cfdc5252785976404a97",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/62da847b1fd246af73db8a08aaa483e6/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Whisper",
+          "album": "Love Letter",
+          "link": "https://www.deezer.com/track/4077399861",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/7/d/0/d7d56d9dc3b0c91a1ae061b3dabbd24c.mp3?hdnea=exp=1795298065~acl=/api/1/1/d/7/d/0/d7d56d9dc3b0c91a1ae061b3dabbd24c.mp3*~data=user_id=0,application_id=42~hmac=d3be0e815214a4a2870ec8a46b11a958063af6e1f08e5d03b88f8ff1206630b3",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d04f34ac0574e98f8e2ccdc09f55030b/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "julya karma": {
+    "name": "Julya Karma",
+    "updatedAt": "2026-11-21T21:39:25.622Z",
+    "deezer": {
+      "id": 204037117,
+      "link": "https://www.deezer.com/artist/204037117",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/b29f7c3aab80f10df9e43cea91129245/250x250-000000-80-0-0.jpg",
+      "fans": 58,
+      "top": []
+    }
   }
 }

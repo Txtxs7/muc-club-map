@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:37:39.467Z",
+  "generatedAt": "2026-11-21T21:39:07.886Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -132,6 +132,15 @@
       "lat": 48.467506,
       "lng": 11.937939,
       "distanceKm": 45
+    },
+    "known-printhouse": {
+      "id": "known-printhouse",
+      "name": "Printhouse München",
+      "address": "Dessauerstrasse 10, 80992 München",
+      "url": "https://ra.co/clubs/302632",
+      "lat": 48.1281,
+      "lng": 11.6295,
+      "distanceKm": 4
     },
     "ra-8425": {
       "id": "ra-8425",
@@ -700,6 +709,39 @@
         "Genre: Techno"
       ],
       "artists": []
+    },
+    {
+      "id": "ra-2590574",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-27",
+      "title": "DARK PARADISE feat. LUXUSPOP",
+      "start": "23:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2590574",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-249064",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "hardtechno"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Stichwort: \"HARD TECHNO\""
+      ],
+      "artists": [
+        {
+          "key": "marvin",
+          "name": "Marvin",
+          "url": "https://ra.co/dj/marvin-4",
+          "ig": "marvinschy"
+        }
+      ]
     },
     {
       "id": "ra-2565007",
@@ -1703,6 +1745,76 @@
           "name": "Schrotthagen",
           "url": "https://ra.co/dj/schrotthagen",
           "ig": "schrotthagen"
+        }
+      ]
+    },
+    {
+      "id": "ra-2590624",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-12",
+      "title": "Printhouse Edition 0004",
+      "start": "20:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2590624",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-printhouse",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "bennet",
+          "name": "Bennet",
+          "url": "https://ra.co/dj/bennet-de",
+          "ig": "bennet__0"
+        },
+        {
+          "key": "blanka",
+          "name": "BLANKA",
+          "url": "https://ra.co/dj/blanka",
+          "ig": "i.am.blanka"
+        },
+        {
+          "key": "budino",
+          "name": "Budino",
+          "url": "https://ra.co/dj/budino",
+          "ig": "budinodj"
+        },
+        {
+          "key": "euphrat",
+          "name": "Euphrat",
+          "url": "https://ra.co/dj/euphrat",
+          "ig": "euphrat__"
+        },
+        {
+          "key": "gabrielle kwarteng",
+          "name": "Gabrielle Kwarteng",
+          "url": "https://ra.co/dj/gabriellekwarteng",
+          "ig": "gabriellekwarteng"
+        },
+        {
+          "key": "inox traxx",
+          "name": "Inox Traxx",
+          "url": "https://ra.co/dj/inoxtraxx",
+          "ig": "inox_traxx"
+        },
+        {
+          "key": "julya karma",
+          "name": "Julya Karma",
+          "url": "https://ra.co/dj/julyakarma",
+          "ig": "julya_karma"
         }
       ]
     },
