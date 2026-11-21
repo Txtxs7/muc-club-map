@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T22:41:15.284Z",
+  "generatedAt": "2026-11-21T12:37:39.467Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,32 +7,14 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-backstage": {
-      "id": "known-backstage",
-      "name": "Backstage München",
-      "address": "Reitknechtstr. 6, 80639 Munich, Germany",
-      "url": "https://ra.co/clubs/19037",
-      "lat": 48.144976,
-      "lng": 11.521915,
-      "distanceKm": 4
-    },
-    "known-kesselhaus-augsburg": {
-      "id": "known-kesselhaus-augsburg",
-      "name": "Kesselhaus Augsburg",
-      "address": "Riedingerstraße 26i, 86153 Augsburg",
-      "url": "https://ra.co/clubs/190353",
-      "lat": 48.38494,
-      "lng": 10.88885,
-      "distanceKm": 58
-    },
-    "known-lieberscholli": {
-      "id": "known-lieberscholli",
-      "name": "Lieberscholli",
-      "address": "Landsberger Str. 212, 80687 München, Germany",
-      "url": "https://ra.co/clubs/226763",
-      "lat": 48.14198,
-      "lng": 11.51594,
-      "distanceKm": 4
+    "known-bahnwaerter-thiel": {
+      "id": "known-bahnwaerter-thiel",
+      "name": "Bahnwärter Thiel",
+      "address": "Tumblingerstraße 29, 80333 München",
+      "url": "https://ra.co/clubs/112682",
+      "lat": 48.123198,
+      "lng": 11.554813,
+      "distanceKm": 2
     },
     "known-rote-sonne": {
       "id": "known-rote-sonne",
@@ -42,24 +24,6 @@
       "lat": 48.142272,
       "lng": 11.570342,
       "distanceKm": 1
-    },
-    "known-zirka": {
-      "id": "known-zirka",
-      "name": "ZIRKA Space",
-      "address": "Dachauer Str. 110c, 80636 München, Germany",
-      "url": "https://ra.co/clubs/208413",
-      "lat": 48.15662,
-      "lng": 11.54718,
-      "distanceKm": 3
-    },
-    "known-bahnwaerter-thiel": {
-      "id": "known-bahnwaerter-thiel",
-      "name": "Bahnwärter Thiel",
-      "address": "Tumblingerstraße 29, 80333 München",
-      "url": "https://ra.co/clubs/112682",
-      "lat": 48.123198,
-      "lng": 11.554813,
-      "distanceKm": 2
     },
     "known-bergson": {
       "id": "known-bergson",
@@ -78,6 +42,15 @@
       "lat": 48.141466,
       "lng": 11.561779,
       "distanceKm": 1
+    },
+    "known-lieberscholli": {
+      "id": "known-lieberscholli",
+      "name": "Lieberscholli",
+      "address": "Landsberger Str. 212, 80687 München, Germany",
+      "url": "https://ra.co/clubs/226763",
+      "lat": 48.14198,
+      "lng": 11.51594,
+      "distanceKm": 4
     },
     "known-hallo-werner": {
       "id": "known-hallo-werner",
@@ -114,6 +87,15 @@
       "lat": 48.194183,
       "lng": 11.608399,
       "distanceKm": 7
+    },
+    "known-kesselhaus-augsburg": {
+      "id": "known-kesselhaus-augsburg",
+      "name": "Kesselhaus Augsburg",
+      "address": "Riedingerstraße 26i, 86153 Augsburg",
+      "url": "https://ra.co/clubs/190353",
+      "lat": 48.38494,
+      "lng": 10.88885,
+      "distanceKm": 58
     },
     "known-skateschule": {
       "id": "known-skateschule",
@@ -234,250 +216,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2569667",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-20",
-      "title": "Kinky Karneval Festival Edition",
-      "start": "21:00",
-      "end": "05:00",
-      "url": "https://ra.co/events/2569667",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-lieberscholli",
-      "genres": [
-        "Techno",
-        "House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "sabura",
-          "name": "Sabura",
-          "url": "https://ra.co/dj/sabura",
-          "ig": "sabura.hh"
-        },
-        {
-          "key": "l a x",
-          "name": "L.A.X",
-          "url": "https://ra.co/dj/l.a.x",
-          "ig": "lax_ableton"
-        },
-        {
-          "key": "alessia cattani",
-          "name": "Alessia Cattani",
-          "url": "https://ra.co/dj/alessiacattani"
-        }
-      ]
-    },
-    {
-      "id": "ra-2571380",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-20",
-      "title": "Raveyard Resurrected",
-      "start": "22:00",
-      "end": "06:00",
-      "url": "https://ra.co/events/2571380",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-backstage",
-      "genres": [
-        "Techno",
-        "Hardcore"
-      ],
-      "styles": [
-        "uptempo"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Genre: Hardcore",
-        "Stichwort: \"hardcore\""
-      ],
-      "artists": [
-        {
-          "key": "korex",
-          "name": "Kørex",
-          "url": "https://ra.co/dj/korex",
-          "ig": "korex.dj"
-        },
-        {
-          "key": "roter stern",
-          "name": "Roter Stern",
-          "url": "https://ra.co/dj/roterstern",
-          "ig": "r0terstern"
-        },
-        {
-          "key": "krvzy",
-          "name": "KRVZY",
-          "url": "https://ra.co/dj/krvzy",
-          "ig": "krvzy.techno"
-        }
-      ]
-    },
-    {
-      "id": "ra-2574809",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-20",
-      "title": "FOFS – Closing Party",
-      "start": "22:00",
-      "end": "03:00",
-      "url": "https://ra.co/events/2574809",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-zirka",
-      "genres": [
-        "House"
-      ],
-      "styles": [
-        "hardtechno"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"hardgroove\""
-      ],
-      "artists": [
-        {
-          "key": "erhyc",
-          "name": "Erhyc",
-          "url": "https://ra.co/dj/erhyc",
-          "ig": "erhyc.music"
-        }
-      ]
-    },
-    {
-      "id": "ra-2522067",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-20",
-      "title": "polyamor",
-      "start": "23:00",
-      "end": "05:00",
-      "url": "https://ra.co/events/2522067",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-kesselhaus-augsburg",
-      "genres": [],
-      "styles": [
-        "hardtechno"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Act: 2HOT2PLAY"
-      ],
-      "artists": [
-        {
-          "key": "cleopard2000",
-          "name": "Cleopard2000",
-          "url": "https://ra.co/dj/cleopard2000",
-          "ig": "cleopard2000"
-        },
-        {
-          "key": "mika heggemann",
-          "name": "Mika Heggemann",
-          "url": "https://ra.co/dj/heggemann",
-          "ig": "mika_heggemann"
-        },
-        {
-          "key": "2hot2play",
-          "name": "2HOT2PLAY",
-          "url": "https://ra.co/dj/2hot2play",
-          "ig": "2hot2play"
-        },
-        {
-          "key": "shoki287",
-          "name": "SHOKI287",
-          "url": "https://ra.co/dj/shoki287",
-          "ig": "shoki287"
-        }
-      ]
-    },
-    {
-      "id": "ra-2582305",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "Rote Sonne"
-      ],
-      "date": "2026-11-20",
-      "title": "Casual Tunes x Unknown Future w/ Adou, Beste Hira, Bless The Speaker, Conntex, DJ Hirnbirn b2b Trinity, Gaaston, sorry.coach",
-      "start": "23:00",
-      "end": "08:00",
-      "url": "https://ra.co/events/2582305",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "beste hira",
-          "name": "Beste Hira",
-          "url": "https://ra.co/dj/bestehira"
-        },
-        {
-          "key": "bless the speakers",
-          "name": "Bless The Speakers",
-          "url": "https://ra.co/dj/blessthespeakers"
-        },
-        {
-          "key": "conntex",
-          "name": "Conntex",
-          "url": "https://ra.co/dj/conntex",
-          "ig": "conntex.3r"
-        },
-        {
-          "key": "gaaston",
-          "name": "Gaaston",
-          "url": "https://ra.co/dj/gaaston",
-          "ig": "gaaston.casualtunes"
-        },
-        {
-          "key": "adou",
-          "name": "Adou",
-          "url": null
-        },
-        {
-          "key": "bless the speaker",
-          "name": "Bless The Speaker",
-          "url": null
-        },
-        {
-          "key": "dj hirnbirn b2b trinity",
-          "name": "DJ Hirnbirn b2b Trinity",
-          "url": null
-        },
-        {
-          "key": "sorry coach",
-          "name": "sorry.coach",
-          "url": null
-        }
-      ]
-    },
     {
       "id": "ra-2576050",
       "source": "ra",
