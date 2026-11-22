@@ -6684,5 +6684,16 @@
       "fans": 58,
       "top": []
     }
+  },
+  "dizzy delon": {
+    "name": "Dizzy Delon",
+    "updatedAt": "2026-11-22T21:45:48.277Z",
+    "deezer": {
+      "id": 252518292,
+      "link": "https://www.deezer.com/artist/252518292",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/ee9ecfe628fbc9c8ce0ab950a43a1b56/250x250-000000-80-0-0.jpg",
+      "fans": 3,
+      "top": []
+    }
   }
 }

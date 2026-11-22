@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:34:53.539Z",
+  "generatedAt": "2026-11-22T21:45:34.436Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -151,6 +151,15 @@
       "lng": 10.893155,
       "distanceKm": 57
     },
+    "ra-308084": {
+      "id": "ra-308084",
+      "name": "Kinowerkstatt Wasserburg",
+      "address": "Bahnhofsplatz 14, 83512 Wasserburg am Inn",
+      "url": "https://ra.co/clubs/308084",
+      "lat": 48.062644,
+      "lng": 12.22696,
+      "distanceKm": 49
+    },
     "ra-289122": {
       "id": "ra-289122",
       "name": "Bizarradies",
@@ -178,15 +187,6 @@
       "lng": 11.531332,
       "distanceKm": 5
     },
-    "known-feierwerk": {
-      "id": "known-feierwerk",
-      "name": "Feierwerk (Sunny Red / Kranhalle / Hansa 39)",
-      "address": "Hansastraße 39–41, 81373 München",
-      "url": "https://www.feierwerk.de/",
-      "lat": 48.12921,
-      "lng": 11.52905,
-      "distanceKm": 4
-    },
     "known-rockfabrik-augsburg": {
       "id": "known-rockfabrik-augsburg",
       "name": "Rockfabrik Augsburg",
@@ -204,6 +204,15 @@
       "lat": 48.141923,
       "lng": 11.555377,
       "distanceKm": 2
+    },
+    "known-feierwerk": {
+      "id": "known-feierwerk",
+      "name": "Feierwerk (Sunny Red / Kranhalle / Hansa 39)",
+      "address": "Hansastraße 39–41, 81373 München",
+      "url": "https://www.feierwerk.de/",
+      "lat": 48.12921,
+      "lng": 11.52905,
+      "distanceKm": 4
     }
   },
   "events": [
@@ -543,30 +552,6 @@
           "ig": "jeyrototo"
         }
       ]
-    },
-    {
-      "id": "sm-e2052",
-      "source": "schwarzes-muenchen",
-      "sources": [
-        "Schwarzes München"
-      ],
-      "date": "2026-11-28",
-      "title": "UNTERWELT (EBM, Electro, Industrial, Techno)",
-      "start": "22:00",
-      "end": null,
-      "url": "https://schwarzes-muenchen.de/events/details/2052-unterwelt-ebm-electro-industrial-techno",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-feierwerk",
-      "genres": [],
-      "styles": [
-        "industrial"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"UNTERWELT\""
-      ],
-      "artists": []
     },
     {
       "id": "rs-amotik-artifex-chet-rubbs-b2b-goiaba-e2nmn-impendance-b2b-luca-jukic-izzya-melchiorr-nepomuk-stenny-strauss-windfuhr",
@@ -1859,6 +1844,40 @@
           "name": "Till Antonio",
           "url": "https://ra.co/dj/tillantonio",
           "ig": "till.antonio"
+        }
+      ]
+    },
+    {
+      "id": "ra-2591019",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-19",
+      "title": "Dizzy Delon LIVE! at Kinowerkstatt",
+      "start": "21:00",
+      "end": "03:00",
+      "url": "https://ra.co/events/2591019",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-308084",
+      "genres": [
+        "Techno",
+        "Electro"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "dizzy delon",
+          "name": "Dizzy Delon",
+          "url": "https://ra.co/dj/dizzydelon",
+          "ig": "dizzy_delon"
         }
       ]
     },
