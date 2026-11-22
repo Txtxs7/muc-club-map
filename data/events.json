@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T21:39:07.886Z",
+  "generatedAt": "2026-11-22T12:34:53.539Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -15,33 +15,6 @@
       "lat": 48.123198,
       "lng": 11.554813,
       "distanceKm": 2
-    },
-    "known-rote-sonne": {
-      "id": "known-rote-sonne",
-      "name": "Rote Sonne",
-      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
-      "url": "https://ra.co/clubs/4829",
-      "lat": 48.142272,
-      "lng": 11.570342,
-      "distanceKm": 1
-    },
-    "known-bergson": {
-      "id": "known-bergson",
-      "name": "Bergson Kunstkraftwerk",
-      "address": "Am Bergson Kunstkraftwerk 2, 81245 München",
-      "url": "https://ra.co/clubs/256340",
-      "lat": 48.15731,
-      "lng": 11.43072,
-      "distanceKm": 11
-    },
-    "ra-249064": {
-      "id": "ra-249064",
-      "name": "NY.Club",
-      "address": "Elisenstraße 3, 80335 München",
-      "url": "https://ra.co/clubs/249064",
-      "lat": 48.141466,
-      "lng": 11.561779,
-      "distanceKm": 1
     },
     "known-lieberscholli": {
       "id": "known-lieberscholli",
@@ -61,6 +34,15 @@
       "lng": 10.890775,
       "distanceKm": 57
     },
+    "known-rote-sonne": {
+      "id": "known-rote-sonne",
+      "name": "Rote Sonne",
+      "address": "Maximiliansplatz 5; 80333 Munich; Germany",
+      "url": "https://ra.co/clubs/4829",
+      "lat": 48.142272,
+      "lng": 11.570342,
+      "distanceKm": 1
+    },
     "ra-129494": {
       "id": "ra-129494",
       "name": "Neun Kulturzentrum",
@@ -69,6 +51,15 @@
       "lat": 48.742403,
       "lng": 11.437621,
       "distanceKm": 68
+    },
+    "ra-249064": {
+      "id": "ra-249064",
+      "name": "NY.Club",
+      "address": "Elisenstraße 3, 80335 München",
+      "url": "https://ra.co/clubs/249064",
+      "lat": 48.141466,
+      "lng": 11.561779,
+      "distanceKm": 1
     },
     "ra-118360": {
       "id": "ra-118360",
@@ -187,15 +178,6 @@
       "lng": 11.531332,
       "distanceKm": 5
     },
-    "known-palais": {
-      "id": "known-palais",
-      "name": "Palais Club",
-      "address": "Arnulfstraße 16–18, 80335 München",
-      "url": "https://www.palaisclub.de/",
-      "lat": 48.141923,
-      "lng": 11.555377,
-      "distanceKm": 2
-    },
     "known-feierwerk": {
       "id": "known-feierwerk",
       "name": "Feierwerk (Sunny Red / Kranhalle / Hansa 39)",
@@ -214,263 +196,17 @@
       "lng": 10.9035,
       "distanceKm": 54
     },
-    "known-100hz-augsburg": {
-      "id": "known-100hz-augsburg",
-      "name": "100Hz Club Augsburg",
-      "address": "Fuggerstraße 14, 86150 Augsburg",
-      "url": "https://www.100hz.club/",
-      "lat": 48.36652,
-      "lng": 10.89658,
-      "distanceKm": 56
+    "known-palais": {
+      "id": "known-palais",
+      "name": "Palais Club",
+      "address": "Arnulfstraße 16–18, 80335 München",
+      "url": "https://www.palaisclub.de/",
+      "lat": 48.141923,
+      "lng": 11.555377,
+      "distanceKm": 2
     }
   },
   "events": [
-    {
-      "id": "ra-2576050",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-21",
-      "title": "Silo West with DJ Cringey, DVAID, ENERGY TAPE, GEORGE RADSPORT, TARIA",
-      "start": "13:00",
-      "end": "23:00",
-      "url": "https://ra.co/events/2576050",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-bergson",
-      "genres": [
-        "Trance",
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "dj cringey",
-          "name": "DJ Cringey",
-          "url": "https://ra.co/dj/djcringey",
-          "ig": "djcringey"
-        },
-        {
-          "key": "dvaid",
-          "name": "DVAID",
-          "url": "https://ra.co/dj/dvaid",
-          "ig": "dvaid.wav"
-        },
-        {
-          "key": "energy tape",
-          "name": "ENERGY TAPE",
-          "url": "https://ra.co/dj/energytape",
-          "ig": "closure.energytape"
-        },
-        {
-          "key": "george radsport",
-          "name": "GEORGE RADSPORT",
-          "url": "https://ra.co/dj/georgeradsport"
-        },
-        {
-          "key": "taria",
-          "name": "TARIA",
-          "url": "https://ra.co/dj/taria"
-        }
-      ]
-    },
-    {
-      "id": "sm-e2137",
-      "source": "schwarzes-muenchen",
-      "sources": [
-        "Schwarzes München"
-      ],
-      "date": "2026-11-21",
-      "title": "SYNTH INVASION - From Depeche Mode to VNV Nation",
-      "start": "21:00",
-      "end": null,
-      "url": "https://schwarzes-muenchen.de/events/details/2137-synth-invasion-from-depeche-mode-to-vnv-nation",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-palais",
-      "genres": [],
-      "styles": [
-        "industrial"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"VNV Nation\"",
-        "Act: VNV Nation"
-      ],
-      "artists": []
-    },
-    {
-      "id": "ra-2566019",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-21",
-      "title": "CFU - Bahnwärter Thiel - Two Year Anniversary",
-      "start": "22:00",
-      "end": "06:00",
-      "url": "https://ra.co/events/2566019",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-bahnwaerter-thiel",
-      "genres": [
-        "Techno",
-        "Minimal Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno",
-        "Genre: Minimal Techno"
-      ],
-      "artists": [
-        {
-          "key": "shishmish",
-          "name": "Shishmish",
-          "url": "https://ra.co/dj/shishmish"
-        },
-        {
-          "key": "sashty",
-          "name": "SASHTY",
-          "url": "https://ra.co/dj/sashty"
-        },
-        {
-          "key": "marcel dusk",
-          "name": "Marcel Dusk",
-          "url": "https://ra.co/dj/marceldusk"
-        },
-        {
-          "key": "dykstra",
-          "name": "Dykstra",
-          "url": "https://ra.co/dj/dykstra"
-        }
-      ]
-    },
-    {
-      "id": "ra-2582311",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "Rote Sonne"
-      ],
-      "date": "2026-11-21",
-      "title": "Lucid Glow pres. Butschi*All Night Long",
-      "start": "23:00",
-      "end": "08:00",
-      "url": "https://ra.co/events/2582311",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Trance",
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "butschi",
-          "name": "Butschi",
-          "url": "https://ra.co/dj/butschi",
-          "ig": "butschi111"
-        }
-      ]
-    },
-    {
-      "id": "ra-2589258",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-21",
-      "title": "DARK /// MEN OLNY feat. JOYADI",
-      "start": "23:00",
-      "end": "06:00",
-      "url": "https://ra.co/events/2589258",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-249064",
-      "genres": [
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "dj manu munich",
-          "name": "DJ MANU (MUNICH)",
-          "url": "https://ra.co/dj/djmanumunich"
-        }
-      ]
-    },
-    {
-      "id": "ig-DfW6yn2MKT3",
-      "source": "instagram",
-      "sources": [
-        "Instagram @100hz.club"
-      ],
-      "date": "2026-11-21",
-      "title": "RAVECHURCH DIVINE FREQUENCIES VII",
-      "start": "23:00",
-      "end": null,
-      "url": "https://www.instagram.com/p/DezDcHcjObP/",
-      "igUrl": "https://www.instagram.com/p/DfW6yn2MKT3/",
-      "flyer": "https://scontent-muc2-1.cdninstagram.com/v/t51.82787-15/888001683_18026965481922998_594433890835535521_n.jpg?stp=cmp1_dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gxUmygLUkh0Q7kNvwF3acRh&_nc_oc=AdrfEMjD-2cCJdq61OMm_F8KscDQ4IzOzFdS2Srkl8V_Jx08OmuEhYD0BW1hNsA9nh2xOGgP_rXNBJYJnYPe8oD6&_nc_zt=23&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_gid=WoCepxLVXopdJdDxPFpT5g&_nc_ss=7c689&oh=00_AQS1vKltMvWIIurN0O_gmfXdBPV8wCO4S7uZXjU88U6AFA&oe=6AF41E74",
-      "venueId": "known-100hz-augsburg",
-      "genres": [],
-      "styles": [
-        "hardtechno"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"hardtechno\"",
-        "Stichwort: \"Hard-Techno\""
-      ],
-      "artists": [
-        {
-          "key": "charly juice",
-          "name": "CHARLY JUICE",
-          "url": null,
-          "ig": "charly.juice_dj"
-        },
-        {
-          "key": "mpb",
-          "name": "MPB",
-          "url": null,
-          "ig": "mpb.dj"
-        },
-        {
-          "key": "r3ckless",
-          "name": "R3CKLESS",
-          "url": null,
-          "ig": "r3ckles.wav"
-        },
-        {
-          "key": "palo",
-          "name": "PALØ",
-          "url": null
-        }
-      ]
-    },
     {
       "id": "tio-rotesonne-L8xqPHhU",
       "source": "ticket.io",
