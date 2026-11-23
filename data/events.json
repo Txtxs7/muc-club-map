@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T21:45:34.436Z",
+  "generatedAt": "2026-11-23T14:36:47.133Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -43,15 +43,6 @@
       "lng": 11.570342,
       "distanceKm": 1
     },
-    "ra-129494": {
-      "id": "ra-129494",
-      "name": "Neun Kulturzentrum",
-      "address": "Elisabethstraße 9, 85051, Ingolstadt, Germany",
-      "url": "https://ra.co/clubs/129494",
-      "lat": 48.742403,
-      "lng": 11.437621,
-      "distanceKm": 68
-    },
     "ra-249064": {
       "id": "ra-249064",
       "name": "NY.Club",
@@ -60,6 +51,15 @@
       "lat": 48.141466,
       "lng": 11.561779,
       "distanceKm": 1
+    },
+    "ra-129494": {
+      "id": "ra-129494",
+      "name": "Neun Kulturzentrum",
+      "address": "Elisabethstraße 9, 85051, Ingolstadt, Germany",
+      "url": "https://ra.co/clubs/129494",
+      "lat": 48.742403,
+      "lng": 11.437621,
+      "distanceKm": 68
     },
     "ra-118360": {
       "id": "ra-118360",
@@ -115,15 +115,6 @@
       "lng": 11.60611,
       "distanceKm": 3
     },
-    "ra-308122": {
-      "id": "ra-308122",
-      "name": "Larifari",
-      "address": "Auf dem Gries 4, 85368 Moosburg an der Isar",
-      "url": "https://ra.co/clubs/308122",
-      "lat": 48.467506,
-      "lng": 11.937939,
-      "distanceKm": 45
-    },
     "known-printhouse": {
       "id": "known-printhouse",
       "name": "Printhouse München",
@@ -132,6 +123,15 @@
       "lat": 48.1281,
       "lng": 11.6295,
       "distanceKm": 4
+    },
+    "ra-308122": {
+      "id": "ra-308122",
+      "name": "Larifari",
+      "address": "Auf dem Gries 4, 85368 Moosburg an der Isar",
+      "url": "https://ra.co/clubs/308122",
+      "lat": 48.467506,
+      "lng": 11.937939,
+      "distanceKm": 45
     },
     "ra-8425": {
       "id": "ra-8425",
@@ -516,8 +516,8 @@
       "artists": [
         {
           "key": "kamo",
-          "name": "kamo.",
-          "url": "https://ra.co/dj/kamo."
+          "name": "kamo_",
+          "url": "https://ra.co/dj/kamo_"
         },
         {
           "key": "lyza",
