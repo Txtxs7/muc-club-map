@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:54:01.711Z",
+  "generatedAt": "2026-11-24T14:52:13.453Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -25,15 +25,6 @@
       "lng": 11.51594,
       "distanceKm": 4
     },
-    "known-hallo-werner": {
-      "id": "known-hallo-werner",
-      "name": "Hallo Werner Augsburg",
-      "address": "Schrannenstraße 8, 86150 Augsburg",
-      "url": "https://ra.co/clubs/98032",
-      "lat": 48.365375,
-      "lng": 10.890775,
-      "distanceKm": 57
-    },
     "known-rote-sonne": {
       "id": "known-rote-sonne",
       "name": "Rote Sonne",
@@ -42,6 +33,15 @@
       "lat": 48.142272,
       "lng": 11.570342,
       "distanceKm": 1
+    },
+    "known-hallo-werner": {
+      "id": "known-hallo-werner",
+      "name": "Hallo Werner Augsburg",
+      "address": "Schrannenstraße 8, 86150 Augsburg",
+      "url": "https://ra.co/clubs/98032",
+      "lat": 48.365375,
+      "lng": 10.890775,
+      "distanceKm": 57
     },
     "ra-249064": {
       "id": "ra-249064",
@@ -79,15 +79,6 @@
       "lng": 11.608399,
       "distanceKm": 7
     },
-    "known-kesselhaus-augsburg": {
-      "id": "known-kesselhaus-augsburg",
-      "name": "Kesselhaus Augsburg",
-      "address": "Riedingerstraße 26i, 86153 Augsburg",
-      "url": "https://ra.co/clubs/190353",
-      "lat": 48.38494,
-      "lng": 10.88885,
-      "distanceKm": 58
-    },
     "known-skateschule": {
       "id": "known-skateschule",
       "name": "Skateschule / Skatehalle München",
@@ -96,6 +87,15 @@
       "lat": 48.14695,
       "lng": 11.51505,
       "distanceKm": 5
+    },
+    "known-kesselhaus-augsburg": {
+      "id": "known-kesselhaus-augsburg",
+      "name": "Kesselhaus Augsburg",
+      "address": "Riedingerstraße 26i, 86153 Augsburg",
+      "url": "https://ra.co/clubs/190353",
+      "lat": 48.38494,
+      "lng": 10.88885,
+      "distanceKm": 58
     },
     "ra-6828": {
       "id": "ra-6828",
@@ -374,6 +374,33 @@
       ]
     },
     {
+      "id": "ra-2582312",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor",
+        "Rote Sonne"
+      ],
+      "date": "2026-11-27",
+      "title": "RS:CommunityNight",
+      "start": "23:00",
+      "end": "08:00",
+      "url": "https://ra.co/events/2582312",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-rote-sonne",
+      "genres": [
+        "Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": []
+    },
+    {
       "id": "ra-2553678",
       "source": "ra",
       "sources": [
@@ -427,33 +454,6 @@
           "url": "https://ra.co/dj/manrickstapez"
         }
       ]
-    },
-    {
-      "id": "ra-2582312",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor",
-        "Rote Sonne"
-      ],
-      "date": "2026-11-27",
-      "title": "RS:CommunityNight",
-      "start": "23:00",
-      "end": "08:00",
-      "url": "https://ra.co/events/2582312",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": []
     },
     {
       "id": "ra-2590574",
