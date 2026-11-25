@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T00:43:14.498Z",
+  "generatedAt": "2026-11-25T14:20:00.567Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -1947,6 +1947,39 @@
       "artists": []
     },
     {
+      "id": "ra-2590071",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-26",
+      "title": "Knky Icons - Iconic X-Mas",
+      "start": "20:00",
+      "end": "06:00",
+      "url": "https://ra.co/events/2590071",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-289122",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "alessia cattani",
+          "name": "Alessia Cattani",
+          "url": "https://ra.co/dj/alessiacattani"
+        }
+      ]
+    },
+    {
       "id": "ra-2592935",
       "source": "ra",
       "sources": [
@@ -2008,39 +2041,6 @@
           "name": "Zenker Brothers",
           "url": "https://ra.co/dj/zenkerbrothers",
           "ig": "zenker_brothers"
-        }
-      ]
-    },
-    {
-      "id": "ra-2590071",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-12-26",
-      "title": "Knky Icons - Iconic X-Mas",
-      "start": "20:00",
-      "end": "06:00",
-      "url": "https://ra.co/events/2590071",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-289122",
-      "genres": [
-        "Techno",
-        "Tech House"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "alessia cattani",
-          "name": "Alessia Cattani",
-          "url": "https://ra.co/dj/alessiacattani"
         }
       ]
     },
