@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:52:13.453Z",
+  "generatedAt": "2026-11-25T00:43:14.498Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -276,6 +276,11 @@
         "Stichwort: \"135+\""
       ],
       "artists": [
+        {
+          "key": "daniel s",
+          "name": "Daniel S.",
+          "url": "https://ra.co/dj/daniels."
+        },
         {
           "key": "dena",
           "name": "Dena",
@@ -1942,6 +1947,71 @@
       "artists": []
     },
     {
+      "id": "ra-2592935",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-26",
+      "title": "Printhouse Edition 0005",
+      "start": "20:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2592935",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-printhouse",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "adi",
+          "name": "Adi",
+          "url": "https://ra.co/dj/adi"
+        },
+        {
+          "key": "chami",
+          "name": "Chami",
+          "url": "https://ra.co/dj/chami"
+        },
+        {
+          "key": "dj dustin",
+          "name": "DJ Dustin",
+          "url": "https://ra.co/dj/dustin"
+        },
+        {
+          "key": "laure croft",
+          "name": "Laure Croft",
+          "url": "https://ra.co/dj/laurecroft",
+          "ig": "laurecroft_"
+        },
+        {
+          "key": "len faki",
+          "name": "Len Faki",
+          "url": "https://ra.co/dj/lenfaki"
+        },
+        {
+          "key": "unai trotti",
+          "name": "Unai Trotti",
+          "url": "https://ra.co/dj/unaitrotti"
+        },
+        {
+          "key": "zenker brothers",
+          "name": "Zenker Brothers",
+          "url": "https://ra.co/dj/zenkerbrothers",
+          "ig": "zenker_brothers"
+        }
+      ]
+    },
+    {
       "id": "ra-2590071",
       "source": "ra",
       "sources": [
@@ -2164,6 +2234,75 @@
         "Stichwort: \"Dark Infection\""
       ],
       "artists": []
+    },
+    {
+      "id": "ra-2592960",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2027-01-09",
+      "title": "Printhouse Edition 0006",
+      "start": "20:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2592960",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-printhouse",
+      "genres": [
+        "Techno",
+        "House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "altinbas",
+          "name": "Altinbas",
+          "url": "https://ra.co/dj/altinbas",
+          "ig": "altinbas.t"
+        },
+        {
+          "key": "cecilia tosh",
+          "name": "Cecilia Tosh",
+          "url": "https://ra.co/dj/ceciliatosh",
+          "ig": "cecilia.tosh"
+        },
+        {
+          "key": "cosmo",
+          "name": "Cosmo",
+          "url": "https://ra.co/dj/cosmo-kr",
+          "ig": "cosmosmic"
+        },
+        {
+          "key": "glaskin",
+          "name": "Glaskin",
+          "url": "https://ra.co/dj/glaskin",
+          "ig": "glaskinofficial"
+        },
+        {
+          "key": "lena willikens",
+          "name": "Lena Willikens",
+          "url": "https://ra.co/dj/lenawillikens",
+          "ig": "lena_willikens"
+        },
+        {
+          "key": "marron",
+          "name": "MARRØN",
+          "url": "https://ra.co/dj/marron"
+        },
+        {
+          "key": "vladimir ivkovic",
+          "name": "Vladimir Ivkovic",
+          "url": "https://ra.co/dj/vladimirivkovic",
+          "ig": "vladimir_ivkovic"
+        }
+      ]
     },
     {
       "id": "ra-2589558",

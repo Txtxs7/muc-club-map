@@ -6695,5 +6695,327 @@
       "fans": 3,
       "top": []
     }
+  },
+  "adi": {
+    "name": "Adi",
+    "updatedAt": "2026-11-25T00:43:29.350Z",
+    "deezer": {
+      "id": 68321162,
+      "link": "https://www.deezer.com/artist/68321162",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/97d3fd39909b5fb8997b494c34a08f6e/250x250-000000-80-0-0.jpg",
+      "fans": 102,
+      "top": [
+        {
+          "title": "i peep shit",
+          "album": "shiloh tapes vol.1",
+          "link": "https://www.deezer.com/track/1823389227",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/3/9/0/53919d6c58f987f7276b11d04e7463b6.mp3?hdnea=exp=1795568309~acl=/api/1/1/5/3/9/0/53919d6c58f987f7276b11d04e7463b6.mp3*~data=user_id=0,application_id=42~hmac=a94214679c4248c843a245b9947018a42db5a21703ebecdb504ec589cae89551",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c2e0bec52ad2fa102abd60256d5fca92/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Summer Love",
+          "album": "Summer Love",
+          "link": "https://www.deezer.com/track/1740331577",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/9/9/0/399eafc4974723dd342124f78f2c80e0.mp3?hdnea=exp=1795568309~acl=/api/1/1/3/9/9/0/399eafc4974723dd342124f78f2c80e0.mp3*~data=user_id=0,application_id=42~hmac=9bd9b187151600384126a2b6fcadb55bfe22a74673e386319ae147d69aaaa7e4",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/aa53e75f05acb14550c1e635b8d5a113/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "i know what you need",
+          "album": "i know what you need",
+          "link": "https://www.deezer.com/track/1748903987",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/0/a/2/0/0a2e201dd1fd442c8fad18c4c285f2e3.mp3?hdnea=exp=1795568309~acl=/api/1/1/0/a/2/0/0a2e201dd1fd442c8fad18c4c285f2e3.mp3*~data=user_id=0,application_id=42~hmac=640114cc6e266076d1b5fff0b38ce748ba7e93640c442cbcd7fc81df6c5220ec",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c2e0bec52ad2fa102abd60256d5fca92/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "chami": {
+    "name": "Chami",
+    "updatedAt": "2026-11-25T00:43:30.267Z",
+    "deezer": null
+  },
+  "dj dustin": {
+    "name": "DJ Dustin",
+    "updatedAt": "2026-11-25T00:43:31.067Z",
+    "deezer": {
+      "id": 12985349,
+      "link": "https://www.deezer.com/artist/12985349",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/5f3932e9e6a403d052bb2a359e39b662/250x250-000000-80-0-0.jpg",
+      "fans": 4,
+      "top": []
+    }
+  },
+  "laure croft": {
+    "name": "Laure Croft",
+    "updatedAt": "2026-11-25T00:43:31.812Z",
+    "deezer": {
+      "id": 388177261,
+      "link": "https://www.deezer.com/artist/388177261",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/3d3455f55a9898286c4ca939221f0524/250x250-000000-80-0-0.jpg",
+      "fans": 5,
+      "top": []
+    }
+  },
+  "len faki": {
+    "name": "Len Faki",
+    "updatedAt": "2026-11-25T00:43:32.560Z",
+    "deezer": {
+      "id": 173339,
+      "link": "https://www.deezer.com/artist/173339",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/41d8282678383860293c4fe677371de6/250x250-000000-80-0-0.jpg",
+      "fans": 10613,
+      "top": [
+        {
+          "title": "Rodeo (2020 Remaster) (Remastered)",
+          "album": "20 Years of Terminal M - The Past",
+          "link": "https://www.deezer.com/track/970587132",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/1/9/0/41976311a297e7ecb132333d6e378e53.mp3?hdnea=exp=1795568313~acl=/api/1/1/4/1/9/0/41976311a297e7ecb132333d6e378e53.mp3*~data=user_id=0,application_id=42~hmac=15d1cbe4a4f3440725f0b4b07dbc9daffa013ec8efac9812451e4ece9e9597c8",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/bd45242209602879e7584866bef9258f/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "My Black Sheep (Cleric Y Remix)",
+          "album": "My Black Sheep 10Y Anniversary Mixes",
+          "link": "https://www.deezer.com/track/2106408027",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/d/1/0/7d122a1838a191edfb371f5638453fb4.mp3?hdnea=exp=1795568313~acl=/api/1/1/7/d/1/0/7d122a1838a191edfb371f5638453fb4.mp3*~data=user_id=0,application_id=42~hmac=e0d675200f6f22b3406469743702f2270af19749529fd9205e7e4fa35abb83d6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/cdca157638b9ab0a1e62293874c9c063/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Tor 8",
+          "album": "Fusion",
+          "link": "https://www.deezer.com/track/2326965125",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/8/3/0/88364047bd13ab992ffba2d6368384f1.mp3?hdnea=exp=1795568313~acl=/api/1/1/8/8/3/0/88364047bd13ab992ffba2d6368384f1.mp3*~data=user_id=0,application_id=42~hmac=ad93e57273ccb871f60d43211c0f90734da8cbb6e2d2e4a0f66e8364eb501fd9",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/2218df8f71175e19e5fa82feaf668471/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Morgana",
+          "album": "Zig Zag",
+          "link": "https://www.deezer.com/track/3321542451",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/3/2/c/0/32cea201eec8a1524bbeee56518a1f9c.mp3?hdnea=exp=1795568313~acl=/api/1/1/3/2/c/0/32cea201eec8a1524bbeee56518a1f9c.mp3*~data=user_id=0,application_id=42~hmac=f032a2e5b70c860a3da169aff62a289d72f1eb146c02613b035eab19b1685d7c",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7f03fa8d037b0b08d5d1ba318a1da6d1/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "MASCHINE GIRL",
+          "album": "Zera",
+          "link": "https://www.deezer.com/track/3936503971",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/6/2/0/d624e3ec92b0629eb0eaa3a87fcc977a.mp3?hdnea=exp=1795568313~acl=/api/1/1/d/6/2/0/d624e3ec92b0629eb0eaa3a87fcc977a.mp3*~data=user_id=0,application_id=42~hmac=6de41ce81f98b0fcd803c1022055ab2497cddab758898301833acd7ac2049e47",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/7d22c30781e50f02ed07d9dfdeb00018/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "unai trotti": {
+    "name": "Unai Trotti",
+    "updatedAt": "2026-11-25T00:43:33.398Z",
+    "deezer": {
+      "id": 1034245,
+      "link": "https://www.deezer.com/artist/1034245",
+      "picture": "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+      "fans": 99,
+      "top": []
+    }
+  },
+  "zenker brothers": {
+    "name": "Zenker Brothers",
+    "updatedAt": "2026-11-25T00:43:34.106Z",
+    "deezer": {
+      "id": 1674237,
+      "link": "https://www.deezer.com/artist/1674237",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/1255e3327fcbae88bb964bb2f72d7920/250x250-000000-80-0-0.jpg",
+      "fans": 1277,
+      "top": []
+    }
+  },
+  "altinbas": {
+    "name": "Altinbas",
+    "updatedAt": "2026-11-25T00:43:35.010Z",
+    "deezer": {
+      "id": 8896710,
+      "link": "https://www.deezer.com/artist/8896710",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/3c090d339c3409ddb62af49fe4ab8268/250x250-000000-80-0-0.jpg",
+      "fans": 731,
+      "top": [
+        {
+          "title": "Bold",
+          "album": "Time in Motion",
+          "link": "https://www.deezer.com/track/1998149317",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/4/0/68410ac00fbd547beff3a29f62059c4d.mp3?hdnea=exp=1795568315~acl=/api/1/1/6/8/4/0/68410ac00fbd547beff3a29f62059c4d.mp3*~data=user_id=0,application_id=42~hmac=19d722ea3aa7701cc5e7b99fd0bfa489b9923df4219d3ca3ff5870e61072e40c",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3c090d339c3409ddb62af49fe4ab8268/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Time in Motion",
+          "album": "Time in Motion",
+          "link": "https://www.deezer.com/track/1998149327",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/d/0/27d949ff6713c8dbab2acbb7e0becc12.mp3?hdnea=exp=1795568315~acl=/api/1/1/2/7/d/0/27d949ff6713c8dbab2acbb7e0becc12.mp3*~data=user_id=0,application_id=42~hmac=450d98d607c03130b44a5b86161a9e8f37244e454178b6eca7294f62f139acd3",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3c090d339c3409ddb62af49fe4ab8268/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Cynical Moves",
+          "album": "Cynical Moves",
+          "link": "https://www.deezer.com/track/1878578947",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/5/7/0/8578dca42f98c736d6b9c4cb985bf558.mp3?hdnea=exp=1795568315~acl=/api/1/1/8/5/7/0/8578dca42f98c736d6b9c4cb985bf558.mp3*~data=user_id=0,application_id=42~hmac=ec3ff8f5eda702dbba2a9b63368de60be0553182640dc13b6b1640c87c336db3",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/56cba8376989d45f7b963858d5f4ce2b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Aurora",
+          "album": "Nebula EP",
+          "link": "https://www.deezer.com/track/3615122692",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/4/7/0/e47bdae0f7613660eee14196fbbb4eef.mp3?hdnea=exp=1795568315~acl=/api/1/1/e/4/7/0/e47bdae0f7613660eee14196fbbb4eef.mp3*~data=user_id=0,application_id=42~hmac=e28a09fa7f7091868454078b0b108d2a3fb5efb601462906b680e0a0e214741f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/ffc0a15e4e6371a0eda0f32d11471fcc/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Second Wind (Original)",
+          "album": "Second Wind EP",
+          "link": "https://www.deezer.com/track/2078094597",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/f/0/54fa25eebb6a5e2b3cfb0a9646c7069f.mp3?hdnea=exp=1795568315~acl=/api/1/1/5/4/f/0/54fa25eebb6a5e2b3cfb0a9646c7069f.mp3*~data=user_id=0,application_id=42~hmac=82457c33cd33eb3d4eae167c9776ab146387c6ef1472594967c7375ee6539e30",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/5d44d09f33a52460bab99420a417302c/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "cecilia tosh": {
+    "name": "Cecilia Tosh",
+    "updatedAt": "2026-11-25T00:43:35.811Z",
+    "deezer": {
+      "id": 113766032,
+      "link": "https://www.deezer.com/artist/113766032",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/164609925d9ff885922e603153306d9c/250x250-000000-80-0-0.jpg",
+      "fans": 32,
+      "top": []
+    }
+  },
+  "cosmo": {
+    "name": "Cosmo",
+    "updatedAt": "2026-11-25T00:43:36.640Z",
+    "deezer": {
+      "id": 10140560,
+      "link": "https://www.deezer.com/artist/10140560",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/fb87ec0b54d9b588b73bc7f6138b15c6/250x250-000000-80-0-0.jpg",
+      "fans": 3949,
+      "top": [
+        {
+          "title": "Cazzate",
+          "album": "L'ultima festa",
+          "link": "https://www.deezer.com/track/121695978",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/8/5/0/6851d6fc6dd0fd467b3af3d6646e3c14.mp3?hdnea=exp=1795568317~acl=/api/1/1/6/8/5/0/6851d6fc6dd0fd467b3af3d6646e3c14.mp3*~data=user_id=0,application_id=42~hmac=6552d90a0775dff891f91c8b8703e315b09030559934c1a23744e22e05718a86",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c3f13efbfcfb32bbef819cffcae0c4ec/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Il futuro pt. 1",
+          "album": "Il fiore del futuro",
+          "link": "https://www.deezer.com/track/4426463751",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/1/6/4/0/16472e62fc46339a02f22d25b6d5ba30.mp3?hdnea=exp=1795568317~acl=/api/1/1/1/6/4/0/16472e62fc46339a02f22d25b6d5ba30.mp3*~data=user_id=0,application_id=42~hmac=df0e3442372e068b525bf2f20ffea178e9809810b042a6b99d3bcb8ae9bfa1a6",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/0c05522a6403a466927fc22ed0b1d4db/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "La verità",
+          "album": "La verità",
+          "link": "https://www.deezer.com/track/2009867687",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/0/3/0/203275c5f2abe347213d9e8cb8b3e689.mp3?hdnea=exp=1795568317~acl=/api/1/1/2/0/3/0/203275c5f2abe347213d9e8cb8b3e689.mp3*~data=user_id=0,application_id=42~hmac=42918f1419ccda2326da8c42436af75947e0fb2184190cbb02e71b59ac2582d3",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3224131c36b1348499d37410b4a99511/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "L'ultima festa",
+          "album": "L'ultima festa",
+          "link": "https://www.deezer.com/track/121695970",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/f/8/0/ef81aa6e8f228cae358ac4da06de838e.mp3?hdnea=exp=1795568317~acl=/api/1/1/e/f/8/0/ef81aa6e8f228cae358ac4da06de838e.mp3*~data=user_id=0,application_id=42~hmac=31c0ca717864341730dbcb366787154e8ab1b8ec95821037ce5aa0d04cc28a49",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/c3f13efbfcfb32bbef819cffcae0c4ec/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Sei la mia città",
+          "album": "Cosmotronic",
+          "link": "https://www.deezer.com/track/438131502",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/6/9/0/669a117e8aa7a8d25e00b6a6703cb087.mp3?hdnea=exp=1795568317~acl=/api/1/1/6/6/9/0/669a117e8aa7a8d25e00b6a6703cb087.mp3*~data=user_id=0,application_id=42~hmac=bf5a12e266b90246d88aa6b58137a76cd38fe9fe637d9844995731af5f564ef0",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/429b88d6c926906baeabcb1c09c65860/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "glaskin": {
+    "name": "Glaskin",
+    "updatedAt": "2026-11-25T00:43:37.459Z",
+    "deezer": {
+      "id": 11085474,
+      "link": "https://www.deezer.com/artist/11085474",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/7b171ad0dad36946a280e118a577824f/250x250-000000-80-0-0.jpg",
+      "fans": 233,
+      "top": [
+        {
+          "title": "Blue Light",
+          "album": "CROWD009: Blue Light",
+          "link": "https://www.deezer.com/track/3574940661",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/1/7/0/617b24b9f481475bb093a0d6e9b1bf19.mp3?hdnea=exp=1795568318~acl=/api/1/1/6/1/7/0/617b24b9f481475bb093a0d6e9b1bf19.mp3*~data=user_id=0,application_id=42~hmac=5835edde80b7d1b490a25e597dcfb23d7e96f49de4cce7380e84003e2f6bd82b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/77d69b4e7fe75624733737689ffae7e1/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Objects",
+          "album": "Heavy on the Magick",
+          "link": "https://www.deezer.com/track/354428841",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/f/a/0/5fa7f136f115624f9dcea9715fd42dac.mp3?hdnea=exp=1795568318~acl=/api/1/1/5/f/a/0/5fa7f136f115624f9dcea9715fd42dac.mp3*~data=user_id=0,application_id=42~hmac=354d4430d601ae4838542f06a7bc068c592a8f34d34f413f3e59598156056a48",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/f28688fe5afcdd722b2da9544d126b6f/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Slim Line (Etapp Kyle Remix)",
+          "album": "Slim Line (Etapp Kyle Remix)",
+          "link": "https://www.deezer.com/track/1722996857",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/2/0/7e2374e3a96b7f6ca0cbdd3f78e5a242.mp3?hdnea=exp=1795568318~acl=/api/1/1/7/e/2/0/7e2374e3a96b7f6ca0cbdd3f78e5a242.mp3*~data=user_id=0,application_id=42~hmac=13ff2290e94c2dbfa2e23125dc835251c2650c37613a873ae0993d44da0f3b57",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/ecf69ef39e1f5975ccf8c269f27917cd/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "lena willikens": {
+    "name": "Lena Willikens",
+    "updatedAt": "2026-11-25T00:43:38.345Z",
+    "deezer": {
+      "id": 7254292,
+      "link": "https://www.deezer.com/artist/7254292",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/49564092108d57ed99a6ae4d51a9162f/250x250-000000-80-0-0.jpg",
+      "fans": 1473,
+      "top": []
+    }
+  },
+  "marron": {
+    "name": "MARRØN",
+    "updatedAt": "2026-11-25T00:43:39.066Z",
+    "deezer": {
+      "id": 597546,
+      "link": "https://www.deezer.com/artist/597546",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/518c90864d7991c8bb52bb150204f9cb/250x250-000000-80-0-0.jpg",
+      "fans": 407,
+      "top": [
+        {
+          "title": "Your Body",
+          "album": "in",
+          "link": "https://www.deezer.com/track/1207159952",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/5/a/0/65a043868460e2ce4da3db13dfbdffbe.mp3?hdnea=exp=1795568319~acl=/api/1/1/6/5/a/0/65a043868460e2ce4da3db13dfbdffbe.mp3*~data=user_id=0,application_id=42~hmac=bcbf16db36d98bb276fc339650f075ba0731137f0df33f5a4e64dd102562791b",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/8f21475d4cfaf4dd572209de5127b206/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "4am",
+          "album": "FUTUR. EP",
+          "link": "https://www.deezer.com/track/771189392",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/7/2/b/0/72b0c2a2ddadb0d25a4f16c2e175201a.mp3?hdnea=exp=1795568319~acl=/api/1/1/7/2/b/0/72b0c2a2ddadb0d25a4f16c2e175201a.mp3*~data=user_id=0,application_id=42~hmac=29104149785fd0c46ad812de16f26b6b3da9ccbdd1d83fa2dcc625e233f206fc",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/ae19ae2e08ab5231ea7504edeec1afb4/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "10 Años",
+          "album": "etc.",
+          "link": "https://www.deezer.com/track/409583802",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/c/9/0/4c960d3922b6d8ff2c8259aa2c9ed625.mp3?hdnea=exp=1795568319~acl=/api/1/1/4/c/9/0/4c960d3922b6d8ff2c8259aa2c9ed625.mp3*~data=user_id=0,application_id=42~hmac=f2b50b175f2b9325c05753e9dae24dde7caa9999f1983220ff0c017cc5ae0c75",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/28768ee9afcb605456fbfd2908225eb7/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "vladimir ivkovic": {
+    "name": "Vladimir Ivkovic",
+    "updatedAt": "2026-11-25T00:43:39.845Z",
+    "deezer": {
+      "id": 119821082,
+      "link": "https://www.deezer.com/artist/119821082",
+      "picture": "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+      "fans": 13,
+      "top": []
+    }
   }
 }
