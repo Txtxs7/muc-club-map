@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:20:28.046Z",
+  "generatedAt": "2026-11-26T13:52:56.862Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -68,15 +68,6 @@
       "url": "https://ra.co/clubs/118360",
       "lat": 48.13509,
       "lng": 11.57111,
-      "distanceKm": 0
-    },
-    "ra-254906": {
-      "id": "ra-254906",
-      "name": "TAM TAM Treppenbar",
-      "address": "Hildegardstraße 1, 80539 München",
-      "url": "https://ra.co/clubs/254906",
-      "lat": 48.137668,
-      "lng": 11.581877,
       "distanceKm": 0
     },
     "known-zenith": {
@@ -804,45 +795,6 @@
           "key": "spk",
           "name": "SPK",
           "url": null
-        }
-      ]
-    },
-    {
-      "id": "ra-2593894",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-12-03",
-      "title": "AMP GARAGE Party",
-      "start": "21:30",
-      "end": "02:00",
-      "url": "https://ra.co/events/2593894",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "ra-254906",
-      "genres": [
-        "Techno",
-        "Disco"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "amalle",
-          "name": "Amalle",
-          "url": "https://ra.co/dj/amalle",
-          "ig": "___amalle"
-        },
-        {
-          "key": "misery peat",
-          "name": "Misery Peat",
-          "url": "https://ra.co/dj/miserypeat"
         }
       ]
     },
@@ -1599,8 +1551,8 @@
       ],
       "date": "2026-12-12",
       "title": "11 Years Escon Anniversary – Weekender",
-      "start": "23:00",
-      "end": "06:00",
+      "start": "22:00",
+      "end": "05:00",
       "url": "https://ra.co/events/2585176",
       "igUrl": null,
       "flyer": null,
@@ -1874,6 +1826,11 @@
           "name": "Kaufmann",
           "url": "https://ra.co/dj/kaufmann",
           "ig": "kaufmann.unofficial"
+        },
+        {
+          "key": "karlo kurbel",
+          "name": "Karlo Kurbel",
+          "url": "https://ra.co/dj/karlokurbel"
         },
         {
           "key": "lazykid",
