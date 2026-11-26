@@ -7017,5 +7017,90 @@
       "fans": 13,
       "top": []
     }
+  },
+  "amalle": {
+    "name": "Amalle",
+    "updatedAt": "2026-11-26T00:20:43.157Z",
+    "deezer": {
+      "id": 108042752,
+      "link": "https://www.deezer.com/artist/108042752",
+      "picture": "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+      "fans": 22,
+      "top": [
+        {
+          "title": "April",
+          "album": "April",
+          "link": "https://www.deezer.com/track/700366262",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/e/3/2/0/e32851e8697e1950c319e564352cf69c.mp3?hdnea=exp=1795653343~acl=/api/1/1/e/3/2/0/e32851e8697e1950c319e564352cf69c.mp3*~data=user_id=0,application_id=42~hmac=d06d3ac92721c37e32514b2a45f92e0f81f1e19866045de0424efebbfaf9103c",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/5f37dbae7223832e373c0f06739ef261/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Polaroid",
+          "album": "Polaroid",
+          "link": "https://www.deezer.com/track/694872592",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/e/b/0/2eb1ff9471c47a253165c5ca961509e9.mp3?hdnea=exp=1795653343~acl=/api/1/1/2/e/b/0/2eb1ff9471c47a253165c5ca961509e9.mp3*~data=user_id=0,application_id=42~hmac=08ecf6c2d52579a2e4b56e808ac5148f72c3e436464a3d86b26cb4f755768473",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/23ff0a285f79696b63b8f05e1ca78f48/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Midnight in Montreal",
+          "album": "Midnight in Montreal",
+          "link": "https://www.deezer.com/track/475137742",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/0/7/0/b079ec9ca58c52c7b5496177531becd5.mp3?hdnea=exp=1795653343~acl=/api/1/1/b/0/7/0/b079ec9ca58c52c7b5496177531becd5.mp3*~data=user_id=0,application_id=42~hmac=16c13d6beba2d189e425e6db9f330b959ddfa4ca7af1d848e1dc976bd51235ca",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d67345389090ae41990c0f744896e2a5/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "misery peat": {
+    "name": "Misery Peat",
+    "updatedAt": "2026-11-26T00:20:44.195Z",
+    "deezer": null
+  },
+  "solar fake": {
+    "name": "Solar Fake",
+    "updatedAt": "2026-11-26T00:20:44.774Z",
+    "deezer": {
+      "id": 1647261,
+      "link": "https://www.deezer.com/artist/1647261",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/6139f7f1606b357294b9e234d486e20b/250x250-000000-80-0-0.jpg",
+      "fans": 9709,
+      "top": [
+        {
+          "title": "Hurts so Bad",
+          "album": "Don't Push This Button!",
+          "link": "https://www.deezer.com/track/2741902221",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/6/d/6/0/6d6a40d039d9b127e773822abae187c6.mp3?hdnea=exp=1795653345~acl=/api/1/1/6/d/6/0/6d6a40d039d9b127e773822abae187c6.mp3*~data=user_id=0,application_id=42~hmac=942411a87bc8c27adbfd99e7fb4e10c32686105ce59d34a36d774b5388feb61d",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/07a87cc6a721d845f1a63ed5038e2b69/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Until Its Over",
+          "album": "Sedated (Live & Acoustic)",
+          "link": "https://www.deezer.com/track/1756030327",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/9/6/0/996ae3fd4412532011c5f88c1bebda3e.mp3?hdnea=exp=1795653345~acl=/api/1/1/9/9/6/0/996ae3fd4412532011c5f88c1bebda3e.mp3*~data=user_id=0,application_id=42~hmac=d98b0699a273c10116eda95286f97ac31328bff32a2f02cccf72c87386154d9f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3c2b61fd586727e52055b17a25989537/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Not What I Wanted",
+          "album": "Another Manic Episode (Deluxe Edition)",
+          "link": "https://www.deezer.com/track/1755704797",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/b/6/0/9b65b3a763b4e7e1b6076cdb512b53a8.mp3?hdnea=exp=1795653345~acl=/api/1/1/9/b/6/0/9b65b3a763b4e7e1b6076cdb512b53a8.mp3*~data=user_id=0,application_id=42~hmac=de9cf9be2672976fe5a6396be65d2e04df717d2d1fe28fd05f0c32112d6f2093",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3a05a334a5bc288dcdbe34f428249a8b/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Fuck U",
+          "album": "You Win. Who Cares?",
+          "link": "https://www.deezer.com/track/1758710947",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/f/e/0/bfe1351ecb9381fd9f15847ac8fbcdab.mp3?hdnea=exp=1795653345~acl=/api/1/1/b/f/e/0/bfe1351ecb9381fd9f15847ac8fbcdab.mp3*~data=user_id=0,application_id=42~hmac=c765b72091de57b3ad65d4f65440cb197e074791626a86043da3923c52fc95c8",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/3e8decb0db713a91b9df3f82e2ca1848/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Hurts so Bad (Piano Version)",
+          "album": "Silenced (Bonus)",
+          "link": "https://www.deezer.com/track/2750066231",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/9/2/5/0/925c8d1ab7488d8ed812b1934c65b675.mp3?hdnea=exp=1795653345~acl=/api/1/1/9/2/5/0/925c8d1ab7488d8ed812b1934c65b675.mp3*~data=user_id=0,application_id=42~hmac=310770c02cf72190aac0edeb9cbf5017ada4a1dbb9387f717e833b742e982e2a",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/9e959ff2c1f54c9ecad650dcee95e3f7/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:20:00.567Z",
+  "generatedAt": "2026-11-26T00:20:28.046Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -68,6 +68,15 @@
       "url": "https://ra.co/clubs/118360",
       "lat": 48.13509,
       "lng": 11.57111,
+      "distanceKm": 0
+    },
+    "ra-254906": {
+      "id": "ra-254906",
+      "name": "TAM TAM Treppenbar",
+      "address": "Hildegardstraße 1, 80539 München",
+      "url": "https://ra.co/clubs/254906",
+      "lat": 48.137668,
+      "lng": 11.581877,
       "distanceKm": 0
     },
     "known-zenith": {
@@ -213,46 +222,18 @@
       "lat": 48.12921,
       "lng": 11.52905,
       "distanceKm": 4
+    },
+    "known-backstage": {
+      "id": "known-backstage",
+      "name": "Backstage München",
+      "address": "Reitknechtstraße 6, 80639 München",
+      "url": "https://backstage.eu/",
+      "lat": 48.14536,
+      "lng": 11.52182,
+      "distanceKm": 4
     }
   },
   "events": [
-    {
-      "id": "tio-rotesonne-L8xqPHhU",
-      "source": "ticket.io",
-      "sources": [
-        "rotesonne.ticket.io"
-      ],
-      "date": "2026-11-25",
-      "title": "garryklein w/ Alice Dee | Leon Haller",
-      "start": "22:00",
-      "end": "03:00",
-      "url": "https://rotesonne.ticket.io/L8xqPHhU/",
-      "igUrl": null,
-      "flyer": "https://cdn.ticket.io/companies/kbaxtQHy/events/L8xqPHhU/img/holder-1080.jpg?55c6f54b",
-      "venueId": "known-rote-sonne",
-      "genres": [
-        "Techno"
-      ],
-      "styles": [
-        "techno"
-      ],
-      "confidence": "low",
-      "reasons": [
-        "Genre: Techno"
-      ],
-      "artists": [
-        {
-          "key": "alice dee",
-          "name": "Alice Dee",
-          "url": null
-        },
-        {
-          "key": "leon haller",
-          "name": "Leon Haller",
-          "url": null
-        }
-      ]
-    },
     {
       "id": "ra-2570601",
       "source": "ra",
@@ -559,6 +540,33 @@
       ]
     },
     {
+      "id": "ra-2593850",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-28",
+      "title": "Kassel Takeover",
+      "start": "22:00",
+      "end": "04:00",
+      "url": "https://ra.co/events/2593850",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-118360",
+      "genres": [
+        "Tech House",
+        "Minimal Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Minimal Techno"
+      ],
+      "artists": []
+    },
+    {
       "id": "rs-amotik-artifex-chet-rubbs-b2b-goiaba-e2nmn-impendance-b2b-luca-jukic-izzya-melchiorr-nepomuk-stenny-strauss-windfuhr",
       "source": "rotesonne",
       "sources": [
@@ -796,6 +804,45 @@
           "key": "spk",
           "name": "SPK",
           "url": null
+        }
+      ]
+    },
+    {
+      "id": "ra-2593894",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-03",
+      "title": "AMP GARAGE Party",
+      "start": "21:30",
+      "end": "02:00",
+      "url": "https://ra.co/events/2593894",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "ra-254906",
+      "genres": [
+        "Techno",
+        "Disco"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "amalle",
+          "name": "Amalle",
+          "url": "https://ra.co/dj/amalle",
+          "ig": "___amalle"
+        },
+        {
+          "key": "misery peat",
+          "name": "Misery Peat",
+          "url": "https://ra.co/dj/miserypeat"
         }
       ]
     },
@@ -2346,6 +2393,36 @@
           "name": "DJ FM & DJ FREUND",
           "url": "https://ra.co/dj/djfmdjfreund",
           "ig": "electroamore_muc"
+        }
+      ]
+    },
+    {
+      "id": "sm-e2135",
+      "source": "schwarzes-muenchen",
+      "sources": [
+        "Schwarzes München"
+      ],
+      "date": "2027-02-24",
+      "title": "Solar Fake - Silenced Live Acoustic",
+      "start": "20:00",
+      "end": null,
+      "url": "https://schwarzes-muenchen.de/events/details/2135-solar-fake-silenced-live-acoustic",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-backstage",
+      "genres": [],
+      "styles": [
+        "industrial"
+      ],
+      "confidence": "high",
+      "reasons": [
+        "Act: Solar Fake"
+      ],
+      "artists": [
+        {
+          "key": "solar fake",
+          "name": "Solar Fake",
+          "url": null
         }
       ]
     }
