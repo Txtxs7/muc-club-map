@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T13:52:56.862Z",
+  "generatedAt": "2026-11-27T00:34:56.301Z",
   "center": {
     "name": "München Marienplatz",
     "lat": 48.1374,
@@ -7,15 +7,6 @@
   },
   "radiusKm": 100,
   "venues": {
-    "known-bahnwaerter-thiel": {
-      "id": "known-bahnwaerter-thiel",
-      "name": "Bahnwärter Thiel",
-      "address": "Tumblingerstraße 29, 80333 München",
-      "url": "https://ra.co/clubs/112682",
-      "lat": 48.123198,
-      "lng": 11.554813,
-      "distanceKm": 2
-    },
     "known-lieberscholli": {
       "id": "known-lieberscholli",
       "name": "Lieberscholli",
@@ -69,6 +60,24 @@
       "lat": 48.13509,
       "lng": 11.57111,
       "distanceKm": 0
+    },
+    "known-palais": {
+      "id": "known-palais",
+      "name": "Palais Club",
+      "address": "Arnulfstrasse 16-18; 80335 Munich; Germany",
+      "url": "https://ra.co/clubs/8036",
+      "lat": 48.141923,
+      "lng": 11.558182,
+      "distanceKm": 1
+    },
+    "known-bahnwaerter-thiel": {
+      "id": "known-bahnwaerter-thiel",
+      "name": "Bahnwärter Thiel",
+      "address": "Tumblingerstraße 29, 80333 München",
+      "url": "https://ra.co/clubs/112682",
+      "lat": 48.123198,
+      "lng": 11.554813,
+      "distanceKm": 2
     },
     "known-zenith": {
       "id": "known-zenith",
@@ -196,15 +205,6 @@
       "lng": 10.9035,
       "distanceKm": 54
     },
-    "known-palais": {
-      "id": "known-palais",
-      "name": "Palais Club",
-      "address": "Arnulfstraße 16–18, 80335 München",
-      "url": "https://www.palaisclub.de/",
-      "lat": 48.141923,
-      "lng": 11.555377,
-      "distanceKm": 2
-    },
     "known-feierwerk": {
       "id": "known-feierwerk",
       "name": "Feierwerk (Sunny Red / Kranhalle / Hansa 39)",
@@ -225,41 +225,6 @@
     }
   },
   "events": [
-    {
-      "id": "ra-2570601",
-      "source": "ra",
-      "sources": [
-        "Resident Advisor"
-      ],
-      "date": "2026-11-26",
-      "title": "135+ mit Bliss & Intensive Emotions",
-      "start": "22:00",
-      "end": "05:00",
-      "url": "https://ra.co/events/2570601",
-      "igUrl": null,
-      "flyer": null,
-      "venueId": "known-bahnwaerter-thiel",
-      "genres": [],
-      "styles": [
-        "uptempo"
-      ],
-      "confidence": "high",
-      "reasons": [
-        "Stichwort: \"135+\""
-      ],
-      "artists": [
-        {
-          "key": "daniel s",
-          "name": "Daniel S.",
-          "url": "https://ra.co/dj/daniels."
-        },
-        {
-          "key": "dena",
-          "name": "Dena",
-          "url": "https://ra.co/dj/dena"
-        }
-      ]
-    },
     {
       "id": "ra-2584900",
       "source": "ra",
@@ -466,6 +431,33 @@
       ]
     },
     {
+      "id": "ra-2595123",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-28",
+      "title": "HARMONIA FREQUENZA",
+      "start": "01:00",
+      "end": "11:00",
+      "url": "https://ra.co/events/2595123",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-palais",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": []
+    },
+    {
       "id": "ra-2565007",
       "source": "ra",
       "sources": [
@@ -527,6 +519,39 @@
           "name": "Jeyrototo",
           "url": "https://ra.co/dj/jeyrototo",
           "ig": "jeyrototo"
+        }
+      ]
+    },
+    {
+      "id": "ra-2595131",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-11-28",
+      "title": "LANGE NACHT DER RUMPELKAMMER",
+      "start": "21:00",
+      "end": "12:00",
+      "url": "https://ra.co/events/2595131",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-palais",
+      "genres": [
+        "Techno",
+        "Tech House"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "moniczka",
+          "name": "Moniczka",
+          "url": "https://ra.co/dj/moniczka"
         }
       ]
     },
@@ -1949,6 +1974,80 @@
         "Stichwort: \"Hardgroove\""
       ],
       "artists": []
+    },
+    {
+      "id": "ra-2594770",
+      "source": "ra",
+      "sources": [
+        "Resident Advisor"
+      ],
+      "date": "2026-12-25",
+      "title": "Ritual II / Rhythm is Ritual",
+      "start": "15:00",
+      "end": "05:00",
+      "url": "https://ra.co/events/2594770",
+      "igUrl": null,
+      "flyer": null,
+      "venueId": "known-lieberscholli",
+      "genres": [
+        "Techno",
+        "Dub Techno"
+      ],
+      "styles": [
+        "techno"
+      ],
+      "confidence": "low",
+      "reasons": [
+        "Genre: Techno"
+      ],
+      "artists": [
+        {
+          "key": "ignez",
+          "name": "Ignez",
+          "url": "https://ra.co/dj/ignez",
+          "ig": "ignez__"
+        },
+        {
+          "key": "izzya",
+          "name": "IZZYA",
+          "url": "https://ra.co/dj/izzya",
+          "ig": "izzya._"
+        },
+        {
+          "key": "melchiorr",
+          "name": "Melchiorr",
+          "url": "https://ra.co/dj/melchiorr"
+        },
+        {
+          "key": "montague",
+          "name": "Montague",
+          "url": "https://ra.co/dj/montague",
+          "ig": "lucafromspain"
+        },
+        {
+          "key": "punktmidi",
+          "name": "Punktmidi",
+          "url": "https://ra.co/dj/punktmidi",
+          "ig": "punktmidi"
+        },
+        {
+          "key": "nepomuk",
+          "name": "Nepōmuk",
+          "url": "https://ra.co/dj/nepomuk5"
+        },
+        {
+          "key": "seva rosendorfer",
+          "name": "Seva Rosendorfer",
+          "url": "https://ra.co/dj/sevarosendorfer",
+          "ig": "sevarosendorfer"
+        },
+        {
+          "key": "tanjuesch",
+          "name": "tanjuesch",
+          "url": "https://ra.co/dj/tanjuesch",
+          "ig": "tanjuesch"
+        }
+      ]
     },
     {
       "id": "ra-2590071",

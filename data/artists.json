@@ -7107,5 +7107,97 @@
     "name": "Karlo Kurbel",
     "updatedAt": "2026-11-26T13:53:13.182Z",
     "deezer": null
+  },
+  "moniczka": {
+    "name": "Moniczka",
+    "updatedAt": "2026-11-27T00:35:11.388Z",
+    "deezer": null
+  },
+  "ignez": {
+    "name": "Ignez",
+    "updatedAt": "2026-11-27T00:35:11.980Z",
+    "deezer": {
+      "id": 86525062,
+      "link": "https://www.deezer.com/artist/86525062",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/0998d94d2446d1cbd944c2cda0418c30/250x250-000000-80-0-0.jpg",
+      "fans": 804,
+      "top": [
+        {
+          "title": "First Light (Mixed)",
+          "album": "fabric presents Rødhåd (DJ Mix) (Mixed)",
+          "link": "https://www.deezer.com/track/2947328921",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/4/3/b/0/43b7a3b1fe8968ab4241851c915ed934.mp3?hdnea=exp=1795740612~acl=/api/1/1/4/3/b/0/43b7a3b1fe8968ab4241851c915ed934.mp3*~data=user_id=0,application_id=42~hmac=2aeb945a7cd96fba02cd7e3fd7ab1fe5b8a63becf20e8d4d26529221243e4b6c",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/b15653cfa15236300973b52b5507a7ca/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "A Love Dream",
+          "album": "VS10YRS Part Two",
+          "link": "https://www.deezer.com/track/3305872361",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/2/7/9/0/279260e931b23b101cae93cba155a767.mp3?hdnea=exp=1795740612~acl=/api/1/1/2/7/9/0/279260e931b23b101cae93cba155a767.mp3*~data=user_id=0,application_id=42~hmac=bd16007a1009a15e3b047047a5e7a2348e46f6a092ad69f06a9cea36085b5a2d",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/57a18498436a41f874551789517b0b3e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "When We Froze",
+          "album": "When We Froze",
+          "link": "https://www.deezer.com/track/4298557912",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/b/b/6/0/bb6fcc4c1fd0e8bd53d813c312aa7a31.mp3?hdnea=exp=1795740612~acl=/api/1/1/b/b/6/0/bb6fcc4c1fd0e8bd53d813c312aa7a31.mp3*~data=user_id=0,application_id=42~hmac=f1e8a94d78392efaf7188dc5a1201aab22801cabaeb6928662226aeda74325fd",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/d12b38bac8d66e6664f54ec7b74f1e1c/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "N Bound",
+          "album": "SMV015",
+          "link": "https://www.deezer.com/track/3849107121",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/8/b/9/0/8b9b094f1bbc3c87d8ef4f691856350b.mp3?hdnea=exp=1795740612~acl=/api/1/1/8/b/9/0/8b9b094f1bbc3c87d8ef4f691856350b.mp3*~data=user_id=0,application_id=42~hmac=c6f69afbb3c36f62967ef5d724b41ec0db39dac5fcf6d42c2422ddb7cd63a93f",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/e2cc7f218239997f0d365902cfded78e/56x56-000000-80-0-0.jpg"
+        },
+        {
+          "title": "Moonblur",
+          "album": "SMV017",
+          "link": "https://www.deezer.com/track/4033281641",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/d/e/6/0/de69f2805bf29668e713d4db2cea109d.mp3?hdnea=exp=1795740612~acl=/api/1/1/d/e/6/0/de69f2805bf29668e713d4db2cea109d.mp3*~data=user_id=0,application_id=42~hmac=c4b2f40fab3ecada54e74ad3b89fd71494ee003eeb5989476d8a9883651d75aa",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/27e1d3c16c2556e9fafb9135ab2951e4/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "montague": {
+    "name": "Montague",
+    "updatedAt": "2026-11-27T00:35:12.712Z",
+    "deezer": {
+      "id": 430072971,
+      "link": "https://www.deezer.com/artist/430072971",
+      "picture": "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+      "fans": 0,
+      "top": []
+    }
+  },
+  "punktmidi": {
+    "name": "Punktmidi",
+    "updatedAt": "2026-11-27T00:35:13.329Z",
+    "deezer": {
+      "id": 73134262,
+      "link": "https://www.deezer.com/artist/73134262",
+      "picture": "https://cdn-images.dzcdn.net/images/artist/fd777db9edc7ad5046f559ee67fc58ff/250x250-000000-80-0-0.jpg",
+      "fans": 98,
+      "top": [
+        {
+          "title": "Poison",
+          "album": "Poison",
+          "link": "https://www.deezer.com/track/1571012272",
+          "preview": "https://cdnt-preview.dzcdn.net/api/1/1/5/4/b/0/54b37cdc2daa5ecb7d5a0c007490beb4.mp3?hdnea=exp=1795740613~acl=/api/1/1/5/4/b/0/54b37cdc2daa5ecb7d5a0c007490beb4.mp3*~data=user_id=0,application_id=42~hmac=de26f8454d853cb709fa4a0d48035854ec340ab7ec32f8b88fbab257ca4bd3b1",
+          "cover": "https://cdn-images.dzcdn.net/images/cover/fd777db9edc7ad5046f559ee67fc58ff/56x56-000000-80-0-0.jpg"
+        }
+      ]
+    }
+  },
+  "seva rosendorfer": {
+    "name": "Seva Rosendorfer",
+    "updatedAt": "2026-11-27T00:35:13.990Z",
+    "deezer": null
+  },
+  "tanjuesch": {
+    "name": "tanjuesch",
+    "updatedAt": "2026-11-27T00:35:14.449Z",
+    "deezer": null
   }
 }
